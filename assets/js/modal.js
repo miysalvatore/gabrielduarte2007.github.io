@@ -5,18 +5,23 @@ const body = $('body');
 const modal = $('#project_details');
 
 const hideModal = (popped) => {
-    modal.hide();
+    const modalContent = $('.modal-content');
+    modalContent.animate({
+        'opacity': 0
+    }, 600, () => {
+        modal.hide();
 
-    modal.find('iframe').each(function () {
-        $(this).attr('src', $(this).attr('src'));
+        modal.find('iframe').each(function () {
+            $(this).attr('src', $(this).attr('src'));
+        });
+
+        $('body').removeClass('modal-open');
+
+        if (!popped) {
+            const url = new URL(document.URL);
+            history.pushState({}, null, url.origin + url.pathname);
+        }
     });
-
-    body.css('overflow', 'auto');
-
-    if (!popped) {
-        const url = new URL(document.URL);
-        history.pushState({}, null, url.origin + url.pathname);
-    }
 };
 
 // When the user clicks anywhere outside of the modal, close it

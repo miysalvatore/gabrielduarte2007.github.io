@@ -1,3 +1,9 @@
+body.modal-open {
+    width: 100%;
+    position: fixed;
+    overflow-y: scroll;
+}
+
 .hide {
     display: none !important;
 }

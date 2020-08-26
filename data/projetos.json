@@ -1,10 +1,10 @@
 [
   {
     "id": "Accor - Pandemia",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Accor",
+    "subtitulo": "Pandemia",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/RmBnwXXeucQ",
     "tags": [
       "Acolhedor",
       "Hospitaleiro",
@@ -21,10 +21,10 @@
   },
   {
     "id": "Adria - Dia dos Pais",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Adria",
+    "subtitulo": "Dia dos Pais",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/uH4MDR-kPHA",
     "tags": [
       "Pai",
       "Alegre",
@@ -39,10 +39,10 @@
   },
   {
     "id": "Adyen - O que é um adquirente",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Adyen",
+    "subtitulo": "O que é um adquirente",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/cLoLo-0BwXg",
     "tags": [
       "Tutorial",
       "Explicando",
@@ -58,12 +58,11 @@
     ]
   },
   {
-    "id": "Ali Express - 11.11 Sonhando acordado",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "Ali Express - 11.11 - Sonhando acordado",
+    "titulo": "Ali Express",
+    "subtitulo": "Sonhando Acordado",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Q6E3LhePczo",
     "tags": [
       "Sonhador",
       "Engraçado",
@@ -78,12 +77,11 @@
     ]
   },
   {
-    "id": "Amazon Prime Video - Grandes Estrelas",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "Amazon Prime - Grandes Estrelas",
+    "titulo": "Amazon Prime Video",
+    "subtitulo": "Grandes Estrelas",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Q6E3LhePczo",
     "tags": [
       "Trailer",
       "Credibilidade",
@@ -100,56 +98,113 @@
   },
   {
     "id": "Anhanguera - Apreendedores",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Anhanguera",
+    "subtitulo": "Apreendedores",
     "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "soundcloud": "<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162353&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gabrielduarte" title="Gabriel Duarte - Locutor" target="_blank" style="color: #cccccc; text-decoration: none;">Gabriel Duarte - Locutor</a> · <a href="https://soundcloud.com/gabrielduarte/anhanguera-apreendedores" title="Anhanguera - Apreendedores" target="_blank" style="color: #cccccc; text-decoration: none;">Anhanguera - Apreendedores</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-fkGFqD5x0hypn8z0-9lTpbg-t500x500.jpg",
     "tags": [
-      
+      "Apresentação",
+      "Palestra",
+      "Inspirador",
+      "Coach",
+      "Ensinando",
+      "Professor",
+      "Motivacional",
+      "Interpretado",
+      "Faculdade",
+      "Universidade",
+      "Instituição de Ensino",
+      "Ensino Superior",
+      "Seguro"
     ]
   },
   {
     "id": "Anhembi - EAD.br",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Anhembi",
+    "subtitulo": "EAD.br",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/jivriNpjqjE",
     "tags": [
-      
+      "Tranquilo",
+      "Simpático",
+      "Amigo",
+      "Sonhador",
+      "Leve",
+      "Motivador",
+      "Faculdade",
+      "Universidade",
+      "Instituição de Ensino",
+      "Ensino Superior",
+      "Institucional",
+      "Escolhas",
+      "Carreira"
     ]
   },
   {
     "id": "Ascensia - Contour Plus",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Ascensia",
+    "subtitulo": "Contour Plus",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/FILFEHahI4I",
     "tags": [
-      
+      "Farmacêutica",
+      "Descritivo",
+      "Padrão",
+      "Remédio",
+      "Saúde",
+      "Controle",
+      "Credibilidade",
+      "Médico",
+      "Tranquilo",
+      "Oficial",
+      "Bayer",
+      "Banco de imagem"
     ]
   },
   {
     "id": "Athletico Mineiro - Viva o Furacão",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Athletico Mineiro",
+    "subtitulo": "Viva o Furacão",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/ZhbOb67Ctcs",
     "tags": [
-      
+      "Grave",
+      "Rouco",
+      "Coloquial",
+      "Voz normal",
+      "Comum",
+      "Futebol",
+      "Torcedor",
+      "Baixo",
+      "Pensamento",
+      "Paixão",
+      "Emocionante",
+      "Time",
+      "Crescendo",
+      "Ator",
+      "Flat",
+      "Motivacional",
+      "Clube"
     ]
   },
   {
     "id": "Avengers - Guerra Contra o Banho Sem Graça - Impala",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Avengers",
+    "subtitulo": "Guerra Contra o Banho Sem Graça",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/aYDWioxWlY0",
     "tags": [
-      
+      "Criança",
+      "Promoção",
+      "Rápido",
+      "Vendedor",
+      "Varejo",
+      "Promocional",
+      "Agudo",
+      "Infantil",
+      "Brinquedo",
+      "Alto"
     ]
   },
   {
@@ -157,10 +212,24 @@
     "titulo": "",
     "subtitulo": "",
     "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "soundcloud": "<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gabrielduarte" title="Gabriel Duarte - Locutor" target="_blank" style="color: #cccccc; text-decoration: none;">Gabriel Duarte - Locutor</a> · <a href="https://soundcloud.com/gabrielduarte/azul-caipira-contador-de-historias" title="Azul - Contador De Historias" target="_blank" style="color: #cccccc; text-decoration: none;">Azul - Contador De Historias</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
     "tags": [
-      
+      "Sotaque",
+      "Caipira",
+      "Mentiroso",
+      "Ator",
+      "Poeta",
+      "Poesia",
+      "Mágico",
+      "Falado",
+      "Recitado",
+      "Coloquial",
+      "Tranquilo",
+      "Regional",
+      "Relaxado",
+      "Storytelling",
+      "Storyteller"
     ]
   },
   {

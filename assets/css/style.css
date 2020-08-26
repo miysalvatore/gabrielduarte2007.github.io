@@ -1,0 +1,119 @@
+.hide {
+    display: none !important;
+}
+
+.project__button {
+    margin: 5px 5px;
+    text-transform: none;
+    letter-spacing: inherit;
+    height: 30px;
+    line-height: 30px;
+    font-weight: normal;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: inset 0 0 0 1px #585858;
+    width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+    .project__button {
+        width: auto;
+    }
+}
+
+.project-share-search {
+    margin-top: 10px;
+}
+
+.project-share-search .project__share_link {
+    width: 500px;
+    margin-left: 10px;
+    height: 30px;
+    padding-left: 8px;
+}
+
+.project-share-search .project__share_link input {
+    font-size: 14px;
+    height: 29px;
+    width: 100% !important;
+}
+
+.project-share-search-wrapper {
+    display: none;
+}
+
+@media only screen and (min-width: 600px) {
+    .project-share-search-wrapper {
+        position: relative;
+        width: 100%;
+    }
+
+    .project-share-search {
+        display: flex;
+        position: absolute;
+        margin-left: 50px;
+    }
+}
+
+.project-share-search__button {
+    margin: 0;
+    box-shadow: none;
+    border: 1px solid #cccccc;
+}
+
+.project__button .fa {
+    margin-right: 5px;
+}
+
+.project-search__button {
+    display: none !important;
+}
+
+.project__share_buttons {
+    margin-top: 10px;
+}
+
+.project__share_link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    max-width: 100%;
+    background: #fafafa;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+}
+
+.project__share_link .project__search-share_link_copy,
+.project__share_link .project__share_link_copy {
+    text-transform: uppercase;
+    color: #065fd4;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.project__share_link input[type="text"].project__search_share_link_url,
+.project__share_link input[type="text"].project__share_link_url {
+    width: 500px;
+    max-width: 100%;
+}
+
+input[type="text"] {
+    margin: 0 8px;
+}
+
+#soundcloud_iframe_wrapper,
+#youtube_iframe_wrapper,
+#youtube_iframe,
+#project_base {
+    display: none;
+}
+
+#youtube_iframe_wrapper > iframe {
+    display: block;
+}
+
+.link-icon:before {
+    content: "\f064";
+}

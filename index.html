@@ -1,1 +1,245 @@
-Index
+<!DOCTYPE HTML>
+<!--
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title>Gabriel Duarte - Portfólio de Locução</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+
+    <!-- Libraries -->
+    <link rel="stylesheet" href="assets/css/popover.css"/>
+
+    <link href="assets/css/material-icons.css" rel="stylesheet">
+    <!--    <link rel="stylesheet" href="assets/css/materialize.min.css">-->
+
+    <link href="assets/css/chips.css" rel="stylesheet">
+
+    <!-- Template -->
+
+    <link rel="stylesheet" href="assets/css/main.css"/>
+
+    <noscript>
+        <link rel="stylesheet" href="assets/css/noscript.css"/>
+    </noscript>
+
+    <!-- Custom -->
+
+    <link rel="stylesheet" href="assets/css/modal.css"/>
+    <link rel="stylesheet" href="assets/css/style.css"/>
+</head>
+<body class="is-preload">
+
+<div id="project_details" class="modal">
+
+    <div class="modal-content" align="center">
+
+        <!-- Soundcloud Iframe-->
+        <div id="soundcloud_iframe_wrapper"></div>
+
+        <!--YouTube Iframe-->
+        <div id="youtube_iframe_wrapper"></div>
+
+        <iframe id="youtube_iframe" width="100%" height="500" src="" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+
+        <div class="project__share_buttons">
+            <a class="button project__button project__share_buttons-link"><span class="fa link-icon"></span>
+                Compartilhar Link</a>
+            <a id="media_video_button" class="button project__button"><span class="fa fa-download"></span> Baixar Vídeo</a>
+            <a id="media_audio_button" class="button project__button"><span class="fa fa-download"></span> Baixar Áudio</a>
+        </div>
+
+        <div class="project__share_link project__share_link--project">
+            <input type="text"
+                   class="project__share_link_url"
+                   readonly
+                   value=""/>
+
+            <div class="project__share_link_copy"
+                 data-container="body"
+                 data-toggle="popover"
+                 data-placement="right"
+                 data-offset="0, 10"
+                 data-content="Link copiado para a área de transferência.">
+                Copiar
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+
+        <h1>Gabriel Duarte</h1>
+        <span class="title logo">- Portfólio de locução -</span>
+        <section>
+            <ul class="icons">
+                <li>
+                    <a href="https://api.whatsapp.com/send/?phone=5511986686443" target="_blank"
+                       class="icon brands style2 fa-whatsapp"><span class="label">Whatsapp</span></a>
+                </li>
+                <li>
+                    <a href="tel:5511986686443"
+                       class="icon solid style2 fa-phone"><span class="label">Telefone</span></a>
+                </li>
+                <li>
+                    <a href="mailto:presto.gabriel@gmail.com"
+                       class="icon solid style2 fa-envelope"><span class="label">E-mail</span></a>
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/gabrielduarte2007"
+                       target="_blank"
+                       class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/gabrielduarte_loc/"
+                       target="_blank"
+                       class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a>
+                </li>
+                <li>
+                    <a href="https://soundcloud.com/gabrielduarte"
+                       target="_blank"
+                       class="icon brands style2 fa-soundcloud"><span class="label">Soundcloud</span></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCbrKBu8AyztZCIW0u7R_42A"
+                       target="_blank"
+                       class="icon brands style2 fa-youtube"><span class="label">YouTube</span></a>
+                </li>
+            </ul>
+        </section>
+
+    </header>
+
+    <!-- Main -->
+    <div id="main">
+
+        <div class="inner">
+            <div class="project-search">
+                <span class="icon solid search-icon style2 fa-search label"></span>
+
+                <div class="chips chips-autocomplete"></div>
+
+                <input type="button"
+                       class="project-search__button primary"
+                       value="Buscar"/>
+            </div>
+
+            <div class="project-share-search-wrapper">
+                <div class="project-share-search">
+                    <a class="button project__button project-share-search__button"><span class="fa link-icon"></span>
+                        Compartilhe essa busca</a>
+
+                    <div class="project__share_link project__share_link--search">
+                        <div class="project__search-share_link_copy"
+                             data-container="body"
+                             data-toggle="popover"
+                             data-placement="top"
+                             data-offset="0, 10"
+                             data-content="Link copiado para a área de transferência.">
+                            Copiar
+                        </div>
+
+                        <input type="text"
+                               class="project__search_share_link_url"
+                               readonly
+                               value=""/>
+                    </div>
+                </div>
+            </div>
+
+            <section class="tiles">
+
+                <article id="project_base" class="project">
+                    <div class="image">
+                        <div class="project__image"></div>
+                    </div>
+
+                    <a href="#" class="link">
+                        <h2 class="project__title">Title</h2>
+                        <h3 class="project__subtitle">Subtitle</h3>
+                    </a>
+
+                    <div class="content project__tags">
+                        <a class="tag project__tag">Tag</a>
+                    </div>
+                </article>
+
+            </section>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="inner">
+            <ul class="copyright">
+                <li>&copy; Gabriel Duarte. Todos os direitos reservados</li>
+            </ul>
+        </div>
+    </footer>
+
+</div>
+
+<!-- Libraries -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="assets/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+<script src="assets/js/jquery.fileDownload.js"></script>
+<script src="assets/js/download.js"></script>
+<script src="assets/js/materialize.min.js"></script>
+
+<!-- Template Scripts -->
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+
+<!-- Custom scripts -->
+<script src="assets/js/modal.js"></script>
+<script src="assets/js/layout.js"></script>
+<script src="assets/js/projects.js"></script>
+
+<!-- Hotjar -->
+<script>
+    (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function () {
+            (h.hj.q = h.hj.q || []).push(arguments)
+        };
+        h._hjSettings = {hjid: 1961038, hjsv: 6};
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script');
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+</script>
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176390028-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-176390028-1');
+</script>
+
+</body>
+</html>

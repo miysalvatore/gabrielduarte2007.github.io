@@ -1,0 +1,788 @@
+[
+  {
+    "nome": "Banco",
+    "alias": [
+      "Banko"
+    ]
+  },
+  {
+    "nome": "Farmacêutico",
+    "alias": []
+  },
+  {
+    "nome": "Cerveja",
+    "alias": []
+  },
+  {
+    "nome": "Combustível",
+    "alias": []
+  },
+  {
+    "nome": "Comida - Bebida",
+    "alias": []
+  },
+  {
+    "nome": "Educação",
+    "alias": []
+  },
+  {
+    "nome": "Moda",
+    "alias": []
+  },
+  {
+    "nome": "TI",
+    "alias": []
+  },
+  {
+    "nome": "Construção",
+    "alias": []
+  },
+  {
+    "nome": "Shopping",
+    "alias": []
+  },
+  {
+    "nome": "Operadora",
+    "alias": []
+  },
+  {
+    "nome": "Loja",
+    "alias": []
+  },
+  {
+    "nome": "Governo",
+    "alias": []
+  },
+  {
+    "nome": "Canal de TV",
+    "alias": []
+  },
+  {
+    "nome": "Supermercado",
+    "alias": []
+  },
+  {
+    "nome": "Unifebe",
+    "alias": []
+  },
+  {
+    "nome": "Unisc",
+    "alias": []
+  },
+  {
+    "nome": "Abys",
+    "alias": []
+  },
+  {
+    "nome": "Aço Maranhão",
+    "alias": []
+  },
+  {
+    "nome": "Aduana",
+    "alias": []
+  },
+  {
+    "nome": "AES",
+    "alias": []
+  },
+  {
+    "nome": "Água da Pedra",
+    "alias": []
+  },
+  {
+    "nome": "Allin",
+    "alias": []
+  },
+  {
+    "nome": "Alphaville",
+    "alias": []
+  },
+  {
+    "nome": "Alumasa",
+    "alias": []
+  },
+  {
+    "nome": "Ambev",
+    "alias": []
+  },
+  {
+    "nome": "Argo",
+    "alias": []
+  },
+  {
+    "nome": "Artex",
+    "alias": []
+  },
+  {
+    "nome": "Atlético",
+    "alias": []
+  },
+  {
+    "nome": "Bayer",
+    "alias": []
+  },
+  {
+    "nome": "Banco do Brasil",
+    "alias": []
+  },
+  {
+    "nome": "Bd Maxzero",
+    "alias": []
+  },
+  {
+    "nome": "Bonduelle",
+    "alias": []
+  },
+  {
+    "nome": "Brasilprev",
+    "alias": []
+  },
+  {
+    "nome": "Brf",
+    "alias": []
+  },
+  {
+    "nome": "Bv Financeira",
+    "alias": []
+  },
+  {
+    "nome": "Canoas Shopping",
+    "alias": []
+  },
+  {
+    "nome": "C&c",
+    "alias": []
+  },
+  {
+    "nome": "Ccee",
+    "alias": []
+  },
+  {
+    "nome": "Centrum",
+    "alias": []
+  },
+  {
+    "nome": "Cheerios",
+    "alias": []
+  },
+  {
+    "nome": "Cielo",
+    "alias": []
+  },
+  {
+    "nome": "Cleanance",
+    "alias": []
+  },
+  {
+    "nome": "Coca Cola",
+    "alias": []
+  },
+  {
+    "nome": "Colombo",
+    "alias": []
+  },
+  {
+    "nome": "Comerc",
+    "alias": []
+  },
+  {
+    "nome": "Dalboni",
+    "alias": []
+  },
+  {
+    "nome": "Deleiev",
+    "alias": []
+  },
+  {
+    "nome": "Delloit",
+    "alias": []
+  },
+  {
+    "nome": "Dermarrige",
+    "alias": []
+  },
+  {
+    "nome": "Detran",
+    "alias": []
+  },
+  {
+    "nome": "Dia",
+    "alias": []
+  },
+  {
+    "nome": "Dib",
+    "alias": []
+  },
+  {
+    "nome": "Duratex",
+    "alias": []
+  },
+  {
+    "nome": "Einstein",
+    "alias": []
+  },
+  {
+    "nome": "Etios",
+    "alias": []
+  },
+  {
+    "nome": "Etna",
+    "alias": []
+  },
+  {
+    "nome": "Eucon",
+    "alias": []
+  },
+  {
+    "nome": "Fanta",
+    "alias": []
+  },
+  {
+    "nome": "Ferreto",
+    "alias": []
+  },
+  {
+    "nome": "Diat",
+    "alias": []
+  },
+  {
+    "nome": "For Rental",
+    "alias": []
+  },
+  {
+    "nome": "Friboi",
+    "alias": []
+  },
+  {
+    "nome": "Frontline",
+    "alias": []
+  },
+  {
+    "nome": "Fundação Vw",
+    "alias": []
+  },
+  {
+    "nome": "Vc",
+    "alias": []
+  },
+  {
+    "nome": "Gafisa",
+    "alias": []
+  },
+  {
+    "nome": "Gm ",
+    "alias": []
+  },
+  {
+    "nome": "Tracker",
+    "alias": []
+  },
+  {
+    "nome": "Google",
+    "alias": []
+  },
+  {
+    "nome": "Harpvida",
+    "alias": []
+  },
+  {
+    "nome": "Ifood",
+    "alias": []
+  },
+  {
+    "nome": "Iplace",
+    "alias": []
+  },
+  {
+    "nome": "Honda",
+    "alias": []
+  },
+  {
+    "nome": "Hilux",
+    "alias": []
+  },
+  {
+    "nome": "Ease",
+    "alias": []
+  },
+  {
+    "nome": "Italianos da Serra",
+    "alias": []
+  },
+  {
+    "nome": "Itau",
+    "alias": []
+  },
+  {
+    "nome": "Itaucard",
+    "alias": []
+  },
+  {
+    "nome": "Jornalismo",
+    "alias": []
+  },
+  {
+    "nome": "Khan Academy",
+    "alias": []
+  },
+  {
+    "nome": "La Salle",
+    "alias": []
+  },
+  {
+    "nome": "Leader",
+    "alias": []
+  },
+  {
+    "nome": "Luigi Bertolli",
+    "alias": []
+  },
+  {
+    "nome": "Mb Lojas",
+    "alias": []
+  },
+  {
+    "nome": "Mmartan",
+    "alias": []
+  },
+  {
+    "nome": "Mobuss",
+    "alias": []
+  },
+  {
+    "nome": "Moove",
+    "alias": []
+  },
+  {
+    "nome": "Motorola",
+    "alias": []
+  },
+  {
+    "nome": "Next",
+    "alias": []
+  },
+  {
+    "nome": "Net",
+    "alias": []
+  },
+  {
+    "nome": "Claro",
+    "alias": []
+  },
+  {
+    "nome": "Nutella",
+    "alias": []
+  },
+  {
+    "nome": "Odata",
+    "alias": []
+  },
+  {
+    "nome": "Oi",
+    "alias": []
+  },
+  {
+    "nome": "Olimpiada",
+    "alias": []
+  },
+  {
+    "nome": "OLX",
+    "alias": []
+  },
+  {
+    "nome": "Onlearning",
+    "alias": []
+  },
+  {
+    "nome": "Phillips",
+    "alias": []
+  },
+  {
+    "nome": "Plutonia",
+    "alias": []
+  },
+  {
+    "nome": "Pullman",
+    "alias": []
+  },
+  {
+    "nome": "Record",
+    "alias": []
+  },
+  {
+    "nome": "Renner",
+    "alias": []
+  },
+  {
+    "nome": "Prefeitura do Rio de Janeiro",
+    "alias": []
+  },
+  {
+    "nome": "Saizen",
+    "alias": []
+  },
+  {
+    "nome": "Samsung",
+    "alias": []
+  },
+  {
+    "nome": "Sciath",
+    "alias": []
+  },
+  {
+    "nome": "Seara",
+    "alias": []
+  },
+  {
+    "nome": "Sebrae",
+    "alias": []
+  },
+  {
+    "nome": "Secretaria de Educação",
+    "alias": []
+  },
+  {
+    "nome": "Shell",
+    "alias": []
+  },
+  {
+    "nome": "Sispae",
+    "alias": []
+  },
+  {
+    "nome": "Skol",
+    "alias": []
+  },
+  {
+    "nome": "Smav",
+    "alias": []
+  },
+  {
+    "nome": "Feira de Inverno",
+    "alias": []
+  },
+  {
+    "nome": "Sonotop",
+    "alias": []
+  },
+  {
+    "nome": "Souza Cruz",
+    "alias": []
+  },
+  {
+    "nome": "Tecshoes",
+    "alias": []
+  },
+  {
+    "nome": "Tenis Pe",
+    "alias": []
+  },
+  {
+    "nome": "Trident",
+    "alias": []
+  },
+  {
+    "nome": "Udv",
+    "alias": []
+  },
+  {
+    "nome": "União do Vegetal",
+    "alias": []
+  },
+  {
+    "nome": "Unilasalle",
+    "alias": []
+  },
+  {
+    "nome": "Einthemarket",
+    "alias": []
+  },
+  {
+    "nome": "Wwf",
+    "alias": []
+  },
+  {
+    "nome": "Yazigi",
+    "alias": []
+  },
+  {
+    "nome": "Youse",
+    "alias": []
+  },
+  {
+    "nome": "Youth Concept",
+    "alias": []
+  },
+  {
+    "nome": "Sundown",
+    "alias": []
+  },
+  {
+    "nome": "Tutorial",
+    "alias": []
+  },
+  {
+    "nome": "Inspiracional",
+    "alias": []
+  },
+  {
+    "nome": "Motivacional",
+    "alias": []
+  },
+  {
+    "nome": "Institucional",
+    "alias": []
+  },
+  {
+    "nome": "Pesquisa",
+    "alias": []
+  },
+  {
+    "nome": "Animatic",
+    "alias": []
+  },
+  {
+    "nome": "Animação",
+    "alias": []
+  },
+  {
+    "nome": "Narramatic",
+    "alias": []
+  },
+  {
+    "nome": "Wip",
+    "alias": []
+  },
+  {
+    "nome": "Concorrência",
+    "alias": []
+  },
+  {
+    "nome": "Comercial",
+    "alias": []
+  },
+  {
+    "nome": "Spot de Rádio",
+    "alias": []
+  },
+  {
+    "nome": "Varejo",
+    "alias": []
+  },
+  {
+    "nome": "Assinatura",
+    "alias": []
+  },
+  {
+    "nome": "Case",
+    "alias": []
+  },
+  {
+    "nome": "Internet",
+    "alias": []
+  },
+  {
+    "nome": "Sério",
+    "alias": []
+  },
+  {
+    "nome": "Feliz",
+    "alias": []
+  },
+  {
+    "nome": "Esperança",
+    "alias": []
+  },
+  {
+    "nome": "Mágico",
+    "alias": []
+  },
+  {
+    "nome": "Descolado",
+    "alias": []
+  },
+  {
+    "nome": "Ator",
+    "alias": []
+  },
+  {
+    "nome": "Rápido",
+    "alias": []
+  },
+  {
+    "nome": "Lento",
+    "alias": []
+  },
+  {
+    "nome": "Folgado",
+    "alias": []
+  },
+  {
+    "nome": "Alegre",
+    "alias": []
+  },
+  {
+    "nome": "Vendedor",
+    "alias": []
+  },
+  {
+    "nome": "Forte",
+    "alias": []
+  },
+  {
+    "nome": "Relax",
+    "alias": []
+  },
+  {
+    "nome": "Relaxado",
+    "alias": []
+  },
+  {
+    "nome": "Blasé",
+    "alias": []
+  },
+  {
+    "nome": "Simpático",
+    "alias": []
+  },
+  {
+    "nome": "De bem com a vida",
+    "alias": []
+  },
+  {
+    "nome": "Coloquial",
+    "alias": []
+  },
+  {
+    "nome": "Cool",
+    "alias": []
+  },
+  {
+    "nome": "Moderno",
+    "alias": []
+  },
+  {
+    "nome": "Ensinando",
+    "alias": []
+  },
+  {
+    "nome": "Professor",
+    "alias": []
+  },
+  {
+    "nome": "Explicando",
+    "alias": []
+  },
+  {
+    "nome": "Voz Original",
+    "alias": []
+  },
+  {
+    "nome": "Caricato",
+    "alias": []
+  },
+  {
+    "nome": "Personagem",
+    "alias": []
+  },
+  {
+    "nome": "Interpretado",
+    "alias": []
+  },
+  {
+    "nome": "Emocionante",
+    "alias": []
+  },
+  {
+    "nome": "Oficial",
+    "alias": []
+  },
+  {
+    "nome": "Pesado",
+    "alias": []
+  },
+  {
+    "nome": "Grave",
+    "alias": []
+  },
+  {
+    "nome": "Agudo",
+    "alias": []
+  },
+  {
+    "nome": "Gritando",
+    "alias": []
+  },
+  {
+    "nome": "Energia",
+    "alias": []
+  },
+  {
+    "nome": "Energético",
+    "alias": []
+  },
+  {
+    "nome": "Sotaque",
+    "alias": []
+  },
+  {
+    "nome": "Sotaque Neutro",
+    "alias": []
+  },
+  {
+    "nome": "Mineiro",
+    "alias": []
+  },
+  {
+    "nome": "Contador de Histórias",
+    "alias": []
+  },
+  {
+    "nome": "Jovem",
+    "alias": []
+  },
+  {
+    "nome": "Velho",
+    "alias": []
+  },
+  {
+    "nome": "Homem",
+    "alias": []
+  },
+  {
+    "nome": "Flat",
+    "alias": []
+  },
+  {
+    "nome": "Tranquilo",
+    "alias": []
+  },
+  {
+    "nome": "Falado",
+    "alias": []
+  },
+  {
+    "nome": "Descritivo",
+    "alias": []
+  },
+  {
+    "nome": "Caipira",
+    "alias": []
+  },
+  {
+    "nome": "Português",
+    "alias": []
+  },
+  {
+    "nome": "Francês",
+    "alias": []
+  },
+  {
+    "nome": "Espanhol",
+    "alias": []
+  },
+  {
+    "nome": "Inglês",
+    "alias": []
+  }
+]

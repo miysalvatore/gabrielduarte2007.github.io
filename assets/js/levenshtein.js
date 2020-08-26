@@ -11,20 +11,18 @@ const levenshteinDistance = function (a, b) {
     const matrix = [];
 
     // Increment along the first column of each row
-    let i;
     for (i = 0; i <= b.length; i++) {
         matrix[i] = [i];
     }
 
     // Increment each column in the first row
-    let j;
-    for (j = 0; j <= a.length; j++) {
+    for (let j = 0; j <= a.length; j++) {
         matrix[0][j] = j;
     }
 
     // Fill in the rest of the matrix
-    for (i = 1; i <= b.length; i++) {
-        for (j = 1; j <= a.length; j++) {
+    for (let i = 1; i <= b.length; i++) {
+        for (let j = 1; j <= a.length; j++) {
             if (b.charAt(i - 1) === a.charAt(j - 1)) {
                 matrix[i][j] = matrix[i - 1][j - 1];
             } else {
@@ -37,5 +35,3 @@ const levenshteinDistance = function (a, b) {
 
     return matrix[b.length][a.length];
 };
-
-console.log(levenshteinDistance('paulo', 'paulaaa'));

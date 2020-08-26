@@ -265,21 +265,23 @@ const createProjectElement = (project, index) => {
     // Try to load image high res
 
     if (!project.imagem) {
-        setTimeout(() => {
-            const highResImageUrl = getYouTubeImageUrl(project, true);
+        $(function () {
+            setTimeout(() => {
+                const highResImageUrl = getYouTubeImageUrl(project, true);
 
-            const img = new Image();
+                const img = new Image();
 
-            img.onload = () => {
-                if (img.width > 480) {
-                    imageElement
-                        .find('.project__image')
-                        .css('background-image', `url('${highResImageUrl}')`);
-                }
-            };
+                img.onload = () => {
+                    if (img.width > 480) {
+                        imageElement
+                            .find('.project__image')
+                            .css('background-image', `url('${highResImageUrl}')`);
+                    }
+                };
 
-            img.src = highResImageUrl;
-        }, 100);
+                img.src = highResImageUrl;
+            }, 300);
+        });
     }
 
     // Title and subtitle

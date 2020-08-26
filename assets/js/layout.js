@@ -122,7 +122,7 @@ $(function () {
     searchShareLinkCopy.on('click', function (event) {
         searchShareLinkCopy.popover('show');
 
-        selectProjectUrlInput();
+        selectSearchUrlInput();
 
         document.execCommand('copy'); // Copy the text inside the text field
 

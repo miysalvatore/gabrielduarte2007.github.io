@@ -2,6 +2,8 @@
 
 const visibleTagsAmount = 3;
 
+const levenshteinFactor = 2;
+
 const mediaBaseUrl = 'https://github.com/paulosalvatore/GabrielDuarte/raw/master/media';
 const getProxyUrl = url => `https://cors-anywhere.herokuapp.com/${url}`;
 
@@ -97,6 +99,10 @@ const loadMediaUrl = (project, mediaType) => {
 };
 
 const downloadAudio = (project) => {
+    const audioIcon = audioButton.find('.fa');
+    const originalClasses = audioIcon.attr('class');
+    audioIcon.attr('class', 'fa fa-spinner fa-spin');
+
     const url = loadMediaUrl(project, 'AUDIO');
 
     const x = new XMLHttpRequest();
@@ -106,16 +112,38 @@ const downloadAudio = (project) => {
     x.onload = () => {
         if (x.response.type === 'audio/mpeg') {
             download(x.response, `${project.id}.mp3`, 'audio/mpeg');
+        } else {
+            alert('Falha ao baixar o arquivo de áudio.');
         }
+
+        audioIcon.attr('class', originalClasses);
     };
 
     x.send();
 };
 
 const downloadVideo = project => {
+    const videoIcon = videoButton.find('.fa');
+    const originalClasses = videoIcon.attr('class');
+    videoIcon.attr('class', 'fa fa-spinner fa-spin');
+
     const url = loadMediaUrl(project, 'VIDEO');
 
-    $.fileDownload(url);
+    const x = new XMLHttpRequest();
+    x.open('GET', getProxyUrl(url), true);
+    x.responseType = 'blob';
+
+    x.onload = () => {
+        if (x.response.type === 'application/octet-stream') {
+            download(x.response, `${project.id}.mp4`, 'application/octet-stream');
+        } else {
+            alert('Falha ao baixar o arquivo de vídeo.');
+        }
+
+        videoIcon.attr('class', originalClasses);
+    };
+
+    x.send();
 };
 
 // Modal
@@ -189,9 +217,18 @@ const showModal = project => {
 
     // Display modal and hide body's overflow
 
+    const modalContent = $('.modal-content');
+    modalContent.css({
+        'opacity': 0
+    });
+
     projectDetailsModal.show();
 
-    $('body').css('overflow', 'hidden');
+    modalContent.animate({
+        'opacity': 1
+    })
+
+    $('body').addClass('modal-open');
 };
 
 // Projects Elements
@@ -403,7 +440,10 @@ const loadAutocomplete = () => {
                 const found =
                     splitTags.every(tag =>
                         keywords.some(keyword =>
-                            clearString(keyword).includes(clearString(tag))));
+                            clearString(keyword).includes(clearString(tag))
+                            || levenshteinDistance(clearString(keyword), clearString(tag)) <= levenshteinFactor
+                        )
+                    );
 
                 if (found) {
                     acc.push(project);

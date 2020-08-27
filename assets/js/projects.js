@@ -4,7 +4,7 @@ const visibleTagsAmount = 3;
 
 const levenshteinFactor = 2;
 
-const mediaBaseUrl = 'https://github.com/paulosalvatore/GabrielDuarte/raw/master/media';
+const mediaBaseUrl = 'https://github.com/gabrielduarte2007/gabrielduarte2007.github.io/raw/master/media';
 const getProxyUrl = url => `https://cors-anywhere.herokuapp.com/${url}`;
 
 // Load JSON data

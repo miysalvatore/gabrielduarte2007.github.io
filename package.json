@@ -1,0 +1,14 @@
+{
+  "name": "GabrielDuarteLocutor",
+  "version": "1.0.0",
+  "description": "Gabriel Duarte - Locutor",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  }
+}

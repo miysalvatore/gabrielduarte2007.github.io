@@ -91,7 +91,7 @@
     "titulo": "Amazon Prime Video",
     "subtitulo": "Grandes Estrelas",
     "tipo": "VIDEO",
-    "youtube": "https://youtu.be/Q6E3LhePczo",
+    "youtube": "https://youtu.be/CWGIsYA2DS0",
     "principal":true,
     "tags": [
       "Trailer",
@@ -1142,8 +1142,8 @@
   },
   {
     "id": "EN Brother",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brother",
+    "subtitulo": "Inglês",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
@@ -1161,51 +1161,94 @@
       "Pesado",
       "Fry",
       "Morte",
-      "Nostalgia"
+      "Nostalgia",
+      "Rap",
+      "Rimado"
     ]
   },
   {
     "id": "EN Dogs",
-    "titulo": "",
+    "titulo": "Dogs",
     "subtitulo": "",
     "tipo": "AUDIO",
-    "soundcloud": "",
+    "soundcloud": "Inglês",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
-      
+      "Inglês",
+      "Triste",
+      "Ator",
+      "Interpretado",
+      "Rouco",
+      "Emocionante",
+      "Pesado",
+      "Fry",
+      "Morte",
+      "Nostalgia",
+      "Cachorro"
     ]
   },
   {
     "id": "EN Susan",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Susan",
+    "subtitulo": "Inglês",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
-      
+      "Inglês",
+      "Grave",
+      "Sussurrado",
+      "Aspirado",
+      "Rouco",
+      "Fry",
+      "Aerado",
+      "Gutural",
+      "Emocionante",
+      "Mágico",
+      "Rimado"
     ]
   },
   {
     "id": "EN Whatsapp",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Whatsapp",
+    "subtitulo": "Inglês",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
-      
+      "Inglês",
+      "Funk Carioca",
+      "Engraçado",
+      "Animado",
+      "Jovem",
+      "Informal",
+      "ZAP",
+      "Brasil",
+      "Energia",
+      "Explicando"
     ]
   },
   {
     "id": "Eletrolux - Casa Refúgio - Lucas",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Eletrolux",
+    "subtitulo": "Casa Refúgio",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/artworks-NZFjEjoHpV9FdF04-J86GVQ-t500x500.jpg",
     "tags": [
-      
+      "Conversado",
+      "Falado",
+      "Depoimento",
+      "Natural",
+      "Titubeando",
+      "Gaguejando",
+      "Interpretado",
+      "Ator",
+      "Entrevista",
+      "Realidade",
+      "Visita",
+      "Eletrodoméstico",
+      "Diálogo"
     ]
   },
   {
@@ -1232,13 +1275,23 @@
   },
   {
     "id": "Estacio - Dia dos Namorados",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Estacio",
+    "subtitulo": "Dia dos Namorados",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/artworks-N0EGsU5BmlfGY9z3-iZ0fhg-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Carinhoso",
+      "Amor",
+      "Educação",
+      "Jovem",
+      "Promoção",
+      "Vendedor",
+      "Informal",
+      "Animado",
+      "Feliz",
+      "Data Comemorativa"
     ]
   },
   {
@@ -1248,7 +1301,17 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/UR53f4-wnhU",
     "tags": [
-      
+      "Tutorial",
+      "Simpático",
+      "Cuidadoso",
+      "Festival",
+      "Evento",
+      "Leve",
+      "Suave",
+      "Jovem",
+      "Alegre",
+      "De bem com a vida",
+      "Positivo"
     ]
   },
   {
@@ -1259,18 +1322,36 @@
     "youtube": "https://youtu.be/-lz8wk263iY",
     "principal":true,
     "tags": [
-      
+      "Conversado",
+      "Jovem",
+      "Vendedor",
+      "Animado",
+      "Energético",
+      "Humor",
+      "Simpático",
+      "Ator",
+      "Supermercado",
+      "Promoção",
+      "Diálogo",
+      "Alto Astral"
     ]
   },
   {
     "id": "FR GM",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "General Motors",
+    "subtitulo": "Francês",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
-      
+      "Francês",
+      "Sussurrado",
+      "Moderno",
+      "Blasé",
+      "Grave",
+      "Aerado",
+      "Cool",
+      "Carro"
     ]
   },
   {

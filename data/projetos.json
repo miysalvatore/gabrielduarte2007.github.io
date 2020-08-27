@@ -63,6 +63,7 @@
     "subtitulo": "Sonhando Acordado",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Q6E3LhePczo",
+    "principal": true,
     "tags": [
       "Sonhador",
       "Engraçado",
@@ -82,6 +83,7 @@
     "subtitulo": "Grandes Estrelas",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Q6E3LhePczo",
+    "principal": true,
     "tags": [
       "Trailer",
       "Credibilidade",
@@ -168,6 +170,7 @@
     "subtitulo": "Viva o Furacão",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ZhbOb67Ctcs",
+    "principal": true,
     "tags": [
       "Grave",
       "Rouco",
@@ -234,143 +237,153 @@
   },
   {
     "id": "Azul - Contador de Historias",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Azul",
+    "subtitulo": "Contador de Histórias",
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "",
     "tags": [
-      
+      "Mágico",
+      "Sonho",
+      "Onírico",
+      "Narrativo",
+      "Narrador",
+      "Storyteller",
+      "Storytelling",
+      "Poesia",
+      "Poeta",
+      "Recitado",
+      "Viagem"
     ]
   },
   {
     "id": "BTG Pactual - i-traction",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "BTG Pactual",
+    "subtitulo": "i-Traction",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/v57ZxsRy8uU",
     "tags": [
       
     ]
   },
   {
-    "id": "BV - Centro de Serviços Compartilhado",
-    "titulo": "",
-    "subtitulo": "",
+    "id": "BV - Centro de Serviços Compartilhados",
+    "titulo": "BV",
+    "subtitulo": "Centro de Serviços Compartilhados",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/Pl43NTl4O_g",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Crédito Pessoal",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Crédito Pessoal",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/tiTLJxZQgwE",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Financiamento de Veículos",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Financiamento de Veículos",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/V3qRysziD9A",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Portal de antecipação",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Portal de Antecipação",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/54QczPxhf8s",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Retrospectiva Fim de Ano",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Retrospectiva Fim de Ano",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/MJhyDdhneek",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Service Desk Mobile App",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Service Desk Mobile App",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/3_1geJkDpq4",
     "tags": [
       
     ]
   },
   {
     "id": "BV - Somos o que Fazemos",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "BV",
+    "subtitulo": "Somos o que Fazemos",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/3_1geJkDpq4",
     "tags": [
       
     ]
   },
   {
-    "id": "BV Lab – Laboratório de Inovação do Banco Votorantim",
-    "titulo": "",
-    "subtitulo": "",
+    "id": "BV Lab – Laboratório de Inovação",
+    "titulo": "BV Lab",
+    "subtitulo": "Laboratório de Inovação",
     "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "youtube": "https://youtu.be/Pqpf0o-UDaU",
     "tags": [
       
     ]
   },
   {
     "id": "Banco do Brasil - Conta Fácil",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Banco do Brasil",
+    "subtitulo": "Conta Fácil",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/gxQkR1cde68",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Bizzu Portfolio",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Bizzu",
+    "subtitulo": "Portfolio",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/SCKcxAeAtm4",
     "tags": [
       
     ]
   },
   {
     "id": "Bonduelle - Ao Natural é natural de verdade",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Bonduelle",
+    "subtitulo": "Ao Natural é Natural de Verdade",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/dSf6-X1o9KA",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Bonduelle - Os Milhennials",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Bonduelle",
+    "subtitulo": "Os Milhennials",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/NiXueSyqXyw",
     "tags": [
       
     ]
@@ -388,10 +401,11 @@
   },
   {
     "id": "Bradesco - Fale com a Bia e abra sua conta",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Bradesco",
+    "subtitulo": "Fale com a Bia e abra sua conta",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/JLNBFcSz_Y8",
+    "principal": true,
     "tags": [
       
     ]
@@ -409,90 +423,91 @@
   },
   {
     "id": "Brasilprev - ABC da Previdência",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "ABC da Previdência",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/sY-IYyI2rGg",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Averbador, Vesting, Instituidor",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Averbador, Vesting, Instituidor",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/k6QHINpt71I",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Cadastro de Senha",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Cadastro de Senha",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/A_ybL2Tbc44",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Capital Segurado e Tábua Atuarial",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Capital Segura e Tábua Aturial",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/fGWZvJgvjbE",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Cota e Provisão Matemática de Benefícios a Conceder",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Cota e Provisão Matemática de Benefícios a Conceder",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/2rmOPUCV9SU",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Extrato",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Extrato",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/ORJIC-YmdxI",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Portal Brasilprev",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Portal Brasilprev",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/En9G8B6QJCc",
     "tags": [
       
     ]
   },
   {
     "id": "Brasilprev - Serviços Digitais",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Brasilprev",
+    "subtitulo": "Serviços Digitais",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/mOZtXFZWJpQ",
     "tags": [
       
     ]
   },
   {
     "id": "CCXP 2019",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "CCXP",
+    "subtitulo": "2019",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/UqKgK_ceZBg",
+    "principal": true,
     "tags": [
       
     ]
@@ -510,105 +525,97 @@
   },
   {
     "id": "Cheerios - Novo Cheerios Mel",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Cheerios",
+    "subtitulo": "Novo Cheerios Mel",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/Wcuzv8mxu2A",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Clube Agro - Apresentação Corteva",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Clube Agro",
+    "subtitulo": "Apresentação Corteva",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/qEu6dgyXGDg",
     "tags": [
       
     ]
   },
   {
     "id": "Clube Agro - Tutorial",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Clube Agro",
+    "subtitulo": "Tutorial",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/AnrcCRdR_h4",
     "tags": [
       
     ]
   },
   {
     "id": "Comerc - Código de Conduta",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Comerc",
+    "subtitulo": "Código de Conduta",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/NqxTSTeahUY",
     "tags": [
       
     ]
   },
   {
     "id": "Crystal - Amigo Secreto",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Crystal",
+    "subtitulo": "Amigo Secreto",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/wntlzS51MLs",
     "tags": [
       
     ]
   },
   {
     "id": "Crystal - Mesão Copos",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Copos",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/NJ_ZKPzMyy8",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Crystal - Mesão Selfie",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Selfie",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/NzSV6PiLXs0",
     "tags": [
       
     ]
   },
   {
     "id": "Crystal - Mesão Suspense",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Suspense",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/ZSoseI3nrYc",
     "tags": [
       
     ]
   },
   {
     "id": "Crystal - Mesão",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/OlgqY9v8Hoc",
     "tags": [
       
     ]
   },
-  {
-    "id": "Crystal – 4 passos para o Encontro perfeito",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "VIDEO",
-    "youtube": "",
-    "tags": [
-      
-    ]
-  },
+  
   {
     "id": "Deezer Family 02 1 Mes Mix 200420",
     "titulo": "",
@@ -699,22 +706,20 @@
   },
   {
     "id": "Delloite Flex",
-    "titulo": "",
+    "titulo": "Delloite Flex",
     "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/QIxfRIHK7IA",
     "tags": [
       
     ]
   },
   {
     "id": "Disney - Princesas - Impala",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Disney",
+    "subtitulo": "Princesas",
+    "tipo": "VIDEO",
+    "soundcloud": "https://youtu.be/ZVly9fqE5Q8",
     "tags": [
       
     ]
@@ -787,10 +792,11 @@
   },
   {
     "id": "EmDia - O que são os juros",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "emDia",
+    "subtitulo": "O que são os juros",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/Rq2c_Z0kGa4",
+    "principal": true,
     "tags": [
       
     ]
@@ -808,20 +814,21 @@
   },
   {
     "id": "Expo Novo Lar",
-    "titulo": "",
+    "titulo": "Expo Novo Lar",
     "subtitulo": "",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/UR53f4-wnhU",
     "tags": [
       
     ]
   },
   {
     "id": "Extra - Que vantagem Maria Leva",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Extra",
+    "subtitulo": "Que Vantagem Maria Leva",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/-lz8wk263iY",
+    "principal": true,
     "tags": [
       
     ]
@@ -850,20 +857,21 @@
   },
   {
     "id": "Fiat - Promoção Big Drive Fiat",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Fiat",
+    "subtitulo": "Promoção Big Drive Fiat",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/aYofppXCSek",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Fofossauros Episódio 01",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Fofossautos",
+    "subtitulo": "Episódio 01",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/RMAzusX8mlU",
     "tags": [
       
     ]
@@ -880,23 +888,21 @@
     ]
   },
   {
-    "id": "Go Daddy - Como criar um site",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "GoDaddy - Banda",
+    "titulo": "GoDaddy",
+    "subtitulo": "Banda",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/RMAzusX8mlU",
     "tags": [
       
     ]
   },
   {
-    "id": "Go Daddy - Qual o nome da banda",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "GoDaddy - Food Truck",
+    "titulo": "GoDaddy",
+    "subtitulo": "Food Truck",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/DXLmjUU3eJs",
     "tags": [
       
     ]
@@ -946,12 +952,11 @@
     ]
   },
   {
-    "id": "Itau Financiamento - Acessórios",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "Itau - Financiamento de Acessórios",
+    "titulo": "Itaú Financiamento",
+    "subtitulo": "Avessórios",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Xs3tQAe1k9o",
     "tags": [
       
     ]
@@ -963,16 +968,17 @@
     "tipo": "AUDIO",
     "soundcloud": "",
     "imagem": "",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Mobuss - APP",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
+    "titulo": "Mobus",
+    "subtitulo": "APP",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/_ev9kUIoqlU",
     "imagem": "",
     "tags": [
       
@@ -980,135 +986,132 @@
   },
   {
     "id": "Nestle - Faz Bem",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Nestle",
+    "subtitulo": "Faz Bem",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/D8PFOSdp4PU",
     "tags": [
       
     ]
   },
   {
     "id": "Next - Teaser Game",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Next",
+    "subtitulo": "Teaser Game",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/o1VYIB1H1lE",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Next - Tá Dentro",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Next",
+    "subtitulo": "Tá Dentro",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/37JZ9nwp4GI",
     "tags": [
       
     ]
   },
   {
     "id": "PIGPEG - Tutorial",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "PIGPEG",
+    "subtitulo": "Tutorial",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/2wJu6Wlfcao",
     "tags": [
       
     ]
   },
   {
     "id": "PSA Corretora - Seguro Conectado Sura",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "PSCA Corretora",
+    "subtitulo": "Seguro Conectado Sura",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/izy3CgWNLI8",
     "tags": [
       
     ]
   },
   {
     "id": "Pare Bem Estacionamentos - Institucional",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Pare Bem Estacionamentos",
+    "subtitulo": "Institucional",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/dlfSm188Va4",
     "tags": [
       
     ]
   },
   {
     "id": "Philips Duravita",
-    "titulo": "",
+    "titulo": "Philips Duravita",
     "subtitulo": "",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/cHfexyjiqF8",
     "tags": [
       
     ]
   },
   {
     "id": "Pointer",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Pointer",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/EB-Yur0X_hI",
     "tags": [
       
     ]
   },
   {
     "id": "Quickbooks - Controle Seu Fluxo de Caixa",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Quickbooks",
+    "subtitulo": "Controle Seu Fluxo de Caixa",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/WIjkAuVLgKo",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Quickbooks - Prepare-se para a Black Friday",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Quickbooks",
+    "subtitulo": "Prepare-se para a Black Friday",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/sLnLj_gx4i4",
     "tags": [
       
     ]
   },
   {
     "id": "Renner - Dia dos Fuzarka",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Renner",
+    "subtitulo": "Dia dos Fuzarka",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://youtu.be/5JBlOhoy74k",
     "tags": [
       
     ]
   },
   {
     "id": "Ri Happy - Dia das Crianças",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Ri Happy",
+    "subtitulo": "Dia das Crianças",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/7I1Id_LU5v0",
     "tags": [
       
     ]
   },
   {
     "id": "Sanofi Mobility",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Sanofi",
+    "subtitulo": "Mobility",
     "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "youtube": "https://youtu.be/zT96iYzWet4",
     "tags": [
       
     ]
@@ -1126,161 +1129,157 @@
   },
   {
     "id": "Secretaria da Educacao do Pará - Foco Pedagógico",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Secretaria da Educacao do Pará",
+    "subtitulo": "Foco Pedagógico",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Zl9Sd8_rZu0",
     "tags": [
       
     ]
   },
   {
     "id": "TiendaMia.com - Black November",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "TiendaMia.com",
+    "subtitulo": "Black November",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/_HLKCtRPytk",
     "tags": [
       
     ]
   },
   {
-    "id": "Tiendamia - Do mundo à sua porta",
-    "titulo": "",
-    "subtitulo": "",
+    "id": "TiendaMia.com - Do mundo à sua porta",
+    "titulo": "TiendaMia.com",
+    "subtitulo": "Do mundo à sua porta",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/yfpJsGV63kg",
+    "principal": true,
     "tags": [
       
     ]
   },
   {
     "id": "Tramontina - Mestre Churrasqueiro",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Tramontina",
+    "subtitulo": "Mestre Churrasqueiro",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/9Qb2aD9Sces",
     "tags": [
       
     ]
   },
   {
-    "id": "TransMuraro - Vídeo Institucional 2 minutos",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "TransMuraro - Institucional",
+    "titulo": "TranMuraro",
+    "subtitulo": "Institucional",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/1xVqkPg_Qs8",
     "tags": [
       
     ]
   },
   {
     "id": "Unifebe - Seleção pelo Histórico Escolar",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Unifebe",
+    "subtitulo": "Seleção pelo Histórico Escolar",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/3Ra0MZFFurw",
     "tags": [
       
     ]
   },
   {
     "id": "Unifor - Institucional",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Unifor",
+    "subtitulo": "Institucional",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Biy4qsYiXmA",
     "tags": [
       
     ]
   },
   {
     "id": "Unisc - Curso de Administração",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Unisc",
+    "subtitulo": "Curso de Administração",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/e-uRuifrTe0",
     "tags": [
       
     ]
   },
   {
     "id": "Unisc - Curso de Publicidade e Propaganda",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Unisc",
+    "subtitulo": "Curso de Publicidade e Propaganda",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/9ft-04E1A5Q",
     "tags": [
       
     ]
   },
   {
     "id": "Vigor - cadastro de produtos na promoção",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "titulo": "Vigor",
+    "subtitulo": "cadastro de produtos na promoção",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/NVMcq1IrMO4",
     "tags": [
       
     ]
   },
   {
     "id": "WWF - Dá pra construir grandes obras com madeira",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "WWF",
+    "subtitulo": "Dá pra construir grandes obras com madeira",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/Vly-7CAWKmM",
     "tags": [
       
     ]
   },
   {
     "id": "WWF - Manutenção",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "WWF",
+    "subtitulo": "Manutanção",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/Tx1TtaoMZcQ",
     "tags": [
       
     ]
   },
   {
     "id": "WWF - Por que usar madeira na construção civil",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "WWF",
+    "subtitulo": "Por que usar madeira na construção civil",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/zAIaBylng5s",
     "tags": [
       
     ]
   },
   {
     "id": "WWF - Preservação das Florestas",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "WWF",
+    "subtitulo": "Preservação das Florestas",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/IBPl4CCq5JM",
     "tags": [
       
     ]
   },
   {
-    "id": "Youse Mobilidade - Video Desenhado",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "Youse - Mobilidade",
+    "titulo": "Youse",
+    "subtitulo": "Mobilidade",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/4JZjA9hhO4o",
     "tags": [
       
     ]
   },
   {
-    "id": "Youth Concept - Grave Serio Sussurrado",
+    "id": "Youth Concept",
     "titulo": "",
     "subtitulo": "",
     "tipo": "AUDIO",
@@ -1292,31 +1291,30 @@
   },
   {
     "id": "Zona Azul Digital",
-    "titulo": "",
+    "titulo": "Zona Azul Digital",
     "subtitulo": "",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/nK0L51DUf9I",
     "tags": [
       
     ]
   },
   {
     "id": "iPlace - Pai",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "iPlace",
+    "subtitulo": "Pai",
     "tipo": "VIDEO",
-    "youtube": "",
+    "youtube": "https://youtu.be/KHF0vZ8ANcA",
     "tags": [
       
     ]
   },
   {
-    "id": "iPlace - iPlace Refresh Refresh",
-    "titulo": "",
-    "subtitulo": "",
-    "tipo": "AUDIO",
-    "soundcloud": "",
-    "imagem": "",
+    "id": "iPlace - iPlace Refresh",
+    "titulo": "iPlace",
+    "subtitulo": "iPlace Refresh",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/V6TOMwL8Sy8",
     "tags": [
       
     ]

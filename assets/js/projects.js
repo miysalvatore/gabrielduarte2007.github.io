@@ -78,6 +78,10 @@ const getYouTubeVideoId = project => {
 };
 
 const getYouTubeImageUrl = (project, highRes = false) => {
+    if (!project.youtube) {
+        return 'URL_NOT_FOUND';
+    }
+
     const videoId = getYouTubeVideoId(project);
 
     const fileName = highRes ? 'maxresdefault' : 'hqdefault';

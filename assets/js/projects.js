@@ -4,7 +4,8 @@ const visibleTagsAmount = 3;
 
 const levenshteinFactor = 2;
 
-const mediaBaseUrl = 'https://github.com/gabrielduarte2007/gabrielduarte2007.github.io/raw/master/media';
+// const mediaBaseUrl = 'https://github.com/gabrielduarte2007/gabrielduarte2007.github.io/raw/master/media';
+const mediaFolder = 'media';
 const getProxyUrl = url => `https://cors-anywhere.herokuapp.com/${url}`;
 
 // Load JSON data
@@ -99,9 +100,11 @@ const getYouTubeIframeUrl = project => {
 
 const loadMediaUrl = (project, mediaType) => {
     const fileExtension = mediaType === 'VIDEO' ? 'mp4' : 'mp3';
-    return `${mediaBaseUrl}/${mediaType.toLowerCase()}/${project.id}.${fileExtension}`;
+    return `${mediaFolder}/${mediaType.toLowerCase()}/${project.id}.${fileExtension}`;
+    // return `${mediaBaseUrl}/${mediaType.toLowerCase()}/${project.id}.${fileExtension}`;
 };
 
+/*
 const downloadAudio = (project) => {
     const audioIcon = audioButton.find('.fa');
     const originalClasses = audioIcon.attr('class');
@@ -149,6 +152,7 @@ const downloadVideo = project => {
 
     x.send();
 };
+*/
 
 // Modal
 
@@ -201,21 +205,20 @@ const showModal = project => {
             videoButton.show();
             audioButton.show();
 
-            videoButton.unbind().on('click', () => {
-                downloadVideo(project);
-            });
+            const videoUrl = loadMediaUrl(project, 'VIDEO');
+            videoButton.attr("href", videoUrl);
 
-            audioButton.unbind().on('click', () => {
-                downloadAudio(project);
-            });
+            const audioUrl = loadMediaUrl(project, 'AUDIO');
+            audioButton.attr("href", audioUrl);
         } else if (project.tipo === 'AUDIO') {
             // Only audio button should be visible
             videoButton.hide();
             audioButton.show();
 
-            audioButton.unbind().on('click', () => {
-                downloadAudio(project);
-            });
+            videoButton.attr("href", "");
+
+            const audioUrl = loadMediaUrl(project, 'AUDIO');
+            audioButton.attr("href", audioUrl);
         }
     }
 

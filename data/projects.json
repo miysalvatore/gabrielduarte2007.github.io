@@ -34,7 +34,12 @@
       "Coloquial",
       "Alimentos",
       "Nostalgia",
-      "Data Comemorativa"
+      "Data Comemorativa",
+      "Jovem",
+      "Informal",
+      "Animado",
+      "De bem com a vida",
+      "Feliz"
     ]
   },
   {
@@ -54,11 +59,12 @@
       "Simpático",
       "Credibilidade",
       "De bem com a vida",
-      "Jovem"
+      "Jovem",
+      "Informal"
     ]
   },
   {
-    "id": "Ali Express - 11.11 - Sonhando acordado",
+    "id": "Ali Express - 11.11 Sonhando acordado",
     "titulo": "Ali Express",
     "subtitulo": "Sonhando Acordado",
     "tipo": "VIDEO",
@@ -73,17 +79,20 @@
       "Promoção",
       "Promocional",
       "Camille Saint-Säens",
-      "Site chinês"
+      "Site chinês",
+      "Jovem",
+      "Informal",
+      "Animado"
 
     ]
   },
   {
-    "id": "Amazon Prime - Grandes Estrelas",
+    "id": "Amazon Prime Video - Grandes Estrelas",
     "titulo": "Amazon Prime Video",
     "subtitulo": "Grandes Estrelas",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Q6E3LhePczo",
-    "principal": true,
+    "principal":true,
     "tags": [
       "Trailer",
       "Credibilidade",
@@ -95,7 +104,9 @@
       "TV",
       "Séries",
       "Filmes",
-      "Netflix"
+      "Netflix",
+      "Sabichão",
+      "Folgado"
     ]
   },
   {
@@ -103,7 +114,7 @@
     "titulo": "Anhanguera",
     "subtitulo": "Apreendedores",
     "tipo": "AUDIO",
-    "soundcloud": "<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162353&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gabrielduarte" title="Gabriel Duarte - Locutor" target="_blank" style="color: #cccccc; text-decoration: none;">Gabriel Duarte - Locutor</a> · <a href="https://soundcloud.com/gabrielduarte/anhanguera-apreendedores" title="Anhanguera - Apreendedores" target="_blank" style="color: #cccccc; text-decoration: none;">Anhanguera - Apreendedores</a></div>",
+    "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/artworks-fkGFqD5x0hypn8z0-9lTpbg-t500x500.jpg",
     "tags": [
       "Apresentação",
@@ -118,7 +129,10 @@
       "Universidade",
       "Instituição de Ensino",
       "Ensino Superior",
-      "Seguro"
+      "Seguro",
+      "Jovem",
+      "Informal",
+      "Animado"
     ]
   },
   {
@@ -140,7 +154,10 @@
       "Ensino Superior",
       "Institucional",
       "Escolhas",
-      "Carreira"
+      "Carreira",
+      "Jovem",
+      "Informal",
+      "Animado"
     ]
   },
   {
@@ -170,7 +187,7 @@
     "subtitulo": "Viva o Furacão",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ZhbOb67Ctcs",
-    "principal": true,
+    "principal":true,
     "tags": [
       "Grave",
       "Rouco",
@@ -188,7 +205,10 @@
       "Ator",
       "Flat",
       "Motivacional",
-      "Clube"
+      "Clube",
+      "Informal",
+      "Blasé",
+      "Triste"
     ]
   },
   {
@@ -207,7 +227,9 @@
       "Agudo",
       "Infantil",
       "Brinquedo",
-      "Alto"
+      "Alto",
+      "Jovem",
+      "Animado"
     ]
   },
   {
@@ -215,7 +237,7 @@
     "titulo": "",
     "subtitulo": "",
     "tipo": "AUDIO",
-    "soundcloud": "<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gabrielduarte" title="Gabriel Duarte - Locutor" target="_blank" style="color: #cccccc; text-decoration: none;">Gabriel Duarte - Locutor</a> · <a href="https://soundcloud.com/gabrielduarte/azul-caipira-contador-de-historias" title="Azul - Contador De Historias" target="_blank" style="color: #cccccc; text-decoration: none;">Azul - Contador De Historias</a></div>",
+    "soundcloud": "",
     "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
     "tags": [
       "Sotaque",
@@ -241,7 +263,7 @@
     "subtitulo": "Contador de Histórias",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
     "tags": [
       "Mágico",
       "Sonho",
@@ -263,7 +285,22 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/v57ZxsRy8uU",
     "tags": [
-      
+      "Tecnologia",
+      "Mercado Financeiro",
+      "Banco",
+      "Formação",
+      "Forte",
+      "Seguro",
+      "Energia",
+      "Credibilidade",
+      "Otimista",
+      "Institucional",
+      "Animado",
+      "Motivacional",
+      "Coach",
+      "Futuro",
+      "Jovem",
+      "Informal"
     ]
   },
   {
@@ -273,7 +310,20 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Pl43NTl4O_g",
     "tags": [
-      
+      "Simpático",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicativo",
+      "Descritivo",
+      "Otimista",
+      "Padrão",
+      "Energia",
+      "Jovem",
+      "Informal",
+      "Animado"
     ]
   },
   {
@@ -283,7 +333,21 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/tiTLJxZQgwE",
     "tags": [
-      
+      "Calmo",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicando",
+      "Explicativo",
+      "Descritivo",
+      "Padrão",
+      "Tranquilo",
+      "Relaxado",
+      "Simpático",
+      "Jovem",
+      "Informal"
     ]
   },
   {
@@ -293,7 +357,19 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/V3qRysziD9A",
     "tags": [
-      
+      "Jovem",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicando",
+      "Explicativo",
+      "Descritivo",
+      "Padrão",
+      "Informativo",
+      "Simpático",
+      "Informal"
     ]
   },
   {
@@ -303,7 +379,20 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/54QczPxhf8s",
     "tags": [
-      
+      "Simpático",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicativo",
+      "Descritivo",
+      "Otimista",
+      "Padrão",
+      "Energia",
+      "Jovem",
+      "Informal",
+      "Tutorial"
     ]
   },
   {
@@ -313,7 +402,16 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/MJhyDdhneek",
     "tags": [
-      
+      "Nostalgia",
+      "Emoção",
+      "Informal",
+      "Jovem",
+      "Otimista",
+      "Energia",
+      "Seguro",
+      "Padrão",
+      "Orgulho",
+      "Animado"
     ]
   },
   {
@@ -323,7 +421,20 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/3_1geJkDpq4",
     "tags": [
-      
+      "Descolado",
+      "Simpático",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Feliz",
+      "Tranquilo",
+      "Relaxado",
+      "Jovem",
+      "Informal",
+      "Animado",
+      "Cool",
+      "Credibilidade"
     ]
   },
   {
@@ -333,17 +444,34 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/3_1geJkDpq4",
     "tags": [
-      
+      "Feliz",
+      "Emoção",
+      "Reflexivo",
+      "Credibilidade",
+      "Seguro",
+      "Otimista",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
     "id": "BV Lab – Laboratório de Inovação",
     "titulo": "BV Lab",
     "subtitulo": "Laboratório de Inovação",
-    "tipo": "AUDIO",
+    "tipo": "VIDEO",
     "youtube": "https://youtu.be/Pqpf0o-UDaU",
     "tags": [
-      
+      "Folgado",
+      "Descolado",
+      "Cool",
+      "Informal",
+      "Forte",
+      "Jovem",
+      "Animado",
+      "Mercado Financeiro",
+      "Banco",
+      "Moderno",
+      "Motivador"
     ]
   },
   {
@@ -352,9 +480,20 @@
     "subtitulo": "Conta Fácil",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/gxQkR1cde68",
-    "principal": true,
+    "principal":true,
     "tags": [
-      
+      "Animado",
+      "Varejo",
+      "Feliz",
+      "Banco",
+      "Jovem",
+      "Energia",
+      "Engraçado",
+      "Informal",
+      "Brega",
+      "Prático",
+      "Simples",
+      "Fácil"
     ]
   },
   {
@@ -363,8 +502,26 @@
     "subtitulo": "Portfolio",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/SCKcxAeAtm4",
+    "principal":true,
     "tags": [
-      
+      "Falado",
+      "Engraçado",
+      "Dinâmico",
+      "Informal",
+      "Cool",
+      "Moderno",
+      "Descolado",
+      "De bem com a vida",
+      "Tranquilo",
+      "Ácido",
+      "Sarcástico",
+      "Irônico",
+      "Gíria",
+      "Design",
+      "Publicidade",
+      "Repertório",
+      "Palavrão",
+      "Reel"
     ]
   },
   {
@@ -373,9 +530,25 @@
     "subtitulo": "Ao Natural é Natural de Verdade",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/dSf6-X1o9KA",
-    "principal": true,
+    "principal":true,
     "tags": [
-      
+      "Ator",
+      "Voz Original",
+      "Animação",
+      "Desenho Animado",
+      "Engraçado",
+      "Irônico",
+      "Palavrão",
+      "Comida",
+      "Alimentos",
+      "Diálogo",
+      "Interação",
+      "Interpretado",
+      "Falado",
+      "Coloquial",
+      "Caricato",
+      "Personagem",
+      "Jovem"
     ]
   },
   {
@@ -385,18 +558,39 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/NiXueSyqXyw",
     "tags": [
-      
+      "Ator",
+      "Voz Original",
+      "Animação",
+      "Desenho Animado",
+      "Engraçado",
+      "Irônico",
+      "Palavrão",
+      "Comida",
+      "Alimentos",
+      "Diálogo",
+      "Interação",
+      "Interpretado",
+      "Falado",
+      "Coloquial",
+      "Caricato",
+      "Personagem",
+      "Jovem"
     ]
   },
   {
     "id": "Bourbon Resort - Espera Telefônica",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Bourbon Resort",
+    "subtitulo": "Espera Telefônica",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-XJSMZ1x6eqXzrroJ-PRckBw-t500x500.jpg",
     "tags": [
-      
+      "Espanhol",
+      "Institucional",
+      "Padrão",
+      "Formal",
+      "Sério",
+      "Animado"
     ]
   },
   {
@@ -405,20 +599,42 @@
     "subtitulo": "Fale com a Bia e abra sua conta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/JLNBFcSz_Y8",
-    "principal": true,
+    "principal":true,
     "tags": [
-      
+      "Jovem",
+      "Falado",
+      "Coloquial",
+      "Cool",
+      "Relaxado",
+      "Descolado",
+      "Irônico",
+      "Blasé",
+      "Conversado",
+      "Sarcástico",
+      "Moderno",
+      "Forte",
+      "Simpático",
+      "Folgado",
+      "Seguro"
     ]
   },
   {
     "id": "Branco do Brasil - Poupança Premiada",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Banco do Brasil",
+    "subtitulo": "Poupança Premiada",
     "tipo": "AUDIO",
-    "soundcloud": "",
+    "soundcloud": "https://i1.sndcdn.com/artworks-f4XK86JK4bFLIbj6-CwjdKw-t500x500.jpg",
     "imagem": "",
     "tags": [
-      
+      "Jingle",
+      "Promoção",
+      "Varejo",
+      "Animado",
+      "Jovem",
+      "Energia",
+      "Vendedor",
+      "Banco",
+      "Alegre"
     ]
   },
   {
@@ -438,7 +654,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/k6QHINpt71I",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -448,7 +671,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/A_ybL2Tbc44",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -458,7 +688,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/fGWZvJgvjbE",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -468,7 +705,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/2rmOPUCV9SU",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -478,7 +722,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ORJIC-YmdxI",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -488,7 +739,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/En9G8B6QJCc",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -498,7 +756,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/mOZtXFZWJpQ",
     "tags": [
-      
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
     ]
   },
   {
@@ -507,20 +772,39 @@
     "subtitulo": "2019",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/UqKgK_ceZBg",
-    "principal": true,
+    "principal":true,
     "tags": [
-      
+      "Descolado",
+      "Jovem",
+      "Falado",
+      "Moderno",
+      "Games",
+      "Comic Con",
+      "Ironia",
+      "Engraçado",
+      "Desenho Animado",
+      "Feira",
+      "Evento",
+      "Rápido",
+      "Blasé" 
+
     ]
   },
   {
     "id": "Cesul - Nosso ensino tem presença Vest 2020",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Cesul",
+    "subtitulo": "Nosso ensino tem presença Vest 2020",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-v7JNMN6UdsP1utHz-X5piUg-t500x500.jpg",
     "tags": [
-      
+      "Sotaque Neutro",
+      "Educação",
+      "Jovem",
+      "Descolado",
+      "Sotaque Sul",
+      "Tecnologia",
+      "Futuro"
     ]
   },
   {
@@ -531,7 +815,19 @@
     "youtube": "https://youtu.be/Wcuzv8mxu2A",
     "principal": true,
     "tags": [
-      
+      "Fofo",
+      "Carinhoso",
+      "Próximo",
+      "Familiar",
+      "Alegre",
+      "Feliz",
+      "De bem com a vida",
+      "Positivo",
+      "Jovem",
+      "Animado",
+      "Tranquilo",
+      "Padrão",
+      "Otimista"
     ]
   },
   {
@@ -541,7 +837,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/qEu6dgyXGDg",
     "tags": [
-      
+      "Forte",
+      "Motivacional",
+      "Crescendo",
+      "Programa de Relacionamento",
+      "Agronegócio",
+      "Orgulho",
+      "Emocionante",
+      "Liberdade"
     ]
   },
   {
@@ -551,7 +854,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/AnrcCRdR_h4",
     "tags": [
-      
+      "Jovem",
+      "Explicando",
+      "Simpático",
+      "Coloquial",
+      "Agronegócio",
+      "Professor",
+      "Ensinando",
+      "Interpretado"
     ]
   },
   {
@@ -561,7 +871,12 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/NqxTSTeahUY",
     "tags": [
-      
+      "Padrão",
+      "Guia",
+      "Informativo",
+      "Dicas",
+      "Narrador",
+      "Energia"
     ]
   },
   {
@@ -571,7 +886,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/wntlzS51MLs",
     "tags": [
-      
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado"
     ]
   },
   {
@@ -582,7 +904,14 @@
     "youtube": "https://youtu.be/NJ_ZKPzMyy8",
     "principal": true,
     "tags": [
-      
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado"
     ]
   },
   {
@@ -592,7 +921,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/NzSV6PiLXs0",
     "tags": [
-      
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado"
     ]
   },
   {
@@ -602,7 +938,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ZSoseI3nrYc",
     "tags": [
-      
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado"
     ]
   },
   {
@@ -612,96 +955,152 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/OlgqY9v8Hoc",
     "tags": [
-      
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado"
     ]
   },
   
   {
     "id": "Deezer Family 02 1 Mes Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Family 1",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Family 02 1 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Family 2",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Family 02 3 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Family 3",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Premium 01 1 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 1",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão",
+      "Mancada"
     ]
   },
   {
     "id": "Deezer Premium 02 3 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 2",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Premium 03 3 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 3",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Premium 04 1 Mes Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 4",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
     "id": "Deezer Student 01 1 Meses Mix 200420",
-    "titulo": "",
-    "subtitulo": "",
+    "titulo": "Deezer",
+    "subtitulo": "Student",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
     "tags": [
-      
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Padrão"
     ]
   },
   {
@@ -711,7 +1110,13 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/QIxfRIHK7IA",
     "tags": [
-      
+      "Padrão",
+      "Grave",
+      "Calmo",
+      "Tutorial",
+      "Narrador",
+      "Rápido",
+      "Farmacêutica"
     ]
   },
   {
@@ -721,7 +1126,18 @@
     "tipo": "VIDEO",
     "soundcloud": "https://youtu.be/ZVly9fqE5Q8",
     "tags": [
-      
+      "Varejo",
+      "Animado",
+      "Rápido",
+      "Alto",
+      "Gritado",
+      "Agudo",
+      "Brinquedo",
+      "Infantil",
+      "Magia",
+      "Vendedor",
+      "Sorridente",
+      "Feliz"
     ]
   },
   {
@@ -730,9 +1146,22 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "principal":true,
     "tags": [
-      
+      "Inglês",
+      "Triste",
+      "Grave",
+      "Declamado",
+      "Poesia",
+      "Ator",
+      "Interpretado",
+      "Rouco",
+      "Emocionante",
+      "Pesado",
+      "Fry",
+      "Morte",
+      "Nostalgia"
     ]
   },
   {
@@ -741,7 +1170,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -752,7 +1181,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -763,7 +1192,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -774,7 +1203,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-NZFjEjoHpV9FdF04-J86GVQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -785,18 +1214,18 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-uwAzC1C9wKPtc74L-juyhbA-t500x500.jpg",
     "tags": [
       
     ]
   },
   {
-    "id": "EmDia - O que são os juros",
+    "id": "emDia - O que são os juros",
     "titulo": "emDia",
     "subtitulo": "O que são os juros",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Rq2c_Z0kGa4",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -807,7 +1236,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-N0EGsU5BmlfGY9z3-iZ0fhg-t500x500.jpg",
     "tags": [
       
     ]
@@ -828,7 +1257,7 @@
     "subtitulo": "Que Vantagem Maria Leva",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/-lz8wk263iY",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -839,7 +1268,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -850,7 +1279,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -861,7 +1290,7 @@
     "subtitulo": "Promoção Big Drive Fiat",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/aYofppXCSek",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -882,7 +1311,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-K3kNLcNZDm385R1L-uYVGPA-t500x500.jpg",
     "tags": [
       
     ]
@@ -913,7 +1342,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
     "tags": [
       
     ]
@@ -924,7 +1353,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
     "tags": [
       
     ]
@@ -935,7 +1364,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
     "tags": [
       
     ]
@@ -946,7 +1375,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-2D711ExEiVtTgaH0-sgPhyg-t500x500.jpg",
     "tags": [
       
     ]
@@ -967,8 +1396,8 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
-    "principal": true,
+    "imagem": "https://i1.sndcdn.com/artworks-aKy7aTkZQLyiNhdt-Wep2zQ-t500x500.jpg",
+    "principal":true,
     "tags": [
       
     ]
@@ -1000,7 +1429,7 @@
     "subtitulo": "Teaser Game",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/o1VYIB1H1lE",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -1070,7 +1499,7 @@
     "subtitulo": "Controle Seu Fluxo de Caixa",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/WIjkAuVLgKo",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -1089,7 +1518,7 @@
     "id": "Renner - Dia dos Fuzarka",
     "titulo": "Renner",
     "subtitulo": "Dia dos Fuzarka",
-    "tipo": "AUDIO",
+    "tipo": "VIDEO",
     "soundcloud": "",
     "imagem": "https://youtu.be/5JBlOhoy74k",
     "tags": [
@@ -1108,9 +1537,9 @@
   },
   {
     "id": "Sanofi Mobility",
-    "titulo": "Sanofi",
-    "subtitulo": "Mobility",
-    "tipo": "AUDIO",
+    "titulo": "Sanofi Mobility",
+    "subtitulo": "Você Move Sua Vida",
+    "tipo": "VIDEO",
     "youtube": "https://youtu.be/zT96iYzWet4",
     "tags": [
       
@@ -1122,7 +1551,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-gevXM5QuZm7pI1C2-teV4ow-t500x500.jpg",
     "tags": [
       
     ]
@@ -1153,7 +1582,7 @@
     "subtitulo": "Do mundo à sua porta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/yfpJsGV63kg",
-    "principal": true,
+    "principal":true,
     "tags": [
       
     ]
@@ -1284,7 +1713,7 @@
     "subtitulo": "",
     "tipo": "AUDIO",
     "soundcloud": "",
-    "imagem": "",
+    "imagem": "https://i1.sndcdn.com/artworks-dRs5qWz17KlGuWIM-6bSlIQ-t500x500.jpg",
     "tags": [
       
     ]

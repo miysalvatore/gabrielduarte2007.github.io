@@ -1,8 +1,31 @@
-[
+[{
+  "id": "Amazon Prime Video - Grandes Estrelas",
+  "titulo": "Amazon Prime",
+  "subtitulo": "Grandes Estrelas",
+  "tipo": "VIDEO",
+  "youtube": "https://youtu.be/CWGIsYA2DS0",
+  "principal":true,
+  "tags": [
+    "Credibilidade",
+    "Folgado",
+    "Séries",
+    "Adulto",
+    "Cinema",
+    "Grave",
+    "Streaming",
+    "Televisão",
+    "Trailer",
+    "TV",
+    "Filmes",
+    "Netflix",
+    "Sabichão",
+    "Malandro"
+  ]
+},
   {
     "id": "Volkswagen - Nivus",
     "titulo": "Volkswagen",
-    "subtitulo": "Nivus",
+    "subtitulo": "Lançamento Nivus",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Z5QNwzfccqM",
     "principal":true,
@@ -32,9 +55,9 @@
     "tags": [
       "Simpático",
       "Corretora de seguro",
+      "Vendedor",
       "Animado",
       "Animação",
-      "Vendedor",
       "Contador de histórias",
       "Jovem"
     ]
@@ -48,13 +71,13 @@
     "tags": [
       "Acolhedor",
       "Hospitaleiro",
+      "Segurança",
       "Oficial",
       "Interno",
       "Higiene",
       "Covid",
       "Pandemia",
       "Grave",
-      "Segurança",
       "Sério",
       "Hotel"
     ]
@@ -66,19 +89,19 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/uH4MDR-kPHA",
     "tags": [
-      "Pai",
-      "Alegre",
+      "De bem com a vida",
       "Família",
       "Emoção",
       "Alegria",
       "Coloquial",
       "Alimentos",
       "Nostalgia",
+      "Pai",
       "Data Comemorativa",
       "Jovem",
       "Informal",
       "Animado",
-      "De bem com a vida",
+      "Alegre",
       "Feliz"
     ]
   },
@@ -90,62 +113,41 @@
     "youtube": "https://youtu.be/cLoLo-0BwXg",
     "tags": [
       "Tutorial",
+      "Informal",
+      "Professor",
       "Explicando",
       "Banco",
       "Financeira",
       "Cartão",
-      "Professor",
       "Ensinando",
       "Simpático",
       "Credibilidade",
       "De bem com a vida",
-      "Jovem",
-      "Informal"
+      "Jovem"
     ]
   },
   {
-    "id": "Ali Express - 11.11 Sonhando acordado",
-    "titulo": "Ali Express",
-    "subtitulo": "Sonhando Acordado",
+    "id": "CCXP 2019",
+    "titulo": "CCXP",
+    "subtitulo": "2019",
     "tipo": "VIDEO",
-    "youtube": "https://youtu.be/Q6E3LhePczo",
-    "principal": true,
-    "tags": [
-      "Sonhador",
-      "Engraçado",
-      "Tirando Sarro",
-      "Zueira",
-      "Vendedor",
-      "Promoção",
-      "Promocional",
-      "Camille Saint-Säens",
-      "Site chinês",
-      "Jovem",
-      "Informal",
-      "Animado"
-    ]
-  },
-  {
-    "id": "Amazon Prime Video - Grandes Estrelas",
-    "titulo": "Amazon Prime Video",
-    "subtitulo": "Grandes Estrelas",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/CWGIsYA2DS0",
+    "youtube": "https://youtu.be/UqKgK_ceZBg",
     "principal":true,
     "tags": [
-      "Trailer",
-      "Credibilidade",
-      "Adulto",
-      "Cinema",
-      "Grave",
-      "Streaming",
-      "Televisão",
-      "TV",
-      "Séries",
-      "Filmes",
-      "Netflix",
-      "Sabichão",
-      "Folgado",
+      "Ironia",
+      "Descolado",
+      "Jovem",
+      "Oi",
+      "Falado",
+      "Moderno",
+      "Games",
+      "Comic Con",
+      "Engraçado",
+      "Desenho Animado",
+      "Feira",
+      "Evento",
+      "Rápido",
+      "Blasé",
       "Malandro"
     ]
   },
@@ -183,9 +185,9 @@
     "youtube": "https://youtu.be/jivriNpjqjE",
     "tags": [
       "Tranquilo",
-      "Simpático",
-      "Amigo",
       "Sonhador",
+      "Amigo",
+      "Simpático",
       "Leve",
       "Motivador",
       "Faculdade",
@@ -222,6 +224,32 @@
     ]
   },
   {
+    "id": "Bradesco - Fale com a Bia e abra sua conta",
+    "titulo": "Bradesco",
+    "subtitulo": "Fale com a Bia e abra sua conta",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/JLNBFcSz_Y8",
+    "principal":true,
+    "tags": [
+      "Jovem",
+      "Malandro",
+      "Falado",
+      "Coloquial",
+      "Cool",
+      "Relaxado",
+      "Descolado",
+      "Irônico",
+      "Blasé",
+      "Conversado",
+      "Sarcástico",
+      "Moderno",
+      "Forte",
+      "Simpático",
+      "Folgado",
+      "Seguro"
+    ]
+  },
+  {
     "id": "Athletico Mineiro - Viva o Furacão",
     "titulo": "Athletico Mineiro",
     "subtitulo": "Viva o Furacão",
@@ -229,16 +257,16 @@
     "youtube": "https://youtu.be/ZhbOb67Ctcs",
     "principal":true,
     "tags": [
-      "Grave",
+      "Paixão",
       "Rouco",
       "Coloquial",
       "Voz normal",
       "Comum",
+      "Grave",
       "Futebol",
       "Torcedor",
       "Baixo",
       "Pensamento",
-      "Paixão",
       "Emocionante",
       "Time",
       "Crescendo",
@@ -258,11 +286,11 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/aYDWioxWlY0",
     "tags": [
-      "Criança",
       "Promoção",
       "Rápido",
       "Vendedor",
       "Varejo",
+      "Criança",
       "Promocional",
       "Agudo",
       "Infantil",
@@ -280,13 +308,13 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/azul-caipira-contador-de-historias\" title=\"Azul - Contador De Historias\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Azul - Contador De Historias</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
     "tags": [
-      "Sotaque",
+      "Poesia",
       "Caipira",
       "Mentiroso",
       "Ator",
       "Poeta",
-      "Poesia",
       "Mágico",
+      "Sotaque",
       "Falado",
       "Recitado",
       "Coloquial",
@@ -307,11 +335,11 @@
     "tags": [
       "Mágico",
       "Sonho",
+      "Storytelling",
       "Onírico",
       "Narrativo",
       "Narrador",
       "Storyteller",
-      "Storytelling",
       "Poesia",
       "Poeta",
       "Recitado",
@@ -327,9 +355,9 @@
     "tags": [
       "Tecnologia",
       "Mercado Financeiro",
+      "Forte",
       "Banco",
       "Formação",
-      "Forte",
       "Seguro",
       "Energia",
       "Credibilidade",
@@ -387,7 +415,8 @@
       "Relaxado",
       "Simpático",
       "Jovem",
-      "Informal"
+      "Informal",
+      "Amigo"
     ]
   },
   {
@@ -399,12 +428,12 @@
     "tags": [
       "Jovem",
       "Informativo",
+      "Amigo",
       "Mercado Financeiro",
       "Banco",
       "Seguro",
       "Soluções Financeiras",
       "Explicando",
-      "Explicativo",
       "Descritivo",
       "Padrão",
       "Informativo",
@@ -432,7 +461,8 @@
       "Energia",
       "Jovem",
       "Informal",
-      "Tutorial"
+      "Tutorial",
+      "Amigo"
     ]
   },
   {
@@ -474,7 +504,8 @@
       "Informal",
       "Animado",
       "Cool",
-      "Credibilidade"
+      "Credibilidade",
+      "Amigo"
     ]
   },
   {
@@ -482,7 +513,7 @@
     "titulo": "BV",
     "subtitulo": "Somos o que Fazemos",
     "tipo": "VIDEO",
-    "youtube": "https://youtu.be/3_1geJkDpq4",
+    "youtube": "https://youtu.be/TlgojZaMbyc",
     "tags": [
       "Feliz",
       "Emoção",
@@ -502,9 +533,9 @@
     "youtube": "https://youtu.be/Pqpf0o-UDaU",
     "tags": [
       "Folgado",
+      "Informal",
       "Descolado",
       "Cool",
-      "Informal",
       "Forte",
       "Jovem",
       "Animado",
@@ -522,7 +553,7 @@
     "youtube": "https://youtu.be/gxQkR1cde68",
     "principal":true,
     "tags": [
-      "Animado",
+      "Brega",
       "Varejo",
       "Feliz",
       "Banco",
@@ -530,10 +561,33 @@
       "Energia",
       "Engraçado",
       "Informal",
-      "Brega",
+      "Animado",
       "Prático",
       "Simples",
       "Fácil"
+    ]
+  },
+  {
+    "id": "Cheerios - Novo Cheerios Mel",
+    "titulo": "Cheerios",
+    "subtitulo": "Novo Cheerios Mel",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Wcuzv8mxu2A",
+    "principal": true,
+    "tags": [
+      "Fofo",
+      "Carinhoso",
+      "Próximo",
+      "Familiar",
+      "Alegre",
+      "Feliz",
+      "De bem com a vida",
+      "Positivo",
+      "Jovem",
+      "Animado",
+      "Tranquilo",
+      "Padrão",
+      "Otimista"
     ]
   },
   {
@@ -592,6 +646,28 @@
     ]
   },
   {
+    "id": "Ali Express - 11.11 Sonhando acordado",
+    "titulo": "Ali Express",
+    "subtitulo": "Sonhando Acordado",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Q6E3LhePczo",
+    "principal": true,
+    "tags": [
+      "Sonhador",
+      "Engraçado",
+      "Tirando Sarro",
+      "Zueira",
+      "Vendedor",
+      "Promoção",
+      "Promocional",
+      "Camille Saint-Säens",
+      "Site chinês",
+      "Jovem",
+      "Informal",
+      "Animado"
+    ]
+  },
+  {
     "id": "Bonduelle - Os Milhennials",
     "titulo": "Bonduelle",
     "subtitulo": "Os Milhennials",
@@ -631,32 +707,6 @@
       "Formal",
       "Sério",
       "Animado"
-    ]
-  },
-  {
-    "id": "Bradesco - Fale com a Bia e abra sua conta",
-    "titulo": "Bradesco",
-    "subtitulo": "Fale com a Bia e abra sua conta",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/JLNBFcSz_Y8",
-    "principal":true,
-    "tags": [
-      "Jovem",
-      "Falado",
-      "Coloquial",
-      "Cool",
-      "Relaxado",
-      "Descolado",
-      "Irônico",
-      "Blasé",
-      "Conversado",
-      "Sarcástico",
-      "Moderno",
-      "Forte",
-      "Simpático",
-      "Folgado",
-      "Seguro",
-      "Malandro"
     ]
   },
   {
@@ -794,7 +844,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Mercado Financeiro"
+      "Mercado Financeiro",
+      "Otimista",
+      "Positivo"
     ]
   },
   {
@@ -811,31 +863,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "CCXP 2019",
-    "titulo": "CCXP",
-    "subtitulo": "2019",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/UqKgK_ceZBg",
-    "principal":true,
-    "tags": [
-      "Descolado",
-      "Jovem",
-      "Falado",
-      "Moderno",
-      "Games",
-      "Comic Con",
-      "Ironia",
-      "Engraçado",
-      "Desenho Animado",
-      "Feira",
-      "Evento",
-      "Rápido",
-      "Blasé",
-      "Malandro"
+      "Mercado Financeiro",
+      "Amigo",
+      "Jovem Adulto"
     ]
   },
   {
@@ -846,36 +876,14 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881160526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/cesul-nosso-ensino-tem-prese\" title=\"Cesul - Nosso ensino tem presa\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Cesul - Nosso ensino tem presa</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-v7JNMN6UdsP1utHz-X5piUg-t500x500.jpg",
     "tags": [
-      "Sotaque Neutro",
+      "Sotaque Sul",
       "Educação",
       "Jovem",
       "Descolado",
-      "Sotaque Sul",
+      "Sotaque Neutro",
       "Tecnologia",
-      "Futuro"
-    ]
-  },
-  {
-    "id": "Cheerios - Novo Cheerios Mel",
-    "titulo": "Cheerios",
-    "subtitulo": "Novo Cheerios Mel",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/Wcuzv8mxu2A",
-    "principal": true,
-    "tags": [
-      "Fofo",
-      "Carinhoso",
-      "Próximo",
-      "Familiar",
-      "Alegre",
-      "Feliz",
-      "De bem com a vida",
-      "Positivo",
-      "Jovem",
-      "Animado",
-      "Tranquilo",
-      "Padrão",
-      "Otimista"
+      "Futuro",
+      "Amigo"
     ]
   },
   {
@@ -892,7 +900,9 @@
       "Agronegócio",
       "Orgulho",
       "Emocionante",
-      "Liberdade"
+      "Liberdade",
+      "Otimista",
+      "Explicando"
     ]
   },
   {
@@ -909,7 +919,8 @@
       "Agronegócio",
       "Professor",
       "Ensinando",
-      "Interpretado"
+      "Interpretado",
+      "Amigo"
     ]
   },
   {
@@ -925,7 +936,7 @@
       "Dicas",
       "Narrador",
       "Energia",
-      "Malandro"
+      "Amigo"
     ]
   },
   {
@@ -1034,6 +1045,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1051,6 +1063,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1068,6 +1081,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1085,8 +1099,8 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
-      "Padrão",
-      "Mancada"
+      "Amigo",
+      "Padrão"
     ]
   },
   {
@@ -1103,6 +1117,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1120,6 +1135,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1137,6 +1153,7 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
@@ -1154,19 +1171,22 @@
       "Coloquial",
       "Jovem",
       "Tranquilo",
+      "Amigo",
       "Padrão"
     ]
   },
   {
-    "id": "Delloite Flex",
+    "id": "Delloite Flex - Programa de Benefícios",
     "titulo": "Delloite Flex",
-    "subtitulo": "",
+    "subtitulo": "Programa de Benefícios",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/QIxfRIHK7IA",
     "tags": [
       "Padrão",
       "Grave",
       "Calmo",
+      "Jovem",
+      "Explicando",
       "Tutorial",
       "Narrador",
       "Rápido",
@@ -1181,6 +1201,7 @@
     "soundcloud": "https://youtu.be/ZVly9fqE5Q8",
     "tags": [
       "Varejo",
+      "Magia",
       "Animado",
       "Rápido",
       "Alto",
@@ -1188,7 +1209,6 @@
       "Agudo",
       "Brinquedo",
       "Infantil",
-      "Magia",
       "Vendedor",
       "Sorridente",
       "Feliz"
@@ -1204,19 +1224,20 @@
     "principal":true,
     "tags": [
       "Inglês",
+      "Emocionante",
+      "Interpretado",
       "Triste",
       "Grave",
       "Declamado",
       "Poesia",
       "Ator",
-      "Interpretado",
       "Rouco",
-      "Emocionante",
       "Pesado",
       "Fry",
       "Morte",
       "Nostalgia",
       "Rap",
+      "Sonhador",
       "Rimado"
     ]
   },
@@ -1259,7 +1280,8 @@
       "Gutural",
       "Emocionante",
       "Mágico",
-      "Rimado"
+      "Rimado",
+      "Sonhador"
     ]
   },
   {
@@ -1272,6 +1294,7 @@
     "tags": [
       "Inglês",
       "Funk Carioca",
+      "Amigo",
       "Engraçado",
       "Animado",
       "Jovem",
@@ -1279,18 +1302,20 @@
       "ZAP",
       "Brasil",
       "Energia",
-      "Explicando"
+      "Explicando",
+      "Malandro",
+      "Espertinho"
     ]
   },
   {
-    "id": "Eletrolux - Casa Refúgio - Lucas",
-    "titulo": "Eletrolux",
+    "id": "Electrolux - Casa Refúgio - Lucas",
+    "titulo": "Electrolux",
     "subtitulo": "Casa Refúgio",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244650&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/eletrolux-casa-refu-gio-lucas\" title=\"Eletrolux - Casa Refúgio\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Eletrolux - Casa Refúgio</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-NZFjEjoHpV9FdF04-J86GVQ-t500x500.jpg",
     "tags": [
-      "Conversado",
+      "Entrevista",
       "Falado",
       "Depoimento",
       "Natural",
@@ -1298,11 +1323,15 @@
       "Gaguejando",
       "Interpretado",
       "Ator",
-      "Entrevista",
+      "Conversado",
       "Realidade",
       "Visita",
       "Eletrodoméstico",
-      "Diálogo"
+      "Amigo",
+      "Diálogo",
+      "Hispter",
+      "Paulistano",
+      "Jovem Adulto"
     ]
   },
   {
@@ -1326,7 +1355,8 @@
       "Verão",
       "Sol",
       "Prazer",
-      "Lento"
+      "Lento",
+      "Férias"
     ]
   },
   {
@@ -1348,6 +1378,7 @@
       "Estranho",
       "Financeira",
       "Jovem",
+      "História",
       "Personagem"
     ]
   },
@@ -1359,13 +1390,13 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244626&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/dia-dos-namorados-oferta\" title=\"Estácio - Dia dos namorados\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Estácio - Dia dos namorados</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-N0EGsU5BmlfGY9z3-iZ0fhg-t500x500.jpg",
     "tags": [
-      "Rádio",
       "Carinhoso",
-      "Amor",
       "Educação",
-      "Jovem",
       "Promoção",
+      "Amor",
+      "Jovem",
       "Vendedor",
+      "Entrevista",
       "Informal",
       "Animado",
       "Feliz",
@@ -1380,8 +1411,10 @@
     "youtube": "https://youtu.be/UR53f4-wnhU",
     "tags": [
       "Cuidadoso",
-      "Simpatico",
+      "Simpático",
       "Festival",
+      "Amigo",
+      "Explicativo",
       "Evento",
       "Leve",
       "Suave",
@@ -1411,7 +1444,7 @@
       "Promoção",
       "Diálogo",
       "Alto Astral",
-      "Maladro"
+      "Malandro"
     ]
   },
   {
@@ -1450,7 +1483,8 @@
       "Cool",
       "Telefonia",
       "Operadora",
-      "Flat"
+      "Flat",
+      "Assinatura"
     ]
   },
   {
@@ -1470,6 +1504,7 @@
       "BBB",
       "Big Brother",
       "Promoção",
+      "Ofertas",
       "Jovem",
       "Forte",
       "Rápido"
@@ -1477,7 +1512,7 @@
   },
   {
     "id": "Fofossauros Episódio 01",
-    "titulo": "Fofossautos",
+    "titulo": "Fofossauros",
     "subtitulo": "Trix & Caju",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/RMAzusX8mlU",
@@ -1491,7 +1526,8 @@
       "Bobo",
       "Caricato",
       "Bonitinho",
-      "Brinquedo"
+      "Brinquedo",
+      "Dinossauro"
     ]
   },
   {
@@ -1504,6 +1540,7 @@
     "tags": [
       "Sorridente",
       "Simpático",
+      "Feliz",
       "Rádio",
       "Promoção",
       "Feliz",
@@ -1514,7 +1551,7 @@
       "Animal",
       "Cachorro",
       "Gato",
-      "Feliz"
+      "Carinhoso"
     ]
   },
   {
@@ -1522,7 +1559,7 @@
     "titulo": "GoDaddy",
     "subtitulo": "Banda",
     "tipo": "VIDEO",
-    "youtube": "https://youtu.be/RMAzusX8mlU",
+    "youtube": "https://youtu.be/oFhmIe_8SBc",
     "principal":true,
     "tags": [
       "Descolado",
@@ -1589,7 +1626,7 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244569&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/honda-spot\" title=\"Honda - Spot Rádio\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Honda - Spot Rádio</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
     "tags": [
-      "Rádio",
+      "Spot",
       "Diálogo",
       "Conversado",
       "Carro",
@@ -1605,10 +1642,10 @@
     "titulo": "Honda",
     "subtitulo": "Spot2",
     "tipo": "AUDIO",
-    "soundcloud": "",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244566&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/honda-spot-conversado\" title=\"Honda - Spot Rádio 2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Honda - Spot Rádio 2</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
     "tags": [
-      "Rádio",
+      "Spot",
       "Diálogo",
       "Conversado",
       "Carro",
@@ -1668,8 +1705,8 @@
     "tags": [
       "Rápido",
       "Ator",
-      "Desesperado",
       "Interpretado",
+      "Desesperado",
       "Sem ar",
       "Metais",
       "Personagem",
@@ -1680,6 +1717,7 @@
       "Falado",
       "Gritando",
       "Prazer",
+      "Ansioso",
       "Humor"
     ]
   },
@@ -1719,6 +1757,7 @@
       "Emoção",
       "Carinhoso",
       "Feliz",
+      "Família",
       "Alimentos",
       "Produtor rural",
       "De bem com a vida",
@@ -1745,7 +1784,8 @@
       "Games",
       "Jogo",
       "Misterioso",
-      "Folgado"
+      "Folgado",
+      "Arrogante"
     ]
   },
   {
@@ -1766,7 +1806,8 @@
       "Games",
       "Jogo",
       "Misterioso",
-      "Folgado"
+      "Folgado",
+      "Arrogante"
     ]
   },
   {
@@ -1808,7 +1849,8 @@
       "Carro",
       "Rápido",
       "Vendedor",
-      "Tutorial"
+      "Tutorial",
+      "Citroen"
     ]
   },
   {
@@ -1845,7 +1887,9 @@
       "Família",
       "Lançamento",
       "Crescendo",
-      "Animado" 
+      "Animado",
+      "Aerado",
+      "Sensual" 
     ]
   },
   {
@@ -1870,6 +1914,9 @@
       "Motorista",
       "Transportadora",
       "Gritando",
+      "Humilde",
+      "Cantado",
+      "Relutante",
       "Agudo"
     ]
   },
@@ -2016,12 +2063,12 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/_HLKCtRPytk",
     "tags": [
-      "Desesperado",
       "Rápido",
       "Engraçado",
-      "Sem ar",
       "Repetitivo",
       "Flat",
+      "Sem ar",
+      "Desesperado",
       "Jovem",
       "Estranho",
       "Varejo",
@@ -2036,12 +2083,12 @@
     "youtube": "https://youtu.be/yfpJsGV63kg",
     "principal":true,
     "tags": [
-      "Desesperado",
       "Rápido",
       "Engraçado",
-      "Sem ar",
       "Repetitivo",
       "Flat",
+      "Sem ar",
+      "Desesperado",
       "Jovem",
       "Estranho",
       "Varejo",

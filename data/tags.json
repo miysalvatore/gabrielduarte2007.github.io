@@ -873,8 +873,10 @@
     "alias": []
   },
   {
-    "nome": "Francês",
-    "alias": []
+    "nome": "Humor",
+    "alias": [
+      "Engraçado"
+    ]
   },
   {
     "nome": "Espanhol",
@@ -883,11 +885,5 @@
   {
     "nome": "Inglês",
     "alias": []
-  }
-  {
-    "nome": "Humor",
-    "alias": [
-      "Engraçado"
-    ]
   }
 ]

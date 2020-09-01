@@ -1,16 +1,16 @@
 // Animate scroll
-const moveTo = (
+const moveTo = function (
     element,
     options = {
         container: undefined,
         callback: undefined
     }
-) => {
+) {
     if (!options.container) {
         options.container = $('html, body');
     }
 
-    const callbackWrapper = () => {
+    const callbackWrapper = function () {
         if (options.callback) {
             options.callback();
         }
@@ -41,10 +41,10 @@ $(function () {
     const projectShareLinkCopy = $('.project__share_link_copy');
     const searchShareLinkCopy = $('.project__search-share_link_copy');
 
-    const selectProjectUrlInput = () => {
+    const selectProjectUrlInput = function () {
         moveTo(projectUrlInput, {
             container: projectDetailsModal,
-            callback: () => {
+            callback: function () {
                 projectUrlInput.focus();
             },
         });
@@ -53,10 +53,10 @@ $(function () {
         projectUrlInput[0].setSelectionRange(0, 99999); // For mobile devices
     };
 
-    const selectSearchUrlInput = () => {
+    const selectSearchUrlInput = function () {
         moveTo(searchUrlInput, {
             container: projectDetailsModal,
-            callback: () => {
+            callback: function () {
                 searchUrlInput.focus();
             },
         });
@@ -71,7 +71,7 @@ $(function () {
         const duration = 200;
 
         if (projectShareLink.css('display') === 'none') {
-            projectShareLink.slideDown(duration, () => {
+            projectShareLink.slideDown(duration, function () {
                 selectProjectUrlInput();
                 projectShareLinkCopy.trigger('click');
             });
@@ -84,7 +84,7 @@ $(function () {
         const duration = 200;
 
         if (searchShareLink.css('display') === 'none') {
-            searchShareLink.fadeIn(duration, () => {
+            searchShareLink.fadeIn(duration, function () {
                 selectSearchUrlInput();
                 searchShareLinkCopy.trigger('click');
             });
@@ -97,7 +97,7 @@ $(function () {
 
     projectShareLinkCopy.popover();
 
-    body.on('click', () => {
+    body.on('click', function () {
         projectShareLinkCopy.popover('hide');
     });
 
@@ -115,7 +115,7 @@ $(function () {
 
     searchShareLinkCopy.popover();
 
-    body.on('click', () => {
+    body.on('click', function () {
         searchShareLinkCopy.popover('hide');
     });
 

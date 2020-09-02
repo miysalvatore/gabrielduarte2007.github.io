@@ -157,7 +157,11 @@
   },
   {
     "nome": "Bv Financeira",
-    "alias": []
+    "alias": [
+      "BV",
+      "Banco Votorantim",
+      "Votorantim"
+    ]
   },
   {
     "nome": "Canoas Shopping",

@@ -53,7 +53,9 @@
   },
   {
     "nome": "Operadora",
-    "alias": []
+    "alias": [
+      "Telefonia"
+    ]
   },
   {
     "nome": "Loja",
@@ -719,6 +721,10 @@
     "alias": []
   },
   {
+    "nome": "Humano",
+    "alias": []
+  },
+  {
     "nome": "Ensinando",
     "alias": []
   },
@@ -846,6 +852,13 @@
     "nome": "Familiar",
     "alias": [
       "Família"
+    ]
+  },
+  {
+    "nome": "Amigo",
+    "alias": [
+      "Humano",
+      "Próximo"
     ]
   },
   {

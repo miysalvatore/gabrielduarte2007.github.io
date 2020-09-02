@@ -4,6 +4,8 @@
   "subtitulo": "Grandes Estrelas",
   "tipo": "VIDEO",
   "youtube": "https://youtu.be/CWGIsYA2DS0",
+  "imagem-posicao": "left",
+  "imagem-tamanho": "50%",
   "principal":true,
   "tags": [
     "Credibilidade",
@@ -1199,7 +1201,7 @@
     "titulo": "Disney",
     "subtitulo": "Princesas",
     "tipo": "VIDEO",
-    "soundcloud": "https://youtu.be/ZVly9fqE5Q8",
+    "youtube": "https://youtu.be/ZVly9fqE5Q8",
     "tags": [
       "Varejo",
       "Magia",
@@ -1835,7 +1837,7 @@
   },
   {
     "id": "PSA Corretora - Seguro Conectado Sura",
-    "titulo": "PSCA Corretora",
+    "titulo": "PSA Corretora",
     "subtitulo": "Seguro Conectado Sura",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/izy3CgWNLI8",
@@ -1965,8 +1967,7 @@
     "titulo": "Renner",
     "subtitulo": "Dia dos Fuzarka",
     "tipo": "VIDEO",
-    "soundcloud": "",
-    "imagem": "https://youtu.be/5JBlOhoy74k",
+    "youtube": "https://youtu.be/5JBlOhoy74k",
     "tags": [
       "Interagindo",
       "Vendedor",

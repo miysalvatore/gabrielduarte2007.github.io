@@ -1,36 +1,38 @@
-[{
-  "id": "Amazon Prime Video - Grandes Estrelas",
-  "titulo": "Amazon Prime",
-  "subtitulo": "Grandes Estrelas",
-  "tipo": "VIDEO",
-  "youtube": "https://youtu.be/CWGIsYA2DS0",
-  "imagem-posicao": "left",
-  "imagem-tamanho": "50%",
-  "principal":true,
-  "tags": [
-    "Credibilidade",
-    "Folgado",
-    "Séries",
-    "Adulto",
-    "Cinema",
-    "Grave",
-    "Streaming",
-    "Televisão",
-    "Trailer",
-    "TV",
-    "Filmes",
-    "Netflix",
-    "Sabichão",
-    "Malandro"
-  ]
-},
+[
+  {
+    "id": "Amazon Prime Video - Grandes Estrelas",
+    "titulo": "Amazon Prime",
+    "subtitulo": "Grandes Estrelas",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/CWGIsYA2DS0",
+    "imagem_posicao": "left",
+    "imagem_largura": "100%",
+    "imagem_altura": "150%",
+    "principal": true,
+    "tags": [
+      "Credibilidade",
+      "Folgado",
+      "Séries",
+      "Adulto",
+      "Cinema",
+      "Grave",
+      "Streaming",
+      "Televisão",
+      "Trailer",
+      "TV",
+      "Filmes",
+      "Netflix",
+      "Sabichão",
+      "Malandro"
+    ]
+  },
   {
     "id": "Volkswagen - Nivus",
     "titulo": "Volkswagen",
     "subtitulo": "Lançamento Nivus",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Z5QNwzfccqM",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Carro",
       "Assinatura",
@@ -134,7 +136,7 @@
     "subtitulo": "2019",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/UqKgK_ceZBg",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Solto",
       "Descolado",
@@ -232,7 +234,7 @@
     "subtitulo": "Fale com a Bia e abra sua conta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/JLNBFcSz_Y8",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Jovem",
       "Malandro",
@@ -258,7 +260,7 @@
     "subtitulo": "Viva o Furacão",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ZhbOb67Ctcs",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Paixão",
       "Rouco",
@@ -554,7 +556,7 @@
     "subtitulo": "Conta Fácil",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/gxQkR1cde68",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Brega",
       "Varejo",
@@ -599,7 +601,7 @@
     "subtitulo": "Portfolio",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/SCKcxAeAtm4",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Falado",
       "Engraçado",
@@ -627,7 +629,7 @@
     "subtitulo": "Ao Natural é Natural de Verdade",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/dSf6-X1o9KA",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Ator",
       "Voz Original",
@@ -1033,7 +1035,6 @@
       "Malandro"
     ]
   },
-  
   {
     "id": "Deezer Family 02 1 Mes Mix 200420",
     "titulo": "Deezer",
@@ -1224,7 +1225,7 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244671&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-brother\" title=\"EN Brother\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Brother</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Inglês",
       "Emocionante",
@@ -1368,7 +1369,7 @@
     "subtitulo": "O que são os juros",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Rq2c_Z0kGa4",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Rimado",
       "Poesia",
@@ -1433,7 +1434,7 @@
     "subtitulo": "Que Vantagem Maria Leva",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/-lz8wk263iY",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Conversado",
       "Jovem",
@@ -1496,7 +1497,7 @@
     "subtitulo": "Promoção Big Drive Fiat",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/aYofppXCSek",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Varejo",
       "Animado",
@@ -1563,7 +1564,7 @@
     "subtitulo": "Banda",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/oFhmIe_8SBc",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Descolado",
       "Jovem",
@@ -1704,7 +1705,7 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244542&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/meber-ator-conversado\" title=\"Meber - Ator Conversado Interpretado Rapido\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Meber - Ator Conversado Interpretado Rapido</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-aKy7aTkZQLyiNhdt-Wep2zQ-t500x500.jpg",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Rápido",
       "Ator",
@@ -1774,7 +1775,7 @@
     "subtitulo": "Teaser Game",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/o1VYIB1H1lE",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Blasé",
       "Distorcido",
@@ -1892,7 +1893,7 @@
       "Crescendo",
       "Animado",
       "Aerado",
-      "Sensual" 
+      "Sensual"
     ]
   },
   {
@@ -1948,7 +1949,7 @@
     "subtitulo": "Prepare-se para a Black Friday",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/sLnLj_gx4i4",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Seguro",
       "Forte",
@@ -2083,7 +2084,7 @@
     "subtitulo": "Do mundo à sua porta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/yfpJsGV63kg",
-    "principal":true,
+    "principal": true,
     "tags": [
       "Rápido",
       "Engraçado",

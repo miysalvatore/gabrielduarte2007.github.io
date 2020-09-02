@@ -268,6 +268,9 @@ const createProjectElement = function (project, index) {
     // Clone base element
     const projectElement = projectBaseElement.clone();
 
+    // Add new element to projectBaseElement's parent
+    projectBaseElement.parent().append(projectElement);
+
     // Remove base element's id
     projectElement.removeAttr('id');
 
@@ -279,9 +282,34 @@ const createProjectElement = function (project, index) {
     const imageUrl = project.imagem || getYouTubeImageUrl(project);
     const imageElement = projectElement.find('.image');
 
-    imageElement
-        .find('.project__image')
-        .css('background-image', `url('${imageUrl}')`);
+    const imagemBackgroundElement = imageElement.find('.project__image');
+
+    const cssImageProperties = {
+        'background-image': `url('${imageUrl}')`
+    };
+
+    // Override images size and position
+    const originalSize = imagemBackgroundElement.css('background-size').split(' ');
+
+    if (project.imagem_posicao) {
+        cssImageProperties['background-position'] = project.imagem_posicao;
+    }
+
+    if (project.imagem_largura || project.imagem_altura) {
+        const width = project.imagem_largura || originalSize[0];
+        const height = project.imagem_altura || originalSize[1];
+
+        cssImageProperties['background-size'] = `${width} ${height}`;
+    }
+
+    if (project.tipo === 'AUDIO' && !project.imagem_largura) {
+        const height = project.imagem_altura || originalSize[1];
+        cssImageProperties['background-size'] = `100% ${height}`;
+    }
+
+    // Apply CSS image properties
+
+    imagemBackgroundElement.css(cssImageProperties);
 
     // Try to load image high res
 
@@ -341,9 +369,6 @@ const createProjectElement = function (project, index) {
 
     // Add 'project.principal' to html's data
     projectElement.data('principal', Boolean(project.principal));
-
-    // Add new element to projectBaseElement's parent
-    projectBaseElement.parent().append(projectElement);
 };
 
 const loadEvents = function () {

@@ -5,9 +5,6 @@
     "subtitulo": "Grandes Estrelas",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/CWGIsYA2DS0",
-    "imagem_posicao": "left",
-    "imagem_largura": "100%",
-    "imagem_altura": "150%",
     "principal": true,
     "tags": [
       "Credibilidade",
@@ -27,11 +24,40 @@
     ]
   },
   {
+    "id": "CCXP 2019",
+    "titulo": "CCXP",
+    "subtitulo": "2019",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/UqKgK_ceZBg",
+    "principal": true,
+    "tags": [
+      "Solto",
+      "Descolado",
+      "Jovem",
+      "Oi",
+      "Falado",
+      "Moderno",
+      "Games",
+      "Comic Con",
+      "Engraçado",
+      "Desenho Animado",
+      "Feira",
+      "Evento",
+      "Rápido",
+      "Blasé",
+      "Malandro",
+      "Ironia"
+    ]
+  },
+  {
     "id": "Volkswagen - Nivus",
     "titulo": "Volkswagen",
     "subtitulo": "Lançamento Nivus",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/Z5QNwzfccqM",
+    "imagem_posicao": "center",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "principal": true,
     "tags": [
       "Carro",
@@ -58,7 +84,7 @@
     "youtube": "https://youtu.be/_XNxBJLK7c0",
     "tags": [
       "Simpático",
-      "Corretora de seguro",
+      "Corretora",
       "Vendedor",
       "Animado",
       "Animação",
@@ -93,13 +119,14 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/uH4MDR-kPHA",
     "tags": [
-      "De bem com a vida",
+      "Positivo",
       "Família",
       "Emoção",
       "Alegria",
       "Coloquial",
       "Alimentos",
       "Nostalgia",
+      "De bem com a vida",
       "Pai",
       "Data Comemorativa",
       "Jovem",
@@ -115,6 +142,7 @@
     "subtitulo": "O que é um adquirente",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/cLoLo-0BwXg",
+    "principal": "true",
     "tags": [
       "Tutorial",
       "Informal",
@@ -131,38 +159,16 @@
     ]
   },
   {
-    "id": "CCXP 2019",
-    "titulo": "CCXP",
-    "subtitulo": "2019",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/UqKgK_ceZBg",
-    "principal": true,
-    "tags": [
-      "Solto",
-      "Descolado",
-      "Jovem",
-      "Oi",
-      "Falado",
-      "Moderno",
-      "Games",
-      "Comic Con",
-      "Engraçado",
-      "Desenho Animado",
-      "Feira",
-      "Evento",
-      "Rápido",
-      "Blasé",
-      "Malandro",
-      "Ironia"
-    ]
-  },
-  {
     "id": "Anhanguera - Apreendedores",
     "titulo": "Anhanguera",
     "subtitulo": "Apreendedores",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162353&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/anhanguera-apreendedores\" title=\"Anhanguera - Apreendedores\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Anhanguera - Apreendedores</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-fkGFqD5x0hypn8z0-9lTpbg-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
+    "principal": "true",
     "tags": [
       "Humano",
       "Palestra",
@@ -234,6 +240,9 @@
     "subtitulo": "Fale com a Bia e abra sua conta",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/JLNBFcSz_Y8",
+    "imagem_posicao": "center",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "principal": true,
     "tags": [
       "Jovem",
@@ -260,6 +269,9 @@
     "subtitulo": "Viva o Furacão",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/ZhbOb67Ctcs",
+    "imagem_posicao": "center",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "principal": true,
     "tags": [
       "Paixão",
@@ -312,6 +324,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881162107&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/azul-caipira-contador-de-historias\" title=\"Azul - Contador De Historias\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Azul - Contador De Historias</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
     "tags": [
       "Poesia",
       "Caipira",
@@ -331,12 +346,38 @@
     ]
   },
   {
+    "id": "Banco do Brasil - Conta Fácil",
+    "titulo": "Banco do Brasil",
+    "subtitulo": "Conta Fácil",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/gxQkR1cde68",
+    "principal": true,
+    "tags": [
+      "Brega",
+      "Varejo",
+      "Feliz",
+      "Banco",
+      "Jovem",
+      "Energia",
+      "Engraçado",
+      "Informal",
+      "Animado",
+      "Prático",
+      "Simples",
+      "Fácil"
+    ]
+  },
+  {
     "id": "Azul - Contador de Historias",
     "titulo": "Azul",
     "subtitulo": "Contador de Histórias",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/881161852&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/azul-contador-de-historias\" title=\"Azul - Contador De Historias\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Azul - Contador De Historias</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-zoYDP96BSJDcwNzn-MryBAw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
+    "principal": "true",
     "tags": [
       "Mágico",
       "Sonho",
@@ -377,100 +418,6 @@
     ]
   },
   {
-    "id": "BV - Centro de Serviços Compartilhados",
-    "titulo": "BV",
-    "subtitulo": "Centro de Serviços Compartilhados",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/Pl43NTl4O_g",
-    "tags": [
-      "Simpático",
-      "Informativo",
-      "Mercado Financeiro",
-      "Banco",
-      "Seguro",
-      "Soluções Financeiras",
-      "Explicativo",
-      "Descritivo",
-      "Otimista",
-      "Padrão",
-      "Energia",
-      "Jovem",
-      "Informal",
-      "Animado"
-    ]
-  },
-  {
-    "id": "BV - Crédito Pessoal",
-    "titulo": "BV",
-    "subtitulo": "Crédito Pessoal",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/tiTLJxZQgwE",
-    "tags": [
-      "Calmo",
-      "Informativo",
-      "Mercado Financeiro",
-      "Banco",
-      "Seguro",
-      "Soluções Financeiras",
-      "Explicando",
-      "Explicativo",
-      "Descritivo",
-      "Padrão",
-      "Tranquilo",
-      "Relaxado",
-      "Simpático",
-      "Jovem",
-      "Informal",
-      "Amigo"
-    ]
-  },
-  {
-    "id": "BV - Financiamento de Veículos",
-    "titulo": "BV",
-    "subtitulo": "Financiamento de Veículos",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/V3qRysziD9A",
-    "tags": [
-      "Jovem",
-      "Informativo",
-      "Amigo",
-      "Mercado Financeiro",
-      "Banco",
-      "Seguro",
-      "Soluções Financeiras",
-      "Explicando",
-      "Descritivo",
-      "Padrão",
-      "Informativo",
-      "Simpático",
-      "Informal"
-    ]
-  },
-  {
-    "id": "BV - Portal de antecipação",
-    "titulo": "BV",
-    "subtitulo": "Portal de Antecipação",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/54QczPxhf8s",
-    "tags": [
-      "Simpático",
-      "Informativo",
-      "Mercado Financeiro",
-      "Banco",
-      "Seguro",
-      "Soluções Financeiras",
-      "Explicativo",
-      "Descritivo",
-      "Otimista",
-      "Padrão",
-      "Energia",
-      "Jovem",
-      "Informal",
-      "Tutorial",
-      "Amigo"
-    ]
-  },
-  {
     "id": "BV - Retrospectiva Fim de Ano",
     "titulo": "BV",
     "subtitulo": "Retrospectiva Fim de Ano",
@@ -490,30 +437,6 @@
     ]
   },
   {
-    "id": "BV - Service Desk Mobile App",
-    "titulo": "BV",
-    "subtitulo": "Service Desk Mobile App",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/3_1geJkDpq4",
-    "tags": [
-      "Descolado",
-      "Simpático",
-      "Mercado Financeiro",
-      "Banco",
-      "Seguro",
-      "Soluções Financeiras",
-      "Feliz",
-      "Tranquilo",
-      "Relaxado",
-      "Jovem",
-      "Informal",
-      "Animado",
-      "Cool",
-      "Credibilidade",
-      "Amigo"
-    ]
-  },
-  {
     "id": "BV - Somos o que Fazemos",
     "titulo": "BV",
     "subtitulo": "Somos o que Fazemos",
@@ -528,48 +451,6 @@
       "Otimista",
       "Banco",
       "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "BV Lab – Laboratório de Inovação",
-    "titulo": "BV Lab",
-    "subtitulo": "Laboratório de Inovação",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/Pqpf0o-UDaU",
-    "tags": [
-      "Folgado",
-      "Informal",
-      "Descolado",
-      "Cool",
-      "Forte",
-      "Jovem",
-      "Animado",
-      "Mercado Financeiro",
-      "Banco",
-      "Moderno",
-      "Motivador"
-    ]
-  },
-  {
-    "id": "Banco do Brasil - Conta Fácil",
-    "titulo": "Banco do Brasil",
-    "subtitulo": "Conta Fácil",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/gxQkR1cde68",
-    "principal": true,
-    "tags": [
-      "Brega",
-      "Varejo",
-      "Feliz",
-      "Banco",
-      "Jovem",
-      "Energia",
-      "Engraçado",
-      "Informal",
-      "Animado",
-      "Prático",
-      "Simples",
-      "Fácil"
     ]
   },
   {
@@ -699,6 +580,26 @@
     ]
   },
   {
+    "id": "BV Lab – Laboratório de Inovação",
+    "titulo": "BV Lab",
+    "subtitulo": "Laboratório de Inovação",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Pqpf0o-UDaU",
+    "tags": [
+      "Folgado",
+      "Informal",
+      "Descolado",
+      "Cool",
+      "Forte",
+      "Jovem",
+      "Animado",
+      "Mercado Financeiro",
+      "Banco",
+      "Moderno",
+      "Motivador"
+    ]
+  },
+  {
     "id": "Bourbon Resort - Espera Telefônica",
     "titulo": "Bourbon Resort",
     "subtitulo": "Espera Telefônica",
@@ -734,146 +635,6 @@
     ]
   },
   {
-    "id": "Brasilprev - ABC da Previdência",
-    "titulo": "Brasilprev",
-    "subtitulo": "ABC da Previdência",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/sY-IYyI2rGg",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Averbador, Vesting, Instituidor",
-    "titulo": "Brasilprev",
-    "subtitulo": "Averbador, Vesting, Instituidor",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/k6QHINpt71I",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Cadastro de Senha",
-    "titulo": "Brasilprev",
-    "subtitulo": "Cadastro de Senha",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/A_ybL2Tbc44",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Capital Segurado e Tábua Atuarial",
-    "titulo": "Brasilprev",
-    "subtitulo": "Capital Segura e Tábua Aturial",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/fGWZvJgvjbE",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Cota e Provisão Matemática de Benefícios a Conceder",
-    "titulo": "Brasilprev",
-    "subtitulo": "Cota e Provisão Matemática de Benefícios a Conceder",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/2rmOPUCV9SU",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Extrato",
-    "titulo": "Brasilprev",
-    "subtitulo": "Extrato",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/ORJIC-YmdxI",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro"
-    ]
-  },
-  {
-    "id": "Brasilprev - Portal Brasilprev",
-    "titulo": "Brasilprev",
-    "subtitulo": "Portal Brasilprev",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/En9G8B6QJCc",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro",
-      "Otimista",
-      "Positivo"
-    ]
-  },
-  {
-    "id": "Brasilprev - Serviços Digitais",
-    "titulo": "Brasilprev",
-    "subtitulo": "Serviços Digitais",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/mOZtXFZWJpQ",
-    "tags": [
-      "Tutorial",
-      "Explicativo",
-      "Professor",
-      "Ensinando",
-      "Interpretado",
-      "Previdência",
-      "Banco",
-      "Mercado Financeiro",
-      "Amigo",
-      "Jovem Adulto"
-    ]
-  },
-  {
     "id": "Cesul - Nosso ensino tem presença Vest 2020",
     "titulo": "Cesul",
     "subtitulo": "Nosso ensino tem presença Vest 2020",
@@ -897,6 +658,9 @@
     "subtitulo": "Apresentação Corteva",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/qEu6dgyXGDg",
+    "imagem_posicao": "center",
+    "imagem_largura": "205%",
+    "imagem_altura": "205%",
     "tags": [
       "Forte",
       "Motivacional",
@@ -916,6 +680,7 @@
     "subtitulo": "Tutorial",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/AnrcCRdR_h4",
+    "imagem_posicao": "right",
     "tags": [
       "Jovem",
       "Explicando",
@@ -963,85 +728,15 @@
     ]
   },
   {
-    "id": "Crystal - Mesão Copos",
-    "titulo": "Crystal",
-    "subtitulo": "Mesão Copos",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/NJ_ZKPzMyy8",
-    "principal": true,
-    "tags": [
-      "Cerveja",
-      "Malícia",
-      "Folgado",
-      "Assinatura",
-      "Introdução",
-      "Jovem",
-      "Sarcástico",
-      "Falado",
-      "Malandro"
-    ]
-  },
-  {
-    "id": "Crystal - Mesão Selfie",
-    "titulo": "Crystal",
-    "subtitulo": "Mesão Selfie",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/NzSV6PiLXs0",
-    "tags": [
-      "Cerveja",
-      "Malícia",
-      "Folgado",
-      "Assinatura",
-      "Introdução",
-      "Jovem",
-      "Sarcástico",
-      "Falado",
-      "Malandro"
-    ]
-  },
-  {
-    "id": "Crystal - Mesão Suspense",
-    "titulo": "Crystal",
-    "subtitulo": "Mesão Suspense",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/ZSoseI3nrYc",
-    "tags": [
-      "Cerveja",
-      "Malícia",
-      "Folgado",
-      "Assinatura",
-      "Introdução",
-      "Jovem",
-      "Sarcástico",
-      "Falado",
-      "Malandro"
-    ]
-  },
-  {
-    "id": "Crystal - Mesão",
-    "titulo": "Crystal",
-    "subtitulo": "Mesão",
-    "tipo": "VIDEO",
-    "youtube": "https://youtu.be/OlgqY9v8Hoc",
-    "tags": [
-      "Cerveja",
-      "Malícia",
-      "Folgado",
-      "Assinatura",
-      "Introdução",
-      "Jovem",
-      "Sarcástico",
-      "Falado",
-      "Malandro"
-    ]
-  },
-  {
     "id": "Deezer Family 02 1 Mes Mix 200420",
     "titulo": "Deezer",
     "subtitulo": "Family 1",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244710&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-family-02-1-meses\" title=\"Deezer - Family 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Family 1</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
     "tags": [
       "Rádio",
       "Conversado",
@@ -1060,114 +755,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244713&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-family-02-1-mes\" title=\"Deezer - Family 2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Family 2</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Family 02 3 Meses Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Family 3",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-family-02-3-meses\" title=\"Deezer - Family 3\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Family 3</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Premium 01 1 Meses Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Premium 1",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244701&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-01-1-meses\" title=\"Deezer - Premium 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 1</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Premium 02 3 Meses Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Premium 2",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-02-3-meses\" title=\"Deezer - Premium 2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 2</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Premium 03 3 Meses Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Premium 3",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244689&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-03-3-meses\" title=\"Deezer - Premium 3\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 3</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Premium 04 1 Mes Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Premium 4",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244686&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-04-1-mes\" title=\"Deezer - Premium 4\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 4</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
-    "tags": [
-      "Rádio",
-      "Conversado",
-      "Simpático",
-      "Coloquial",
-      "Jovem",
-      "Tranquilo",
-      "Amigo",
-      "Padrão"
-    ]
-  },
-  {
-    "id": "Deezer Student 01 1 Meses Mix 200420",
-    "titulo": "Deezer",
-    "subtitulo": "Student",
-    "tipo": "AUDIO",
-    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244677&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-student-01-1-meses\" title=\"Deezer - Student 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Student 1</a></div>",
-    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
     "tags": [
       "Rádio",
       "Conversado",
@@ -1225,6 +815,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244671&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-brother\" title=\"EN Brother\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Brother</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "principal": true,
     "tags": [
       "Inglês",
@@ -1252,6 +845,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244665&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-dogs\" title=\"EN Dogs\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Dogs</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Inglês",
       "Triste",
@@ -1273,6 +869,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244662&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-susan\" title=\"EN Susan\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Susan</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Inglês",
       "Grave",
@@ -1294,7 +893,11 @@
     "subtitulo": "Inglês",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244653&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-whatsapp\" title=\"EN Whatsapp\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Whatsapp</a></div>",
-    "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem": "https://i1.sndcdn.com/artworks-DNf8px5Old9BO0X2-udUH4Q-t500x500.jpg",
+    "principal": "true",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Inglês",
       "Funk Carioca",
@@ -1318,6 +921,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244650&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/eletrolux-casa-refu-gio-lucas\" title=\"Eletrolux - Casa Refúgio\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Eletrolux - Casa Refúgio</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-NZFjEjoHpV9FdF04-J86GVQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Entrevista",
       "Falado",
@@ -1345,6 +951,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244647&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/elo-relax-tranquilo-simpatico\" title=\"Elo - Carta\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Elo - Carta</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-uwAzC1C9wKPtc74L-juyhbA-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Relax",
       "Tranquilo",
@@ -1393,6 +1002,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244626&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/dia-dos-namorados-oferta\" title=\"Estácio - Dia dos namorados\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Estácio - Dia dos namorados</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-N0EGsU5BmlfGY9z3-iZ0fhg-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",  
     "tags": [
       "Carinhoso",
       "Educação",
@@ -1458,6 +1070,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244608&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/fr-gm\" title=\"FR GM\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">FR GM</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Francês",
       "Sussurrado",
@@ -1477,6 +1092,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244605&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/fr-orange\" title=\"FR Orange\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">FR Orange</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Francês",
       "Sussurrado",
@@ -1608,6 +1226,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244572&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/grupo-godoy-spot-coloquial\" title=\"Grupo Godoy - Spot - Coloquial\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Grupo Godoy - Spot - Coloquial</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Simpático",
       "Rádio",
@@ -1629,6 +1250,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244569&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/honda-spot\" title=\"Honda - Spot Rádio\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Honda - Spot Rádio</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Spot",
       "Diálogo",
@@ -1648,6 +1272,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244566&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/honda-spot-conversado\" title=\"Honda - Spot Rádio 2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Honda - Spot Rádio 2</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-sCeZXaN0D6vOzASF-Hj6Kfw-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Spot",
       "Diálogo",
@@ -1667,6 +1294,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244554&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/instituto-ayrton-senna\" title=\"Instituto Ayrton Senna\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Instituto Ayrton Senna</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-2D711ExEiVtTgaH0-sgPhyg-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Educação",
       "Simpático",
@@ -1752,6 +1382,7 @@
     "subtitulo": "Faz Bem",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/D8PFOSdp4PU",
+    "principal": "true",
     "tags": [
       "Assinatura",
       "Simpatico",
@@ -1880,6 +1511,9 @@
     "subtitulo": "",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/cHfexyjiqF8",
+    "imagem_posicao": "left",
+    "imagem_largura": "180%",
+    "imagem_altura": "180%",
     "tags": [
       "Sorridente",
       "Grave",
@@ -1902,6 +1536,9 @@
     "subtitulo": "Mirval",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/EB-Yur0X_hI",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Caipira",
       "Conversado",
@@ -1969,6 +1606,7 @@
     "subtitulo": "Dia dos Fuzarka",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/5JBlOhoy74k",
+    "principal": "true",
     "tags": [
       "Interagindo",
       "Vendedor",
@@ -2030,6 +1668,9 @@
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244422&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/sebrae-ead-oficial\" title=\"SEBRAE EAD - Institucional\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">SEBRAE EAD - Institucional</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-gevXM5QuZm7pI1C2-teV4ow-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "100%",
+    "imagem_altura": "100%",
     "tags": [
       "Grave",
       "Aerado",
@@ -2142,6 +1783,7 @@
     "subtitulo": "Seleção pelo Histórico Escolar",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/3Ra0MZFFurw",
+    "principal": "true",
     "tags": [
       "Folgado",
       "Grave",
@@ -2177,6 +1819,9 @@
     "subtitulo": "Curso de Administração",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/e-uRuifrTe0",
+    "imagem_posicao": "center",
+    "imagem_largura": "180%",
+    "imagem_altura": "180%",
     "tags": [
       "Jovem",
       "Moderno",
@@ -2187,6 +1832,124 @@
       "Animado",
       "Informativo",
       "Confiante"
+    ]
+  },
+  {
+    "id": "BV - Centro de Serviços Compartilhados",
+    "titulo": "BV",
+    "subtitulo": "Centro de Serviços Compartilhados",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Pl43NTl4O_g",
+    "tags": [
+      "Simpático",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicativo",
+      "Descritivo",
+      "Otimista",
+      "Padrão",
+      "Energia",
+      "Jovem",
+      "Informal",
+      "Animado"
+    ]
+  },
+  {
+    "id": "BV - Crédito Pessoal",
+    "titulo": "BV",
+    "subtitulo": "Crédito Pessoal",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/tiTLJxZQgwE",
+    "tags": [
+      "Calmo",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicando",
+      "Explicativo",
+      "Descritivo",
+      "Padrão",
+      "Tranquilo",
+      "Relaxado",
+      "Simpático",
+      "Jovem",
+      "Informal",
+      "Amigo"
+    ]
+  },
+  {
+    "id": "BV - Financiamento de Veículos",
+    "titulo": "BV",
+    "subtitulo": "Financiamento de Veículos",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/V3qRysziD9A",
+    "tags": [
+      "Jovem",
+      "Informativo",
+      "Amigo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicando",
+      "Descritivo",
+      "Padrão",
+      "Informativo",
+      "Simpático",
+      "Informal"
+    ]
+  },
+  {
+    "id": "BV - Portal de antecipação",
+    "titulo": "BV",
+    "subtitulo": "Portal de Antecipação",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/54QczPxhf8s",
+    "tags": [
+      "Simpático",
+      "Informativo",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Explicativo",
+      "Descritivo",
+      "Otimista",
+      "Padrão",
+      "Energia",
+      "Jovem",
+      "Informal",
+      "Tutorial",
+      "Amigo"
+    ]
+  },
+  {
+    "id": "BV - Service Desk Mobile App",
+    "titulo": "BV",
+    "subtitulo": "Service Desk Mobile App",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/3_1geJkDpq4",
+    "tags": [
+      "Descolado",
+      "Simpático",
+      "Mercado Financeiro",
+      "Banco",
+      "Seguro",
+      "Soluções Financeiras",
+      "Feliz",
+      "Tranquilo",
+      "Relaxado",
+      "Jovem",
+      "Informal",
+      "Animado",
+      "Cool",
+      "Credibilidade",
+      "Amigo"
     ]
   },
   {
@@ -2213,6 +1976,7 @@
     "subtitulo": "cadastro de produtos na promoção",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/NVMcq1IrMO4",
+    "principal": "true",
     "tags": [
       "Espertinho",
       "Simpático",
@@ -2331,6 +2095,345 @@
     ]
   },
   {
+    "id": "Brasilprev - ABC da Previdência",
+    "titulo": "Brasilprev",
+    "subtitulo": "ABC da Previdência",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/sY-IYyI2rGg",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Brasilprev - Averbador, Vesting, Instituidor",
+    "titulo": "Brasilprev",
+    "subtitulo": "Averbador, Vesting, Instituidor",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/k6QHINpt71I",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Brasilprev - Cadastro de Senha",
+    "titulo": "Brasilprev",
+    "subtitulo": "Cadastro de Senha",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/A_ybL2Tbc44",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Deezer Family 02 3 Meses Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Family 3",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-family-02-3-meses\" title=\"Deezer - Family 3\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Family 3</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Deezer Premium 01 1 Meses Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 1",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244701&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-01-1-meses\" title=\"Deezer - Premium 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 1</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Deezer Premium 02 3 Meses Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 2",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-02-3-meses\" title=\"Deezer - Premium 2\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 2</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Deezer Premium 03 3 Meses Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 3",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244689&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-03-3-meses\" title=\"Deezer - Premium 3\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 3</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Deezer Premium 04 1 Mes Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Premium 4",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244686&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-premium-04-1-mes\" title=\"Deezer - Premium 4\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Premium 4</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Deezer Student 01 1 Meses Mix 200420",
+    "titulo": "Deezer",
+    "subtitulo": "Student",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244677&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/deezer-student-01-1-meses\" title=\"Deezer - Student 1\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Deezer - Student 1</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-GwkVhEc4ytMSYOyH-W4RuoQ-t500x500.jpg",
+    "imagem_posicao": "center",
+    "imagem_largura": "190%",
+    "imagem_altura": "190%",
+    "tags": [
+      "Rádio",
+      "Conversado",
+      "Simpático",
+      "Coloquial",
+      "Jovem",
+      "Tranquilo",
+      "Amigo",
+      "Padrão"
+    ]
+  },
+  {
+    "id": "Brasilprev - Capital Segurado e Tábua Atuarial",
+    "titulo": "Brasilprev",
+    "subtitulo": "Capital Segura e Tábua Aturial",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/fGWZvJgvjbE",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Brasilprev - Cota e Provisão Matemática de Benefícios a Conceder",
+    "titulo": "Brasilprev",
+    "subtitulo": "Cota e Provisão Matemática de Benefícios a Conceder",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/2rmOPUCV9SU",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Crystal - Mesão Copos",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Copos",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/NJ_ZKPzMyy8",
+    "principal": true,
+    "tags": [
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado",
+      "Malandro"
+    ]
+  },
+  {
+    "id": "Crystal - Mesão Selfie",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Selfie",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/NzSV6PiLXs0",
+    "tags": [
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado",
+      "Malandro"
+    ]
+  },
+  {
+    "id": "Crystal - Mesão Suspense",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão Suspense",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/ZSoseI3nrYc",
+    "tags": [
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado",
+      "Malandro"
+    ]
+  },
+  {
+    "id": "Crystal - Mesão",
+    "titulo": "Crystal",
+    "subtitulo": "Mesão",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/OlgqY9v8Hoc",
+    "tags": [
+      "Cerveja",
+      "Malícia",
+      "Folgado",
+      "Assinatura",
+      "Introdução",
+      "Jovem",
+      "Sarcástico",
+      "Falado",
+      "Malandro"
+    ]
+  },
+  {
+    "id": "Brasilprev - Extrato",
+    "titulo": "Brasilprev",
+    "subtitulo": "Extrato",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/ORJIC-YmdxI",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro"
+    ]
+  },
+  {
+    "id": "Brasilprev - Portal Brasilprev",
+    "titulo": "Brasilprev",
+    "subtitulo": "Portal Brasilprev",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/En9G8B6QJCc",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro",
+      "Otimista",
+      "Positivo"
+    ]
+  },
+  {
+    "id": "Brasilprev - Serviços Digitais",
+    "titulo": "Brasilprev",
+    "subtitulo": "Serviços Digitais",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/mOZtXFZWJpQ",
+    "tags": [
+      "Tutorial",
+      "Explicativo",
+      "Professor",
+      "Ensinando",
+      "Interpretado",
+      "Previdência",
+      "Banco",
+      "Mercado Financeiro",
+      "Amigo",
+      "Jovem Adulto"
+    ]
+  },
+  {
     "id": "Youth Concept",
     "titulo": "Youth Concept",
     "subtitulo": "",
@@ -2400,6 +2503,7 @@
     "subtitulo": "iPlace Refresh",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/V6TOMwL8Sy8",
+    "principal": "true",
     "tags": [
       "Grave",
       "Mágico",

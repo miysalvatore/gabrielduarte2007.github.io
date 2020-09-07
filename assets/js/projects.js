@@ -6,6 +6,10 @@ const levenshteinFactor = 2;
 
 const loadHighResImage = false;
 
+// Global variables
+
+var firstSearchLoad = true;
+
 // Media
 
 const mediaFolder = 'media';
@@ -171,8 +175,6 @@ const showModal = function (project) {
     if (modalProject !== project) {
         modalProject = project;
 
-        $('.chips.input-field .input').blur();
-
         // Reset iframe's visibility and content to force them to reload
 
         youtubeIframeWrapper.hide();
@@ -241,6 +243,8 @@ const showModal = function (project) {
     modalContent.animate({
         'opacity': 1
     })
+
+    lastScrollY = window.pageYOffset;
 
     $('body').addClass('modal-open');
 };
@@ -455,16 +459,12 @@ const getChipsInstance = function () {
 
 const loadAutocomplete = function () {
     // Load unique tags based on projects list
-    const tags = Array.from(new Set(projects.map(function (project) {
-        return project.tags;
-    }).flat()));
-
     const autocompleteValues = Array.from(new Set(projects.map(function (project) {
         return [
             ...project.tags,
             project.titulo,
             project.subtitulo,
-            project.titulo + ": " +project.subtitulo,
+            project.titulo + ': ' + project.subtitulo,
         ];
     }).flat()));
 
@@ -539,8 +539,12 @@ const loadAutocomplete = function () {
             const url = new URL(document.URL);
             const searchUrl = `${url.origin}${url.pathname}#busca_${tagsHash}`;
 
-            if (updateLastSearchUrl) {
+            if (updateLastSearchUrl || firstSearchLoad) {
                 lastSearchUrl = searchUrl;
+
+                if (firstSearchLoad) {
+                    firstSearchLoad = false;
+                }
             }
 
             // Update search url input
@@ -594,7 +598,6 @@ const loadAutocomplete = function () {
             minLength: 1
         },
         onChipAdd: function () {
-            console.log('chipAdd');
             updateSearch();
 
             setTimeout(function () {
@@ -602,13 +605,13 @@ const loadAutocomplete = function () {
             }, 100);
         },
         onChipDelete: function () {
-            console.log('chipDelete');
             updateSearch();
 
-            $('.chips.input-field .input').focus();
+            if (modal.css('display') === 'none') {
+                $('.chips.input-field .input').focus();
+            }
         },
         onChipSelect: function (event, chip) {
-            console.log('onChipSelect');
             const chips = getChipsInstance();
 
             chips.deleteChip($(chip).index());

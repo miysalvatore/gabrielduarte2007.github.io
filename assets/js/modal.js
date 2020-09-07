@@ -4,6 +4,8 @@ const body = $('body');
 // Get the modal
 const modal = $('#project_details');
 
+var lastScrollY;
+
 const hideModal = function (popped) {
     const modalContent = $('.modal-content');
     modalContent.animate({
@@ -17,12 +19,17 @@ const hideModal = function (popped) {
 
         $('body').removeClass('modal-open');
 
+        window.scrollTo(0, lastScrollY);
+
         if (!popped) {
             const url = new URL(document.URL);
             const nextUrl = lastSearchUrl || url.origin + url.pathname;
 
-            // TODO: Apenas mudar a URL não funciona, precisa disparar para adicionar as chips de busca
             history.pushState({}, null, nextUrl);
+
+            if (lastSearchUrl) {
+                loadCurrentUrl();
+            }
         }
     });
 };

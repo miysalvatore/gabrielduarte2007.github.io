@@ -6,8 +6,28 @@ const modal = $('#project_details');
 
 var lastScrollY;
 
+var isHidingModal;
+
 const hideModal = function (popped) {
+    isHidingModal = true;
+
+    if (!popped) {
+        const url = new URL(document.URL);
+        const nextUrl = lastSearchUrl || url.origin + url.pathname;
+
+        history.pushState({}, null, nextUrl);
+
+        if (lastSearchUrl) {
+            loadCurrentUrl();
+        }
+    }
+
+    $('body').removeClass('modal-open');
+
+    window.scrollTo(0, lastScrollY);
+
     const modalContent = $('.modal-content');
+
     modalContent.animate({
         'opacity': 0
     }, 600, function () {
@@ -17,20 +37,7 @@ const hideModal = function (popped) {
             $(this).attr('src', $(this).attr('src'));
         });
 
-        $('body').removeClass('modal-open');
-
-        window.scrollTo(0, lastScrollY);
-
-        if (!popped) {
-            const url = new URL(document.URL);
-            const nextUrl = lastSearchUrl || url.origin + url.pathname;
-
-            history.pushState({}, null, nextUrl);
-
-            if (lastSearchUrl) {
-                loadCurrentUrl();
-            }
-        }
+        isHidingModal = false;
     });
 };
 

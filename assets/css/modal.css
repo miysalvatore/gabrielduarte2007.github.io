@@ -20,14 +20,34 @@
     padding: 20px;
     border: 1px solid #888;
     width: 80%; /* Could be more or less, depending on screen size */
+    overflow: auto;
 }
 
 #youtube_iframe {
-    height: calc(100vh - 120px);
+    height: calc(100vh - 215px);
 }
 
 @media screen and (max-width: 600px) {
     #youtube_iframe {
-        height: calc(100vh - 220px);
+        height: calc(100vh - 365px);
+    }
+}
+
+#project_details .content.project__tags {
+    position: inherit;
+}
+
+#project_details .project__tags .project__tag {
+    background: #eeeeee;
+    box-shadow: 2px 2px 1px 0px #58585863;
+}
+
+#project_details .project__tags .project__tag:hover {
+    background: #065fd4;
+}
+
+@media screen and (max-width: 600px) {
+    #project_details .project__tags .project__tag {
+        width: initial;
     }
 }

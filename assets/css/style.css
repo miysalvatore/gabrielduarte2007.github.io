@@ -22,6 +22,12 @@ body.modal-open {
     width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+    .project__button {
+        margin: 0 5px;
+    }
+}
+
 @media only screen and (min-width: 600px) {
     .project__button {
         width: auto;
@@ -122,4 +128,34 @@ input[type="text"] {
 
 .link-icon:before {
     content: "\f064";
+}
+
+.project__tag {
+    position: relative;
+}
+
+.project__tag--more-tags {
+    background: none;
+    border: 1px solid #f2e7df;
+    color: white;
+}
+
+.project__tag--more-tags:hover {
+    border-bottom-color: inherit;
+}
+
+.project__tag--selected::before {
+    content: "";
+    height: calc(100% + 10px);
+    border-radius: 25px;
+    width: calc(100% + 10px);
+    position: absolute;
+    left: -5px;
+    top: -5px;
+    border: 2px solid white;
+}
+
+.project .project__title,
+.project .project__subtitle {
+    margin-top: -40px;
 }

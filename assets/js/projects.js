@@ -289,8 +289,8 @@ const showModal = function (project) {
 
 // Projects Elements
 
-const createProjectsElements = function (projectsElements) {
-    projectsElements.forEach(createProjectElement);
+const createProjectsElements = function (projectsElems) {
+    projectsElems.forEach(createProjectElement);
 
     projectsElements = $('.project');
 
@@ -492,8 +492,8 @@ const findByData = function (elements, key, value) {
     }, []);
 };
 
-const findProjectsElements = function (projectsElements) {
-    return projectsElements.map(function (project) {
+const findProjectsElements = function (projectsElems) {
+    return projectsElems.map(function (project) {
         return findByData(projectsElements, 'project', clearUrl(project.id))[0];
     });
 };

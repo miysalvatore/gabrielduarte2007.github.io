@@ -2,7 +2,7 @@
 
 const visibleTagsAmount = 3;
 
-const levenshteinFactor = 2;
+const levenshteinFactor = 1;
 
 const loadHighResImage = false;
 

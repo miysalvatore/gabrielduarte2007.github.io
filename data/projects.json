@@ -46,7 +46,8 @@
       "Rápido",
       "Blasé",
       "Malandro",
-      "Ironia"
+      "Ironia",
+      "Divertido"
     ]
   },
   {
@@ -111,7 +112,8 @@
       "Pandemia",
       "Calmo",
       "Seguro",
-      "Jovem"
+      "Jovem",
+      "Divertido"
     ]
   },
   {
@@ -155,7 +157,8 @@
       "Informal",
       "Animado",
       "Alegre",
-      "Feliz"
+      "Feliz",
+      "Colorida"
     ]
   },
   {
@@ -177,7 +180,8 @@
       "Simpático",
       "Credibilidade",
       "De bem com a vida",
-      "Jovem"
+      "Jovem",
+      "Colorida"
     ]
   },
   {
@@ -207,7 +211,8 @@
       "Seguro",
       "Jovem",
       "Informal",
-      "Animado"
+      "Animado",
+      "Colorida"
     ]
   },
   {
@@ -282,7 +287,8 @@
       "Forte",
       "Simpático",
       "Folgado",
-      "Seguro"
+      "Seguro",
+      "Colorida"
     ]
   },
   {
@@ -315,7 +321,8 @@
       "Clube",
       "Informal",
       "Blasé",
-      "Triste"
+      "Triste",
+      "Dramático"
     ]
   },
   {
@@ -336,7 +343,8 @@
       "Brinquedo",
       "Alto",
       "Jovem",
-      "Animado"
+      "Animado",
+      "Divertido"
     ]
   },
   {
@@ -364,7 +372,8 @@
       "Regional",
       "Relaxado",
       "Storytelling",
-      "Storyteller"
+      "Storyteller",
+      "Dramático"
     ]
   },
   {
@@ -386,7 +395,8 @@
       "Animado",
       "Prático",
       "Simples",
-      "Fácil"
+      "Fácil",
+      "Divertido"
     ]
   },
   {
@@ -411,7 +421,8 @@
       "Poesia",
       "Poeta",
       "Recitado",
-      "Viagem"
+      "Viagem",
+      "Dramático"
     ]
   },
   {
@@ -455,7 +466,8 @@
       "Seguro",
       "Padrão",
       "Orgulho",
-      "Animado"
+      "Animado",
+      "Dramático"
     ]
   },
   {
@@ -523,7 +535,8 @@
       "Publicidade",
       "Repertório",
       "Palavrão",
-      "Reel"
+      "Reel",
+      "Colorida"
     ]
   },
   {
@@ -653,7 +666,8 @@
       "Energia",
       "Vendedor",
       "Banco",
-      "Alegre"
+      "Alegre",
+      "Divertido"
     ]
   },
   {
@@ -693,7 +707,8 @@
       "Emocionante",
       "Liberdade",
       "Otimista",
-      "Explicando"
+      "Explicando",
+      "Dramático"
     ]
   },
   {
@@ -857,7 +872,8 @@
       "Nostalgia",
       "Rap",
       "Sonhador",
-      "Rimado"
+      "Rimado",
+      "Dramático"
     ]
   },
   {
@@ -906,7 +922,8 @@
       "Emocionante",
       "Mágico",
       "Rimado",
-      "Sonhador"
+      "Sonhador",
+      "Dramático"
     ]
   },
   {
@@ -933,7 +950,8 @@
       "Energia",
       "Explicando",
       "Malandro",
-      "Espertinho"
+      "Espertinho",
+      "Divertido"
     ]
   },
   {
@@ -991,7 +1009,8 @@
       "Sol",
       "Prazer",
       "Lento",
-      "Férias"
+      "Férias",
+      "Colorida"
     ]
   },
   {
@@ -1014,7 +1033,8 @@
       "Financeira",
       "Jovem",
       "História",
-      "Personagem"
+      "Personagem",
+      "Dramático"
     ]
   },
   {
@@ -1082,7 +1102,8 @@
       "Promoção",
       "Diálogo",
       "Alto Astral",
-      "Malandro"
+      "Malandro",
+      "Divertido"
     ]
   },
   {
@@ -1374,7 +1395,9 @@
       "Gritando",
       "Prazer",
       "Ansioso",
-      "Humor"
+      "Humor",
+      "Dramático",
+      "Colorida"
     ]
   },
   {
@@ -1486,7 +1509,8 @@
       "Conversado",
       "Aplicativo",
       "Comentado",
-      "Engraçado"
+      "Engraçado",
+      "Divertido"
     ]
   },
   {
@@ -1724,7 +1748,8 @@
       "Padrão",
       "Infotainment",
       "App Connect",
-      "Interno"
+      "Interno",
+      "Dramático"
     ]
   },
   {
@@ -2053,7 +2078,8 @@
       "Descritivo",
       "Animado",
       "Faustão",
-      "Oloco"
+      "Olocomeu",
+      "Divertido"
     ]
   },
   {

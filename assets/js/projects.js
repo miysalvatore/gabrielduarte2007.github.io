@@ -638,7 +638,7 @@ const loadAutocomplete = function () {
         }
 
         // Transform array of objects into array of strings
-        const currentTags = chips.chipsData.map(e => e.tag);
+        const currentTags = chips.chipsData.map(e => clearString(e.tag));
 
         // Update visible tags based on current search
 
@@ -651,15 +651,17 @@ const loadAutocomplete = function () {
 
             if (project) {
                 const foundTags =
-                    currentTags
-                        .filter(function (currentTag) {
-                            return project.tags.indexOf(currentTag) >= 0;
+                    project.tags
+                        .filter(function (tag) {
+                            return currentTags.indexOf(clearString(tag)) >= 0;
                         });
+
+                const clearedFoundTags = foundTags.map(clearString);
 
                 const notFoundTags =
                     project.tags
                         .filter(function (tag) {
-                            return foundTags.indexOf(tag) < 0;
+                            return clearedFoundTags.indexOf(clearString(tag)) < 0;
                         });
 
                 const tags = [
@@ -680,7 +682,7 @@ const loadAutocomplete = function () {
 
             const tagSelectedClass = 'project__tag--selected';
 
-            if (currentTags.indexOf(tag) >= 0) {
+            if (currentTags.indexOf(clearString(tag)) >= 0) {
                 $(this).addClass(tagSelectedClass);
             } else if ($(this).hasClass(tagSelectedClass)) {
                 $(this).removeClass(tagSelectedClass);

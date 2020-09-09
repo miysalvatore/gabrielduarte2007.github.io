@@ -451,6 +451,16 @@ const loadEvents = function () {
         event.preventDefault();
         event.stopPropagation();
     });
+
+    $('.tag.project__tag--more-tags').on('click', function (event) {
+        const projectIndex = invertClearUrl($(this).closest('.project').data('project'));
+
+        const project = projects.find(function (project) {
+            return project.id === projectIndex;
+        });
+
+        showModal(project);
+    });
 };
 
 // URL Helpers

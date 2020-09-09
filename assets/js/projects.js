@@ -19,9 +19,9 @@ const getProxyUrl = function (url) {
 
 // Load JSON data
 
-let projects = [];
-let colors = [];
-let tagsAlias = [];
+var projects = [];
+var colors = [];
+var tagsAlias = [];
 
 const createColorsClasses = function () {
     const style = document.createElement('style');

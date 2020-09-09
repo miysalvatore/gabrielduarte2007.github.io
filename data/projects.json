@@ -863,7 +863,7 @@
   {
     "id": "EN Dogs",
     "titulo": "Dogs",
-    "subtitulo": "",
+    "subtitulo": "Inglês",
     "tipo": "AUDIO",
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244665&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/en-dogs\" title=\"EN Dogs\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">EN Dogs</a></div>",
     "imagem": "https://i1.sndcdn.com/avatars-WPbGSQWtzyZzrdlt-2nxrIQ-t500x500.jpg",
@@ -944,8 +944,8 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244650&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/eletrolux-casa-refu-gio-lucas\" title=\"Eletrolux - Casa Refúgio\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Eletrolux - Casa Refúgio</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-NZFjEjoHpV9FdF04-J86GVQ-t500x500.jpg",
     "imagem_posicao": "center",
-    "imagem_largura": "100%",
-    "imagem_altura": "100%",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
     "tags": [
       "Entrevista",
       "Falado",
@@ -1025,8 +1025,8 @@
     "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880244626&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/dia-dos-namorados-oferta\" title=\"Estácio - Dia dos namorados\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Estácio - Dia dos namorados</a></div>",
     "imagem": "https://i1.sndcdn.com/artworks-N0EGsU5BmlfGY9z3-iZ0fhg-t500x500.jpg",
     "imagem_posicao": "center",
-    "imagem_largura": "100%",
-    "imagem_altura": "100%",  
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",  
     "tags": [
       "Carinhoso",
       "Educação",
@@ -1516,6 +1516,8 @@
     "subtitulo": "Institucional",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/dlfSm188Va4",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "tags": [
       "Simpático",
       "Institucional",
@@ -1862,8 +1864,8 @@
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/e-uRuifrTe0",
     "imagem_posicao": "center",
-    "imagem_largura": "180%",
-    "imagem_altura": "180%",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "tags": [
       "Jovem",
       "Moderno",
@@ -2000,6 +2002,8 @@
     "subtitulo": "Curso de Publicidade e Propaganda",
     "tipo": "VIDEO",
     "youtube": "https://youtu.be/9ft-04E1A5Q",
+    "imagem_largura": "200%",
+    "imagem_altura": "200%",
     "tags": [
       "Jovem",
       "Moderno",

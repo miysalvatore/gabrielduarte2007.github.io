@@ -2,7 +2,8 @@
   {
     "nome": "Banco",
     "alias": [
-      "Banko"
+      "Banko",
+      "LOUCURATOTAL"
     ]
   },
   {
@@ -575,10 +576,23 @@
     "alias": []
   },
   {
+    "nome": "Animado",
+    "alias": [
+      "Pra cima",
+      "Pilhado"
+    ]
+  },
+  {
     "nome": "Animação",
     "alias": [
       "Desenho Animado",
       "Cartoon"
+    ]
+  },
+  {
+    "nome": "Seguro",
+    "alias": [
+      "Credibilidade"
     ]
   },
   {
@@ -715,7 +729,8 @@
       "Informal",
       "Conversado",
       "Conversa",
-      "Falado"
+      "Falado",
+      "Natural"
     ]
   },
   {
@@ -747,7 +762,8 @@
   {
     "nome": "Explicando",
     "alias": [
-      "Explicativo"
+      "Explicativo",
+      "Ensinando"
     ]
   },
   {
@@ -823,12 +839,16 @@
   {
     "nome": "Ironia",
     "alias": [
-      "Irônico"
+      "Irônico",
+      "Sarcástico"
     ]
   },
   {
     "nome": "Contador de Histórias",
-    "alias": []
+    "alias": [
+      "Storyteller",
+      "Storytelling"
+    ]
   },
   {
     "nome": "Jovem",
@@ -881,7 +901,9 @@
   },
   {
     "nome": "Descritivo",
-    "alias": []
+    "alias": [
+      "Informativo"
+    ]
   },
   {
     "nome": "Caipira",

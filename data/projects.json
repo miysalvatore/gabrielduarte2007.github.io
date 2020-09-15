@@ -553,7 +553,8 @@
       "Storyteller",
       "Contador de Histórias",
       "Padrão",
-      "Anos 80"
+      "Anos 80",
+      "Storytel"
     ]
   },
   {
@@ -1413,6 +1414,32 @@
       "Prazer",
       "Ansioso",
       "Humor",
+      "Dramático",
+      "Colorida"
+    ]
+  },
+  {
+    "id": "Drinks and Clubs - Gin Tônica",
+    "titulo": "Drinks and Clubs",
+    "subtitulo": "Gin Tônica",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/6efiLJxxo6M",
+    "imagem": "",
+    "principal": true,
+    "tags": [
+      "Mágico",
+      "Ator",
+      "Interpretado",
+      "Tutorial",
+      "Sedutor",
+      "Engraçado",
+      "Personagem",
+      "Esquisito",
+      "Afetado",
+      "Onírico",
+      "Caricato",
+      "Lânguido",
+      "Prazer",
       "Dramático",
       "Colorida"
     ]

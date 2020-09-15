@@ -554,6 +554,7 @@
       "Contador de Histórias",
       "Padrão",
       "Anos 80",
+      "Livro",
       "Storytel"
     ]
   },
@@ -762,6 +763,44 @@
       "Narrador",
       "Energia",
       "Amigo"
+    ]
+  },
+  {
+    "id": "Rappi - Preço Justo",
+    "titulo": "Rappi",
+    "subtitulo": "Preço Justo",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/NqxTSTeahUY",
+    "principal": true,
+    "tags": [
+      "Padrão",
+      "Institucional",
+      "Entrega",
+      "Instagram",
+      "Feliz",
+      "Vendedor",
+      "Amigo",
+      "Simpático"
+    ]
+  },
+  {
+    "id": "Bradesco Seguros - Dia dos Pais",
+    "titulo": "Bradesco Seguros",
+    "subtitulo": "Dia dos Pais",
+    "tipo": "VIDEO",
+    "youtube": "https://youtu.be/Q_G5p60OChI",
+    "principal": true,
+    "tags": [
+      "Emocionante",
+      "Institucional",
+      "Futuro",
+      "Instagram",
+      "Banco",
+      "Otimista",
+      "Carinho",
+      "Simpático",
+      "Esperança",
+      "Nostálgico"
     ]
   },
   {
@@ -1441,7 +1480,8 @@
       "Lânguido",
       "Prazer",
       "Dramático",
-      "Colorida"
+      "Colorida",
+      "Balada"
     ]
   },
   {

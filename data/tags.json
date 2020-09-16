@@ -77,6 +77,12 @@
     ]
   },
   {
+    "nome": "Sussurro",
+    "alias": [
+      "Soft"
+    ]
+  },
+  {
     "nome": "Unifebe",
     "alias": []
   },
@@ -703,7 +709,9 @@
   },
   {
     "nome": "Vendedor",
-    "alias": []
+    "alias": [
+      "Comercial"
+    ]
   },
   {
     "nome": "Forte",

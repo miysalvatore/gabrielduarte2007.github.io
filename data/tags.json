@@ -137,6 +137,13 @@
     "alias": []
   },
   {
+    "nome": "Brincadeira",
+    "alias": [
+      "Brincando",
+      "Brincar"
+    ]
+  },
+  {
     "nome": "Banco do Brasil",
     "alias": []
   },
@@ -444,6 +451,12 @@
     "alias": []
   },
   {
+    "nome": "Recitado",
+    "alias": [
+      "Poesia"
+    ]
+  },
+  {
     "nome": "Renner",
     "alias": []
   },
@@ -576,6 +589,14 @@
     "alias": []
   },
   {
+    "nome": "Prazer",
+    "alias": [
+      "Hedonista",
+      "Lânguido",
+      "Prazeroso"
+    ]
+  },
+  {
     "nome": "Animado",
     "alias": [
       "Pra cima",
@@ -647,7 +668,8 @@
     "nome": "Mágico",
     "alias": [
       "Magia",
-      "Mágica"
+      "Mágica",
+      "Místico"
     ]
   },
   {
@@ -781,7 +803,8 @@
   {
     "nome": "Sonho",
     "alias": [
-      "Sonhador"
+      "Sonhador",
+      "Onírico"
     ]
   },
   {
@@ -796,7 +819,12 @@
   },
   {
     "nome": "Emocionante",
-    "alias": []
+    "alias": [
+      "Emocionante",
+      "Emocional",
+      "Emotivo",
+      "Emo"
+    ]
   },
   {
     "nome": "Oficial",
@@ -840,7 +868,8 @@
     "nome": "Ironia",
     "alias": [
       "Irônico",
-      "Sarcástico"
+      "Sarcástico",
+      "Tirando Sarro"
     ]
   },
   {

@@ -128,4 +128,46 @@ $(function () {
 
         event.stopPropagation();
     });
+
+    // Sobre
+    const showModalSobre = function () {
+        const modalContent = $('.modal-content');
+        modalContent.css({
+            'opacity': 0
+        });
+
+        $('#sobre').show();
+
+        modalContent.animate({
+            'opacity': 1
+        });
+
+        lastScrollY = window.pageYOffset;
+
+        $('body').addClass('modal-open');
+    };
+
+    $('a[href="#sobre"]').on('click', function (event) {
+        showModalSobre();
+
+        event.stopPropagation();
+
+        return false;
+    });
+
+    $('#sobre').on('click', function() {
+        const modalSobre = $(this);
+
+        $('body').removeClass('modal-open');
+
+        window.scrollTo(0, lastScrollY);
+
+        const modalContent = $('.modal-content');
+
+        modalContent.animate({
+            'opacity': 0
+        }, 600, function () {
+            modalSobre.hide();
+        });
+    });
 });

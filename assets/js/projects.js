@@ -280,7 +280,7 @@ const showModal = function (project) {
 
     modalContent.animate({
         'opacity': 1
-    })
+    });
 
     lastScrollY = window.pageYOffset;
 
@@ -555,16 +555,11 @@ const loadAutocomplete = function () {
         }).flat();
 
         // Load tag aliases
-        tagsAlias
+        const tagsAliasFiltered = tagsAlias
             .filter(function (tagAlias) {
                 return tagAlias.alias.some(function (alias) {
                     return splitTags.map(clearString).includes(clearString(alias));
                 });
-            })
-            .forEach(function (tagAlias) {
-                if (!splitTags.includes(tagAlias.nome)) {
-                    tags.push(tagAlias.nome);
-                }
             });
 
         // Hide all elements
@@ -598,6 +593,20 @@ const loadAutocomplete = function () {
 
                 return acc;
             }, []);
+
+            tagsAliasFiltered.forEach(function (tagAlias) {
+                projects.forEach(project => {
+                    const found =
+                        project.tags.some(function (tag) {
+                            return clearString(tag).includes(clearString(tagAlias.nome))
+                                || levenshteinDistance(clearString(tag), clearString(tagAlias.nome)) <= levenshteinFactor;
+                        });
+
+                    if (found) {
+                        foundProjects.push(project);
+                    }
+                });
+            });
 
             // Load search url
             const tagsHash = tags.map(clearAccent).map(clearUrl).join('&');

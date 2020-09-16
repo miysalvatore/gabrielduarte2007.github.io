@@ -170,4 +170,29 @@ $(function () {
             modalSobre.hide();
         });
     });
+
+    // Popover
+
+    const iconsPopover = $('.icons__popover');
+
+    iconsPopover.popover();
+
+    body.on('click', function (event) {
+        if (!$(event.target).hasClass('popover-body')) {
+            iconsPopover.popover('hide');
+        }
+    });
+
+    iconsPopover.on('click', function () {
+        const element = $(this);
+        setTimeout(function () {
+            element.popover('show');
+        });
+    });
+
+    if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        iconsPopover.on('click', function (event) {
+            event.preventDefault();
+        });
+    }
 });

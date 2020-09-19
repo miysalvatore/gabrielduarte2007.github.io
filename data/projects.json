@@ -20,7 +20,8 @@
       "Filmes",
       "Netflix",
       "Sabichão",
-      "Malandro"
+      "Malandro",
+      "Impostado"
     ]
   },
   {
@@ -74,7 +75,8 @@
       "Bravo",
       "Aerado",
       "Pesado",
-      "Folgado"
+      "Folgado",
+      "Impostado"
     ]
   },
   {
@@ -133,7 +135,8 @@
       "Pandemia",
       "Grave",
       "Sério",
-      "Hotel"
+      "Hotel",
+      "Impostado"
     ]
   },
   {
@@ -605,7 +608,8 @@
       "Site chinês",
       "Jovem",
       "Informal",
-      "Animado"
+      "Animado",
+      "Impostado"
     ]
   },
   {
@@ -801,7 +805,8 @@
       "Carinho",
       "Simpático",
       "Esperança",
-      "Nostálgico"
+      "Nostálgico",
+      "Impostado"
     ]
   },
   {
@@ -1482,7 +1487,8 @@
       "Prazer",
       "Dramático",
       "Colorida",
-      "Balada"
+      "Balada",
+      "Impostado"
     ]
   },
   {
@@ -1710,7 +1716,8 @@
       "Flat",
       "Blasé",
       "Folgado",
-      "Malandro"
+      "Malandro",
+      "Impostado"
     ]
   },
   {
@@ -1730,7 +1737,8 @@
       "Flat",
       "Blasé",
       "Folgado",
-      "Malandro"
+      "Malandro",
+      "Impostado"
     ]
   },
   {
@@ -1813,7 +1821,8 @@
       "Tranquilo",
       "Moderno",
       "Cool",
-      "Blasé"
+      "Blasé",
+      "Impostado"
     ]
   },
   {
@@ -3003,7 +3012,8 @@
       "Moderno",
       "Futuro",
       "Misterioso",
-      "Sensual"
+      "Sensual",
+      "Impostado"
     ]
   },
   {
@@ -3091,7 +3101,8 @@
       "Orgulho",
       "Inspiracional",
       "Forest Gump",
-      "Sonhador"
+      "Sonhador",
+      "Impostado"
     ]
   },
   {
@@ -3114,7 +3125,8 @@
       "Orgulho",
       "Inspiracional",
       "Forest Gump",
-      "Sonhador"
+      "Sonhador",
+      "Impostado"
     ]
   }
 ]

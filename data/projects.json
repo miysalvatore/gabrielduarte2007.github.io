@@ -671,7 +671,31 @@
       "Padrão",
       "Formal",
       "Sério",
-      "Animado"
+      "Animado",
+      "Internacional"
+    ]
+  },
+  {
+    "id": "Fiat Argo - Espanhol",
+    "titulo": "Fiat Argo",
+    "subtitulo": "Espanhol",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/896928751&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/fiat-argo-multimedia-gabriel\" title=\"Fiat Argo - Espanhol\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Fiat Argo - Espanhol</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-tuWpeyx8HR1IJ60c-CGzfWg-t500x500.jpg",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
+    "tags": [
+      "Espanhol",
+      "Natural",
+      "Conversa",
+      "Simpatico",
+      "Carro",
+      "Lançamento",
+      "Amigo",
+      "Atuado",
+      "Explicando",
+      "Jovem",
+      "Internacional"
     ]
   },
   {
@@ -786,6 +810,29 @@
       "Vendedor",
       "Amigo",
       "Simpático"
+    ]
+  },
+  {
+    "id": "Itau - Renove os Ares",
+    "titulo": "Itaú",
+    "subtitulo": "Renove os Ares",
+    "tipo": "AUDIO",
+    "soundcloud": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/896928685&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/gabrielduarte\" title=\"Gabriel Duarte - Locutor\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Gabriel Duarte - Locutor</a> · <a href=\"https://soundcloud.com/gabrielduarte/gabriel-itau-renove-os-ares\" title=\"Itaú - Renove os Ares\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Itaú - Renove os Ares</a></div>",
+    "imagem": "https://i1.sndcdn.com/artworks-cvBNLMt2lVJIsB20-tu8CBQ-t500x500.jpg",
+    "imagem_largura": "90%",
+    "imagem_altura": "90%",
+    "tags": [
+      "Retrospectiva",
+      "Natural",
+      "Tranquilo",
+      "Emotivo",
+      "Crescendo",
+      "Mudança",
+      "Sotaque Francês",
+      "Banco",
+      "Magia",
+      "Exclusivo"
+
     ]
   },
   {
@@ -936,7 +983,8 @@
       "Rap",
       "Sonhador",
       "Rimado",
-      "Dramático"
+      "Dramático",
+      "Internacional"
     ]
   },
   {
@@ -960,7 +1008,8 @@
       "Fry",
       "Morte",
       "Nostalgia",
-      "Cachorro"
+      "Cachorro",
+      "Internacional"
     ]
   },
   {
@@ -986,7 +1035,8 @@
       "Mágico",
       "Rimado",
       "Sonhador",
-      "Dramático"
+      "Dramático",
+      "Internacional"
     ]
   },
   {
@@ -1014,7 +1064,8 @@
       "Explicando",
       "Malandro",
       "Espertinho",
-      "Divertido"
+      "Divertido",
+      "Internacional"
     ]
   },
   {
@@ -1973,7 +2024,8 @@
       "Educação",
       "Apresentação",
       "Professor",
-      "Sotaque"
+      "Sotaque",
+      "Internacional"
     ]
   },
   {
@@ -2137,7 +2189,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Revisão 3 anos",
+    "id": "Volkswagen - Revisao 3 anos",
     "titulo": "Volkswagen",
     "subtitulo": "Revisão 3 anos",
     "tipo": "VIDEO",
@@ -2237,7 +2289,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Certificado de Serviços",
+    "id": "Volkswagen - Certificado de Servicos",
     "titulo": "Volkswagen",
     "subtitulo": "Certificado de Serviços",
     "tipo": "VIDEO",
@@ -2276,7 +2328,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Pós-venda",
+    "id": "Volkswagen - Pos-venda",
     "titulo": "Volkswagen",
     "subtitulo": "Pós-venda",
     "tipo": "VIDEO",
@@ -2350,7 +2402,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Pós-venda Infográficos",
+    "id": "Volkswagen - Pos-venda Infograficos",
     "titulo": "Volkswagen",
     "subtitulo": "Pós-venda Infográficos",
     "tipo": "VIDEO",
@@ -2439,7 +2491,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Motivacional Inovação",
+    "id": "Volkswagen - Motivacional Inovacao",
     "titulo": "Volkswagen",
     "subtitulo": "Motivacional Inovação",
     "tipo": "VIDEO",
@@ -2594,7 +2646,7 @@
     ]
   },
   {
-    "id": "Volkswagen - Concessionária Digital",
+    "id": "Volkswagen - Concessionaria Digital",
     "titulo": "Volkswagen",
     "subtitulo": "Concessionária Digital",
     "tipo": "VIDEO",
@@ -2724,7 +2776,7 @@
     ]
   },
   {
-    "id": "Scania - Promoção Orlando",
+    "id": "Scania - Promocao Orlando",
     "titulo": "Scania",
     "subtitulo": "Promoção Orlando",
     "tipo": "VIDEO",
@@ -3017,7 +3069,7 @@
     ]
   },
   {
-    "id": "Scania - Promoção Foz do Iguaçu",
+    "id": "Scania - Promocao Foz do Iguacu",
     "titulo": "Scania",
     "subtitulo": "Promoção Foz do Iguaçu",
     "tipo": "VIDEO",
@@ -3039,7 +3091,7 @@
     ]
   },
   {
-    "id": "Scania - Promoção NY",
+    "id": "Scania - Promocao NY",
     "titulo": "Scania",
     "subtitulo": "Promoção NY",
     "tipo": "VIDEO",

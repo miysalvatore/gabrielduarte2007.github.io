@@ -21,7 +21,9 @@
       "Netflix",
       "Sabichão",
       "Malandro",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -48,7 +50,9 @@
       "Blasé",
       "Malandro",
       "Ironia",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -76,7 +80,9 @@
       "Aerado",
       "Pesado",
       "Folgado",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -92,7 +98,9 @@
       "Animado",
       "Animação",
       "Contador de histórias",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -115,7 +123,9 @@
       "Calmo",
       "Seguro",
       "Jovem",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -136,7 +146,9 @@
       "Grave",
       "Sério",
       "Hotel",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -161,7 +173,9 @@
       "Animado",
       "Alegre",
       "Feliz",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -184,7 +198,9 @@
       "Credibilidade",
       "De bem com a vida",
       "Jovem",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -215,7 +231,9 @@
       "Jovem",
       "Informal",
       "Animado",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -240,7 +258,9 @@
       "Carreira",
       "Jovem",
       "Informal",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -261,7 +281,9 @@
       "Tranquilo",
       "Oficial",
       "Bayer",
-      "Banco de imagem"
+      "Banco de imagem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -291,7 +313,9 @@
       "Simpático",
       "Folgado",
       "Seguro",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -325,7 +349,9 @@
       "Informal",
       "Blasé",
       "Triste",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -347,7 +373,9 @@
       "Alto",
       "Jovem",
       "Animado",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -376,7 +404,9 @@
       "Relaxado",
       "Storytelling",
       "Storyteller",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -398,7 +428,9 @@
       "Prático",
       "Simples",
       "Fácil",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -424,7 +456,9 @@
       "Poeta",
       "Recitado",
       "Viagem",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -449,7 +483,9 @@
       "Coach",
       "Futuro",
       "Jovem",
-      "Informal"
+      "Informal",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -469,7 +505,9 @@
       "Padrão",
       "Orgulho",
       "Animado",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -486,7 +524,9 @@
       "Seguro",
       "Otimista",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -509,7 +549,9 @@
       "Animado",
       "Tranquilo",
       "Padrão",
-      "Otimista"
+      "Otimista",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -538,7 +580,9 @@
       "Repertório",
       "Palavrão",
       "Reel",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -559,7 +603,9 @@
       "Padrão",
       "Anos 80",
       "Livro",
-      "Storytel"
+      "Storytel",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -586,7 +632,9 @@
       "Coloquial",
       "Caricato",
       "Personagem",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -609,7 +657,9 @@
       "Jovem",
       "Informal",
       "Animado",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -635,7 +685,9 @@
       "Coloquial",
       "Caricato",
       "Personagem",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -655,7 +707,9 @@
       "Financeiro",
       "Banco",
       "Moderno",
-      "Motivador"
+      "Motivador",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -672,7 +726,9 @@
       "Formal",
       "Sério",
       "Animado",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -695,7 +751,9 @@
       "Atuado",
       "Explicando",
       "Jovem",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -715,7 +773,9 @@
       "Vendedor",
       "Banco",
       "Alegre",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -733,7 +793,9 @@
       "Sotaque Neutro",
       "Tecnologia",
       "Futuro",
-      "Amigo"
+      "Amigo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -756,7 +818,9 @@
       "Liberdade",
       "Otimista",
       "Explicando",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -775,7 +839,9 @@
       "Professor",
       "Ensinando",
       "Interpretado",
-      "Amigo"
+      "Amigo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -791,7 +857,9 @@
       "Dicas",
       "Narrador",
       "Energia",
-      "Amigo"
+      "Amigo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -809,7 +877,9 @@
       "Feliz",
       "Vendedor",
       "Amigo",
-      "Simpático"
+      "Simpático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -831,8 +901,9 @@
       "Sotaque Francês",
       "Banco",
       "Magia",
-      "Exclusivo"
-
+      "Exclusivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -853,7 +924,9 @@
       "Simpático",
       "Esperança",
       "Nostálgico",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -871,7 +944,9 @@
       "Jovem",
       "Sarcástico",
       "Falado",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -892,7 +967,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -913,7 +990,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -931,7 +1010,9 @@
       "Tutorial",
       "Narrador",
       "Rápido",
-      "Farmacêutica"
+      "Farmacêutica",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -952,7 +1033,9 @@
       "Infantil",
       "Vendedor",
       "Sorridente",
-      "Feliz"
+      "Feliz",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -984,7 +1067,9 @@
       "Sonhador",
       "Rimado",
       "Dramático",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1009,7 +1094,9 @@
       "Morte",
       "Nostalgia",
       "Cachorro",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1036,7 +1123,9 @@
       "Rimado",
       "Sonhador",
       "Dramático",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1065,7 +1154,9 @@
       "Malandro",
       "Espertinho",
       "Divertido",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1095,7 +1186,9 @@
       "Diálogo",
       "Hispter",
       "Paulistano",
-      "Jovem Adulto"
+      "Jovem Adulto",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1124,7 +1217,9 @@
       "Prazer",
       "Lento",
       "Férias",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1148,7 +1243,9 @@
       "Jovem",
       "História",
       "Personagem",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1172,7 +1269,9 @@
       "Informal",
       "Animado",
       "Feliz",
-      "Data Comemorativa"
+      "Data Comemorativa",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1193,7 +1292,9 @@
       "Jovem",
       "Alegre",
       "De bem com a vida",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1217,7 +1318,9 @@
       "Diálogo",
       "Alto Astral",
       "Malandro",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1239,7 +1342,9 @@
       "Aerado",
       "Cool",
       "Carro",
-      "Flat"
+      "Flat",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1263,7 +1368,9 @@
       "Telefonia",
       "Operadora",
       "Flat",
-      "Assinatura"
+      "Assinatura",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1286,7 +1393,9 @@
       "Ofertas",
       "Jovem",
       "Forte",
-      "Rápido"
+      "Rápido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1306,7 +1415,9 @@
       "Caricato",
       "Bonitinho",
       "Brinquedo",
-      "Dinossauro"
+      "Dinossauro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1330,7 +1441,9 @@
       "Animal",
       "Cachorro",
       "Gato",
-      "Carinhoso"
+      "Carinhoso",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1352,7 +1465,9 @@
       "Site",
       "Domínio",
       "Informática",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1373,7 +1488,9 @@
       "Site",
       "Domínio",
       "Informática",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1397,7 +1514,9 @@
       "Prefeitura",
       "Empreendimentos",
       "Municipal",
-      "Ukulele"
+      "Ukulele",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1419,7 +1538,9 @@
       "Informal",
       "Normal",
       "Personagem",
-      "Ator"
+      "Ator",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1441,7 +1562,9 @@
       "Informal",
       "Normal",
       "Personagem",
-      "Ator"
+      "Ator",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1461,7 +1584,9 @@
       "Descritivo",
       "Professor",
       "Jovem",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1482,7 +1607,9 @@
       "Jovem",
       "Informal",
       "Animado",
-      "Carro"
+      "Carro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1511,7 +1638,9 @@
       "Ansioso",
       "Humor",
       "Dramático",
-      "Colorida"
+      "Colorida",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1539,7 +1668,9 @@
       "Dramático",
       "Colorida",
       "Balada",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1560,7 +1691,9 @@
       "Descritivo",
       "Jovem",
       "Animado",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1584,7 +1717,9 @@
       "Produtor rural",
       "De bem com a vida",
       "Ecologia",
-      "Sotaque Neutro"
+      "Sotaque Neutro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1607,7 +1742,9 @@
       "Jogo",
       "Misterioso",
       "Folgado",
-      "Arrogante"
+      "Arrogante",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1629,7 +1766,9 @@
       "Jogo",
       "Misterioso",
       "Folgado",
-      "Arrogante"
+      "Arrogante",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1652,7 +1791,9 @@
       "Aplicativo",
       "Comentado",
       "Engraçado",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1673,7 +1814,9 @@
       "Rápido",
       "Vendedor",
       "Tutorial",
-      "Citroen"
+      "Citroen",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1692,7 +1835,9 @@
       "Padrão",
       "Jovem",
       "Motivacional",
-      "Crescendo"
+      "Crescendo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1717,7 +1862,9 @@
       "Crescendo",
       "Animado",
       "Aerado",
-      "Sensual"
+      "Sensual",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1748,7 +1895,9 @@
       "Humilde",
       "Cantado",
       "Relutante",
-      "Agudo"
+      "Agudo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1768,7 +1917,9 @@
       "Blasé",
       "Folgado",
       "Malandro",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1789,7 +1940,9 @@
       "Blasé",
       "Folgado",
       "Malandro",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1814,7 +1967,9 @@
       "Tédio",
       "Chato",
       "Lento",
-      "Desanimado"
+      "Desanimado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1836,7 +1991,9 @@
       "Urgente",
       "Infantil",
       "Brinquedo",
-      "Data Comemorativa"
+      "Data Comemorativa",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1850,7 +2007,9 @@
       "Sorridente",
       "Farmacêutica",
       "Credibilidade",
-      "Forte"
+      "Forte",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1873,7 +2032,9 @@
       "Moderno",
       "Cool",
       "Blasé",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1894,7 +2055,9 @@
       "Infotainment",
       "App Connect",
       "Interno",
-      "Dramático"
+      "Dramático",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1911,7 +2074,9 @@
       "Jovem",
       "Feliz",
       "Governo",
-      "Institucional"
+      "Institucional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1930,7 +2095,9 @@
       "Jovem",
       "Estranho",
       "Varejo",
-      "Vendedor"
+      "Vendedor",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1950,7 +2117,9 @@
       "Jovem",
       "Estranho",
       "Varejo",
-      "Vendedor"
+      "Vendedor",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1969,7 +2138,9 @@
       "História",
       "Dublado",
       "Voz Original",
-      "Churrasco"
+      "Churrasco",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -1988,7 +2159,9 @@
       "Descritivo",
       "Padrão",
       "Jovem",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2009,7 +2182,9 @@
       "Educação",
       "Malandro",
       "Arrogante",
-      "Confiante"
+      "Confiante",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2025,7 +2200,9 @@
       "Apresentação",
       "Professor",
       "Sotaque",
-      "Internacional"
+      "Internacional",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2046,7 +2223,9 @@
       "Malandro",
       "Animado",
       "Informativo",
-      "Confiante"
+      "Confiante",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2069,7 +2248,9 @@
       "Energia",
       "Jovem",
       "Informal",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2094,7 +2275,9 @@
       "Simpático",
       "Jovem",
       "Informal",
-      "Amigo"
+      "Amigo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2116,7 +2299,9 @@
       "Padrão",
       "Informativo",
       "Simpático",
-      "Informal"
+      "Informal",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2141,7 +2326,9 @@
       "Informal",
       "Tutorial",
       "Amigo",
-      "Informativo"
+      "Informativo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2165,7 +2352,9 @@
       "Animado",
       "Cool",
       "Credibilidade",
-      "Amigo"
+      "Amigo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2185,7 +2374,9 @@
       "Malandro",
       "Animado",
       "Informativo",
-      "Confiante"
+      "Confiante",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2225,7 +2416,9 @@
       "Animado",
       "Faustão",
       "Olocomeu",
-      "Divertido"
+      "Divertido",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2246,7 +2439,9 @@
       "Informal",
       "Professor",
       "Amazônia",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2264,7 +2459,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2285,7 +2482,9 @@
       "Informal",
       "Professor",
       "Amazônia",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2303,7 +2502,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2324,7 +2525,9 @@
       "Informal",
       "Professor",
       "Amazônia",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2341,7 +2544,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2362,7 +2567,9 @@
       "Informal",
       "Professor",
       "Amazônia",
-      "Animado"
+      "Animado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2381,7 +2588,9 @@
       "Urbano",
       "São Paulo",
       "Transporte",
-      "Hispter"
+      "Hispter",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2398,7 +2607,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2415,7 +2626,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2432,7 +2645,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2449,7 +2664,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2470,7 +2687,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2487,7 +2706,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2507,7 +2728,9 @@
       "Concessionária",
       "Padrão",
       "Conceito",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2528,7 +2751,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2545,7 +2770,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2566,7 +2793,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2583,7 +2812,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2604,7 +2835,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2625,7 +2858,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2642,7 +2877,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2659,7 +2896,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2680,7 +2919,9 @@
       "Jovem",
       "Tranquilo",
       "Amigo",
-      "Padrão"
+      "Padrão",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2697,7 +2938,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2719,7 +2962,9 @@
       "Jovem",
       "Simpático",
       "Vendas",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2736,7 +2981,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2753,7 +3000,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2772,7 +3021,9 @@
       "Jovem",
       "Sarcástico",
       "Falado",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2795,7 +3046,9 @@
       "Interno",
       "Vendedor",
       "Simpático",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2813,7 +3066,9 @@
       "Jovem",
       "Sarcástico",
       "Falado",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2830,7 +3085,9 @@
       "Pós-venda",
       "Concessionária",
       "Padrão",
-      "Interno"
+      "Interno",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2848,7 +3105,9 @@
       "Jovem",
       "Sarcástico",
       "Falado",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2866,7 +3125,9 @@
       "Jovem",
       "Sarcástico",
       "Falado",
-      "Malandro"
+      "Malandro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2883,7 +3144,9 @@
       "Interpretado",
       "Previdência",
       "Banco",
-      "Financeiro"
+      "Financeiro",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2902,7 +3165,9 @@
       "Banco",
       "Financeiro",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2922,7 +3187,9 @@
       "Vendas",
       "Treinamento",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2943,7 +3210,9 @@
       "Manual",
       "Treinamento",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2961,7 +3230,9 @@
       "Interno",
       "Treinamento",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -2981,7 +3252,9 @@
       "Manual",
       "Interno",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3003,7 +3276,9 @@
       "Vendas",
       "Manual",
       "Otimista",
-      "Positivo"
+      "Positivo",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3025,7 +3300,9 @@
       "Interno",
       "Vendedor",
       "Simpático",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3044,7 +3321,9 @@
       "Banco",
       "Financeiro",
       "Amigo",
-      "Jovem Adulto"
+      "Jovem Adulto",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3065,7 +3344,9 @@
       "Futuro",
       "Misterioso",
       "Sensual",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3087,7 +3368,9 @@
       "Interno",
       "Vendedor",
       "Simpático",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3109,7 +3392,9 @@
       "Interno",
       "Vendedor",
       "Simpático",
-      "Jovem"
+      "Jovem",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3131,7 +3416,9 @@
       "Prefeitura",
       "Aplicativo",
       "Transporte",
-      "Oficial"
+      "Oficial",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3154,7 +3441,9 @@
       "Inspiracional",
       "Forest Gump",
       "Sonhador",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   },
   {
@@ -3178,7 +3467,9 @@
       "Inspiracional",
       "Forest Gump",
       "Sonhador",
-      "Impostado"
+      "Impostado",
+      "Locutor",
+      "Locução"
     ]
   }
 ]

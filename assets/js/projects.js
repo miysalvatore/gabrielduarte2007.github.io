@@ -275,7 +275,7 @@ const showModal = function (project) {
 
     // Display modal and hide body's overflow
 
-    const modalContent = $('.modal-content');
+    const modalContent = $('.modal-content').parent();
     modalContent.css({
         'opacity': 0,
     });

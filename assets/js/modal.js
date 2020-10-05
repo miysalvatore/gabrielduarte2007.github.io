@@ -47,3 +47,13 @@ body.on('click', function (event) {
         hideModal();
     }
 });
+
+body.on('keydown', function (event) {
+    const isShowingModal = modal.css('display') !== 'none';
+
+    if (isShowingModal
+        && !isHidingModal
+        && event.key === 'Escape') {
+        hideModal();
+    }
+});

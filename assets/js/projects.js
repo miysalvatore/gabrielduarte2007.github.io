@@ -43,6 +43,10 @@ $.getJSON('data/colors.json', function (data) {
 });
 
 $.getJSON('data/projects.json', function (data) {
+    data.forEach(function (project, index) {
+        data[index].tags = Array.from(new Set(project.tags));
+    });
+
     projects = data;
 
     dataReady();
@@ -89,7 +93,7 @@ const getYouTubeVideoId = function (project) {
 
 const getYouTubeImageUrl = function (project, highRes = false) {
     if (!project.youtube) {
-        console.error(`Project ${project.id} is a VIDEO without youtube url.`)
+        console.error(`Project ${project.id} is a VIDEO without youtube url.`);
         return 'YOUTUBE_URL_NOT_FOUND';
     }
 
@@ -261,7 +265,7 @@ const showModal = function (project) {
                 const chips = getChipsInstance();
 
                 chips.addChip({
-                    tag: $(this).text()
+                    tag: $(this).text(),
                 });
 
                 event.preventDefault();
@@ -273,13 +277,13 @@ const showModal = function (project) {
 
     const modalContent = $('.modal-content');
     modalContent.css({
-        'opacity': 0
+        'opacity': 0,
     });
 
     projectDetailsModal.show();
 
     modalContent.animate({
-        'opacity': 1
+        'opacity': 1,
     });
 
     lastScrollY = window.pageYOffset;
@@ -330,7 +334,7 @@ function createTagsElements(projectElement, tags) {
     if (tagsLength - tagsAmount - 1 > 0) {
         const projectTagClone = projectTagBase.clone();
         projectTagClone.text(`${tagsLength - tagsAmount - 1}+`);
-        projectTagClone.addClass('project__tag--more-tags')
+        projectTagClone.addClass('project__tag--more-tags');
         projectTagsElement.append(projectTagClone);
     }
 
@@ -358,7 +362,7 @@ const createProjectElement = function (project, index) {
     const imagemBackgroundElement = imageElement.find('.project__image');
 
     const cssImageProperties = {
-        'background-image': `url('${imageUrl}')`
+        'background-image': `url('${imageUrl}')`,
     };
 
     // Override images size and position
@@ -444,9 +448,21 @@ const loadEvents = function () {
     $('.tag').not('.project__tag--more-tags').on('click', function (event) {
         const chips = getChipsInstance();
 
-        chips.addChip({
-            tag: $(this).text()
+        const tagText = $(this).text();
+
+        const currentChips = chips.chipsData.map(function (chip) {
+            return chip.tag;
         });
+
+        const isTagAdded = currentChips.includes(tagText);
+
+        if (isTagAdded) {
+            chips.deleteChip(currentChips.indexOf(tagText));
+        } else {
+            chips.addChip({
+                tag: tagText,
+            });
+        }
 
         event.preventDefault();
         event.stopPropagation();
@@ -574,7 +590,7 @@ const loadAutocomplete = function () {
                 const keywords = project.tags
                     .concat(
                         project.titulo.split(' '),
-                        project.subtitulo ? project.subtitulo.split(' ') : []
+                        project.subtitulo ? project.subtitulo.split(' ') : [],
                     );
 
                 const found =
@@ -582,9 +598,9 @@ const loadAutocomplete = function () {
                             return keywords.some(function (keyword) {
                                     return clearString(keyword).includes(clearString(tag))
                                         || levenshteinDistance(clearString(keyword), clearString(tag)) <= levenshteinFactor;
-                                }
+                                },
                             );
-                        }
+                        },
                     );
 
                 if (found) {
@@ -685,7 +701,7 @@ const loadAutocomplete = function () {
 
                 const tags = [
                     ...foundTags,
-                    ...notFoundTags
+                    ...notFoundTags,
                 ];
 
                 for (let i = 0; i < Math.min(visibleTagsAmount, tags.length); i++) {
@@ -711,8 +727,8 @@ const loadAutocomplete = function () {
         updateProjectsElementsColor();
     };
 
-    const placeholderDesktop = 'Busque por cliente, mood, interpretação, tipo da peça etc.';
-    const placeholderMobile = 'Cliente, mood etc.';
+    const placeholderDesktop = 'Busque por cliente, clima, interpretação, tipo da peça, área de atuação, etc';
+    const placeholderMobile = 'Cliente, clima, interpretação, etc';
 
     const isMobile = window.innerWidth <= 620;
 
@@ -721,7 +737,7 @@ const loadAutocomplete = function () {
         autocompleteOptions: {
             data: autocompleteData,
             limit: Infinity,
-            minLength: 1
+            minLength: 1,
         },
         onChipAdd: function () {
             updateSearch();
@@ -743,7 +759,7 @@ const loadAutocomplete = function () {
             const chips = getChipsInstance();
 
             chips.deleteChip($(chip).index());
-        }
+        },
     });
 };
 
@@ -785,7 +801,7 @@ const loadCurrentUrl = function (popped) {
         }
 
         tags.forEach(function (tag) {
-            return chips.addChip({tag});
+            return chips.addChip({ tag });
         });
     } else {
         for (let i = 0; i < chips.chipsData.length; i++) {
@@ -819,5 +835,5 @@ const dataReady = function () {
 
     window.onpopstate = function () {
         loadCurrentUrl(true);
-    }
+    };
 };

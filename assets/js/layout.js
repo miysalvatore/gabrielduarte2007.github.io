@@ -3,8 +3,8 @@ const moveTo = function (
     element,
     options = {
         container: undefined,
-        callback: undefined
-    }
+        callback: undefined,
+    },
 ) {
     if (!options.container) {
         options.container = $('html, body');
@@ -14,11 +14,11 @@ const moveTo = function (
         if (options.callback) {
             options.callback();
         }
-    }
+    };
 
     options.container
         .animate({
-            scrollTop: element.offset().top - 87
+            scrollTop: element.offset().top - 87,
         }, 'slow', callbackWrapper);
 };
 
@@ -73,7 +73,10 @@ $(function () {
         if (projectShareLink.css('display') === 'none') {
             projectShareLink.slideDown(duration, function () {
                 selectProjectUrlInput();
-                projectShareLinkCopy.trigger('click');
+
+                setTimeout(function () {
+                    projectShareLinkCopy.trigger('click');
+                }, 100);
             });
         } else {
             projectShareLink.slideUp(duration);
@@ -133,13 +136,13 @@ $(function () {
     const showModalSobre = function () {
         const modalContent = $('.modal-content');
         modalContent.css({
-            'opacity': 0
+            'opacity': 0,
         });
 
         $('#sobre').show();
 
         modalContent.animate({
-            'opacity': 1
+            'opacity': 1,
         });
 
         lastScrollY = window.pageYOffset;
@@ -155,7 +158,7 @@ $(function () {
         return false;
     });
 
-    $('#sobre').on('click', function() {
+    $('#sobre').on('click', function () {
         const modalSobre = $(this);
 
         $('body').removeClass('modal-open');
@@ -165,7 +168,7 @@ $(function () {
         const modalContent = $('.modal-content');
 
         modalContent.animate({
-            'opacity': 0
+            'opacity': 0,
         }, 600, function () {
             modalSobre.hide();
         });
@@ -190,9 +193,12 @@ $(function () {
         });
     });
 
-    if(!/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+    if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
         iconsPopover.on('click', function (event) {
             event.preventDefault();
         });
     }
+
+    const url = new URL(document.URL);
+    $('#header .header__title a').attr('href', url.origin + url.pathname);
 });

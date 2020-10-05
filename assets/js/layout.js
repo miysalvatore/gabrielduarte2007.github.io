@@ -165,7 +165,7 @@ $(function () {
 
         window.scrollTo(0, lastScrollY);
 
-        const modalContent = $('.modal-content');
+        const modalContent = $('.modal-content').parent();
 
         modalContent.animate({
             'opacity': 0,

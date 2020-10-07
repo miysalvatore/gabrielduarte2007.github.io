@@ -379,11 +379,6 @@ const createProjectElement = function (project, index) {
         cssImageProperties['background-size'] = `${width} ${height}`;
     }
 
-    if (project.tipo === 'AUDIO' && !project.imagem_largura) {
-        const height = project.imagem_altura || originalSize[1];
-        cssImageProperties['background-size'] = `100% ${height}`;
-    }
-
     // Apply CSS image properties
 
     imagemBackgroundElement.css(cssImageProperties);

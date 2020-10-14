@@ -56,6 +56,28 @@
     ]
   },
   {
+    "id": "Johnnie Walker - Nova Jornada",
+    "titulo": "Johnnie Walker",
+    "subtitulo": "Nova Jornada",
+    "tipo": "VIDEO",
+    "youtube": "https://www.youtube.com/watch?v=vOBeL8dRrks&feature=youtu.be",
+    "principal": true,
+    "tags": [
+      "Moderno",
+      "Descolado",
+      "Blasé",
+      "Uísque",
+      "Whisky",
+      "Bebida",
+      "Nacionalização",
+      "Localização",
+      "Relaxado",
+      "Distorcido",
+      "Filtro",
+      "Motivacional"
+    ]
+  },
+  {
     "id": "Volkswagen - Nivus",
     "titulo": "Volkswagen",
     "subtitulo": "Lançamento Nivus",

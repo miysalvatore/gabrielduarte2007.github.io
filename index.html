@@ -1,275 +1,339 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <!--
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-<head>
+<html lang="pt-BR">
+  <head>
     <title>Gabriel Duarte - Portfólio de Locução</title>
-    <link rel="shortcut icon" href="favicon.ico">
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <!-- Adicionar keyword Locutor no title -->
+    <meta property="og:title" content="Gabriel Duarte" />
+    <link rel="shortcut icon" href="locutor-microfone.ico" />
+    <meta charset="utf-8" />
+    <meta
+      name="description"
+      content="Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+    />
+    <meta
+      name="keywords"
+      content="Locutor, Locução, Gabriel Duarte, Locutor Gabriel"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=yes"
+    />
+    <link rel=“canonical” href=”https://locutorgabriel.com.br/”/>
 
     <!-- Libraries -->
-    <link rel="stylesheet" href="assets/css/popover.css"/>
+    <link rel="stylesheet" href="assets/css/popover.css" />
 
-    <link href="assets/css/material-icons.css" rel="stylesheet">
+    <link href="assets/css/material-icons.css" rel="stylesheet" />
     <!--    <link rel="stylesheet" href="assets/css/materialize.min.css">-->
 
-    <link href="assets/css/chips.css" rel="stylesheet">
+    <link href="assets/css/chips.css" rel="stylesheet" />
 
     <!-- Template -->
 
-    <link rel="stylesheet" href="assets/css/main.css"/>
+    <link rel="stylesheet" href="assets/css/main.css" />
 
     <noscript>
-        <link rel="stylesheet" href="assets/css/noscript.css"/>
+      <link rel="stylesheet" href="assets/css/noscript.css" />
     </noscript>
 
     <!-- Custom -->
 
-    <link rel="stylesheet" href="assets/css/modal.css"/>
-    <link rel="stylesheet" href="assets/css/style.css"/>
-</head>
-<body class="is-preload">
-
-<div id="sobre" class="modal">
-    <div class="modal-content" align="center">
-        Eu comecei a trabalhar com áudio e música para filmes no mercado publicitário em 2010.<br>
-        Durante esse tempo, tive a oportunidade de produzir muitas peças pra agências e clientes prestigiados.<br>
-        Em 2014 comecei a gravar locução e nunca mais parei.<br>
-        <br>
-        <img src="images/gabriel duarte.png" class="modal__image" alt="Gabriel Duarte">
+    <link rel="stylesheet" href="assets/css/modal.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body class="is-preload">
+    <div id="sobre" class="modal">
+      <div class="modal-content">
+        Eu comecei a trabalhar com áudio e música para filmes no mercado
+        publicitário em 2010.<br />
+        Durante esse tempo, tive a oportunidade de produzir muitas peças pra
+        agências e clientes prestigiados.<br />
+        Em 2014 comecei a gravar locução e nunca mais parei.<br />
+        <br />
+        <img
+          src="images/locutor_gabriel_duarte.png"
+          class="modal__image"
+          alt="Gabriel Duarte"
+          title="Locutor Gabriel Duarte"
+        />
+      </div>
     </div>
-</div>
 
-<div id="project_details" class="modal">
-
-    <div class="modal-content" align="center">
-
+    <div id="project_details" class="modal">
+      <div class="modal-content">
         <!-- Soundcloud Iframe-->
         <div id="soundcloud_iframe_wrapper"></div>
 
         <!--YouTube Iframe-->
         <div id="youtube_iframe_wrapper"></div>
 
-        <iframe id="youtube_iframe" width="100%" src="" frameborder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
+        <iframe
+          id="youtube_iframe"
+          src="#"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
 
         <div class="project__share_buttons">
-            <a class="button project__button project__share_buttons-link"><span class="fa link-icon"></span>
-                Compartilhar Link</a>
-            <a id="media_video_button" class="button project__button" download><span class="fa fa-download"></span>
-                Baixar Vídeo</a>
-            <a id="media_audio_button" class="button project__button" download><span class="fa fa-download"></span>
-                Baixar Áudio</a>
+          <a class="button project__button project__share_buttons-link"
+            ><span class="fa link-icon"></span> Compartilhar Link</a
+          >
+          <a
+            href="#"
+            id="media_video_button"
+            class="button project__button"
+            download
+            ><span class="fa fa-download"></span> Baixar Vídeo</a
+          >
+          <a
+            href="#"
+            id="media_audio_button"
+            class="button project__button"
+            download
+            ><span class="fa fa-download"></span> Baixar Áudio</a
+          >
         </div>
 
         <div class="project__share_link project__share_link--project">
-            <input type="text"
-                   class="project__share_link_url"
-                   readonly
-                   value=""/>
+          <input
+            type="text"
+            class="project__share_link_url"
+            readonly
+            value=""
+          />
 
-            <div class="project__share_link_copy"
-                 data-container="body"
-                 data-toggle="popover"
-                 data-placement="top"
-                 data-offset="0, 0"
-                 data-content="Link copiado para a área de transferência.">
-                Copiar
-            </div>
+          <div
+            class="project__share_link_copy"
+            data-container="body"
+            data-toggle="popover"
+            data-placement="top"
+            data-offset="0, 0"
+            data-content="Link copiado para a área de transferência."
+          >
+            Copiar
+          </div>
         </div>
 
         <div class="content project__tags"></div>
-
+      </div>
     </div>
 
-</div>
-
-<!-- Wrapper -->
-<div id="wrapper">
-
-    <!-- Header -->
-    <header id="header">
-
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Header -->
+      <header id="header">
         <h1 class="header__title"><a href="/">Gabriel Duarte</a></h1>
-        <span class="title logo">- Portfólio de locução -</span><br>
+        <!--Add h1 keyword Locutor Gabriel Duarte -->
+        <span class="title logo">- Portfólio de locução -</span><br />
         <a href="#sobre" class="title logo">- Sobre -</a>
         <section>
-            <ul class="icons">
-                <li>
-                    <a href="https://api.whatsapp.com/send/?phone=5511986686443" target="_blank"
-                       class="icon brands style2 fa-whatsapp"><span class="label">Whatsapp</span></a>
-                </li>
-                <li>
-                    <a class="icons__popover icons__phone icon solid style2 fa-phone"
-                         href="tel:5511986686443"
-                         data-container="body"
-                         data-toggle="popover"
-                         data-placement="top"
-                         data-offset="0, 10"
-                         data-content="+55 11 98668-6443">
-                        <span class="label">Telefone</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="mailto:presto.gabriel@gmail.com"
-                       class="icons__popover icon solid style2 fa-envelope"
-                       data-container="body"
-                       data-toggle="popover"
-                       data-placement="top"
-                       data-offset="0, 10"
-                       data-content="presto.gabriel@gmail.com"><span class="label">E-mail</span></a>
-                </li>
-                <li>
-                    <a href="https://www.facebook.com/gabrielduarte2007"
-                       target="_blank"
-                       class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a>
-                </li>
-                <li>
-                    <a href="https://www.instagram.com/gabrielduarte_loc/"
-                       target="_blank"
-                       class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a>
-                </li>
-                <li>
-                    <a href="https://soundcloud.com/gabrielduarte/sets/selecao-de-trabalhos"
-                       target="_blank"
-                       class="icon brands style2 fa-soundcloud"><span class="label">Soundcloud</span></a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/user/zeroaeskerda/playlists"
-                       target="_blank"
-                       class="icon brands style2 fa-youtube"><span class="label">YouTube</span></a>
-                </li>
-            </ul>
+          <ul class="icons">
+            <li>
+              <a
+                href="https://api.whatsapp.com/send/?phone=5511986686443"
+                target="_blank"
+                class="icon brands style2 fa-whatsapp"
+                ><span class="label">Whatsapp</span></a
+              >
+            </li>
+            <li>
+              <a
+                class="icons__popover icons__phone icon solid style2 fa-phone"
+                href="tel:5511986686443"
+                data-container="body"
+                data-toggle="popover"
+                data-placement="top"
+                data-offset="0, 10"
+                data-content="+55 11 98668-6443"
+              >
+                <span class="label">Telefone</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="mailto:presto.gabriel@gmail.com"
+                class="icons__popover icon solid style2 fa-envelope"
+                data-container="body"
+                data-toggle="popover"
+                data-placement="top"
+                data-offset="0, 10"
+                data-content="presto.gabriel@gmail.com"
+                ><span class="label">E-mail</span></a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.facebook.com/gabrielduarte2007"
+                target="_blank"
+                class="icon brands style2 fa-facebook-f"
+                ><span class="label">Facebook</span></a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/gabrielduarte_loc/"
+                target="_blank"
+                class="icon brands style2 fa-instagram"
+                ><span class="label">Instagram</span></a
+              >
+            </li>
+            <li>
+              <a
+                href="https://soundcloud.com/gabrielduarte/sets/selecao-de-trabalhos"
+                target="_blank"
+                class="icon brands style2 fa-soundcloud"
+                ><span class="label">Soundcloud</span></a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/user/zeroaeskerda/playlists"
+                target="_blank"
+                class="icon brands style2 fa-youtube"
+                ><span class="label">YouTube</span></a
+              >
+            </li>
+          </ul>
         </section>
+      </header>
 
-    </header>
-
-    <!-- Main -->
-    <div id="main">
-
+      <!-- Main -->
+      <div id="main">
         <div class="inner">
-            <div class="project-search">
-                <span class="icon solid search-icon style2 fa-search label"></span>
+          <div class="project-search">
+            <span class="icon solid search-icon style2 fa-search label"></span>
 
-                <div class="chips chips-autocomplete"></div>
+            <div class="chips chips-autocomplete"></div>
 
-                <input type="button"
-                       class="project-search__button primary"
-                       value="Buscar"/>
-            </div>
+            <input
+              type="button"
+              class="project-search__button primary"
+              value="Buscar"
+            />
+          </div>
 
-            <div class="project-share-search-wrapper">
-                <div class="project-share-search">
-                    <a class="button project__button project-share-search__button"><span class="fa link-icon"></span>
-                        Compartilhe essa busca</a>
+          <div class="project-share-search-wrapper">
+            <div class="project-share-search">
+              <a class="button project__button project-share-search__button"
+                ><span class="fa link-icon"></span> Compartilhe essa busca</a
+              >
 
-                    <div class="project__share_link project__share_link--search">
-                        <div class="project__search-share_link_copy"
-                             data-container="body"
-                             data-toggle="popover"
-                             data-placement="top"
-                             data-offset="0, 10"
-                             data-content="Link copiado para a área de transferência.">
-                            Copiar
-                        </div>
-
-                        <input type="text"
-                               class="project__search_share_link_url"
-                               readonly
-                               value=""/>
-                    </div>
+              <div class="project__share_link project__share_link--search">
+                <div
+                  class="project__search-share_link_copy"
+                  data-container="body"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-offset="0, 10"
+                  data-content="Link copiado para a área de transferência."
+                >
+                  Copiar
                 </div>
+
+                <input
+                  type="text"
+                  class="project__search_share_link_url"
+                  readonly
+                  value=""
+                />
+              </div>
             </div>
+          </div>
 
-            <section id="projects" class="tiles">
+          <section id="projects" class="tiles">
+            <article id="project_base" class="project">
+              <div class="image">
+                <div class="project__image"></div>
+              </div>
 
-                <article id="project_base" class="project">
-                    <div class="image">
-                        <div class="project__image"></div>
-                    </div>
+              <a href="#" class="link">
+                <h2 class="project__title">Title</h2>
+                <h3 class="project__subtitle">Subtitle</h3>
+              </a>
 
-                    <a href="#" class="link">
-                        <h2 class="project__title">Title</h2>
-                        <h3 class="project__subtitle">Subtitle</h3>
-                    </a>
-
-                    <div class="content project__tags"></div>
-                </article>
-
-            </section>
+              <div class="content project__tags"></div>
+            </article>
+          </section>
         </div>
+      </div>
+
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <ul class="copyright">
+            <li>&copy; Gabriel Duarte. Todos os direitos reservados</li>
+          </ul>
+        </div>
+      </footer>
     </div>
 
-    <!-- Footer -->
-    <footer id="footer">
-        <div class="inner">
-            <ul class="copyright">
-                <li>&copy; Gabriel Duarte. Todos os direitos reservados</li>
-            </ul>
-        </div>
-    </footer>
+    <!-- Extensions -->
+    <script src="assets/js/array.extensions.js"></script>
 
-</div>
+    <!-- Libraries -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script
+      src="assets/js/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="assets/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+    <script src="assets/js/levenshtein.js"></script>
+    <script src="assets/js/download.js"></script>
+    <script src="assets/js/materialize.min.js"></script>
 
-<!-- Extensions -->
-<script src="assets/js/array.extensions.js"></script>
+    <!-- Template Scripts -->
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
 
-<!-- Libraries -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/browser.min.js"></script>
-<script src="assets/js/breakpoints.min.js"></script>
-<script src="assets/js/popper.min.js"
-        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-        crossorigin="anonymous"></script>
-<script src="assets/js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
-<script src="assets/js/levenshtein.js"></script>
-<script src="assets/js/download.js"></script>
-<script src="assets/js/materialize.min.js"></script>
+    <!-- Custom scripts -->
+    <script src="assets/js/search.js"></script>
+    <script src="assets/js/modal.js"></script>
+    <script src="assets/js/layout.js"></script>
+    <script src="assets/js/projects.js"></script>
 
-<!-- Template Scripts -->
-<script src="assets/js/util.js"></script>
-<script src="assets/js/main.js"></script>
-
-<!-- Custom scripts -->
-<script src="assets/js/search.js"></script>
-<script src="assets/js/modal.js"></script>
-<script src="assets/js/layout.js"></script>
-<script src="assets/js/projects.js"></script>
-
-<!-- Hotjar -->
-<script>
-    (function (h, o, t, j, a, r) {
-        h.hj = h.hj || function () {
-            (h.hj.q = h.hj.q || []).push(arguments)
-        };
-        h._hjSettings = {hjid: 1961038, hjsv: 6};
-        a = o.getElementsByTagName('head')[0];
-        r = o.createElement('script');
+    <!-- Hotjar -->
+    <script>
+      (function (h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function () {
+            (h.hj.q = h.hj.q || []).push(arguments);
+          };
+        h._hjSettings = { hjid: 1961038, hjsv: 6 };
+        a = o.getElementsByTagName("head")[0];
+        r = o.createElement("script");
         r.async = 1;
         r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
         a.appendChild(r);
-    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
-</script>
+      })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
+    </script>
 
-<!-- Google Analytics -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176390028-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
+    <!-- Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-176390028-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
+      function gtag() {
         dataLayer.push(arguments);
-    }
+      }
 
-    gtag('js', new Date());
+      gtag("js", new Date());
 
-    gtag('config', 'UA-176390028-1');
-</script>
-
-</body>
+      gtag("config", "UA-176390028-1");
+    </script>
+  </body>
 </html>

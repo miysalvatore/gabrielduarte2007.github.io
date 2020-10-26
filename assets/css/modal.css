@@ -25,6 +25,7 @@
 
 #youtube_iframe {
     height: calc(100vh - 215px);
+    width: 100%;
 }
 
 @media screen and (max-width: 600px) {
